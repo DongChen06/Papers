@@ -16,8 +16,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Multi Agent
 ### Collaboration
 - **ConsensusNet: Zhang, Kaiqing, et al. "Fully decentralized multi-agent reinforcement learning with networked agents." arXiv preprint arXiv:1802.08757 (2018).**
-
-> The critic is fully decentralized but each takes global observations and performs consensus updates.
+> Actor-Critic: the actor step is performed individually by each agent without the need to infer the policies of others. For the critic step, each agent shares its estimate of the value function with its neighbors on the network, so that a consensual estimate is achieved, which is further used in the subsequent actor step.
 
 
 ### Competition
