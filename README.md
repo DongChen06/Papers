@@ -5,6 +5,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 * [Reinforcement Learning](#reinforcement-Learning)
   * [Single Agent](#single-agent)
   * [Multi Agent](#multi-agent)
+    * [Survey](#survey)
     * [Policy-based](#policy-based)
     * [Value-based](#value-based)
 
@@ -14,6 +15,10 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Single Agent
 
 ## Multi Agent
+
+### Survey
+
+
 ### Policy-based
 
 - **ConsensusNet: Zhang, Kaiqing, et al. "Fully decentralized multi-agent reinforcement learning with networked agents." arXiv preprint arXiv:1802.08757 (2018).**
