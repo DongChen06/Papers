@@ -13,7 +13,7 @@ Papers related to machine learning, deep learning and reinforcement learning
     * [Policy-based](#policy-based)
 
 * [Autonomous Driving](#autonomous-driving)
-  * [Single Agent](#single-agent)
+  * [Single Agent AD](#single-agent-aD)
 
 # Reinforcement Learning
 
@@ -62,7 +62,7 @@ action-values as a complex non-linear combination of per-agent values that condi
 
 # Autonomous Driving
 
-## Single Agent
+## Single Agent AD
 
 - **Mavrogiannis, Angelos, Rohan Chandra, and Dinesh Manocha. "B-GAP: Behavior-Guided Action Prediction for Autonomous Navigation." arXiv preprint arXiv:2011.03748 (2020).**
 > We use a reinforcement learning-based navigation scheme that uses a proximity graph (graph convolutional network (GCN) of traffic agents and computes a safe trajectory for the ego-vehicle that accounts for aggressive driver maneuvers such as overtaking, over-speeding, weaving, and sudden lane changes. 
