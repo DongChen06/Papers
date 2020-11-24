@@ -66,3 +66,7 @@ action-values as a complex non-linear combination of per-agent values that condi
 
 - **Mavrogiannis, Angelos, Rohan Chandra, and Dinesh Manocha. "B-GAP: Behavior-Guided Action Prediction for Autonomous Navigation." arXiv preprint arXiv:2011.03748 (2020).**
 > We use a reinforcement learning-based navigation scheme that uses a proximity graph (graph convolutional network (GCN) of traffic agents and computes a safe trajectory for the ego-vehicle that accounts for aggressive driver maneuvers such as overtaking, over-speeding, weaving, and sudden lane changes. 
+
+- **Bouton, Maxime, et al. "Reinforcement Learning with Iterative Reasoning for Merging in Dense Traffic." arXiv preprint arXiv:2005.11895 (2020).**
+> we propose a combination of reinforcement learning and game theory to learn merging behaviors. We design a training curriculum for a reinforcement learning agent using the concept of level-k behavior. This approach exposes the agent to a broad variety of behaviors during training, which promotes learning policies that are robust to model discrepancies.
+
