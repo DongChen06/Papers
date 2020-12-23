@@ -11,6 +11,8 @@ Papers related to machine learning, deep learning and reinforcement learning
     * [Survey](#survey)
     * [Value-based](#value-based)
     * [Policy-based](#policy-based)
+    * [Parameter Sharing](#parameter-sharing)
+    * [Graph Convolutional Reinforcement Learning](#graph-convolutional-reinforcement-learning)
 
 * [Autonomous Driving](#autonomous-driving)
   * [Single Agent AD](#single-agent-aD)
@@ -58,6 +60,19 @@ action-values as a complex non-linear combination of per-agent values that condi
 - **NeurComm: Chu, Tianshu, Sandeep Chinchali, and Sachin Katti. "Multi-agent Reinforcement Learning for Networked System Control." arXiv preprint arXiv:2004.01339 (2020).**
 > Actor-Critic: introduce a spatial discount factor to stabilize training, especially for non-communicative algorithms. We propose a new neural defferentiable communication protocol to adaptively share information on both system states and agent behaviors. 
 
+### Parameter Sharing
+
+- Gupta, Jayesh K., Maxim Egorov, and Mykel Kochenderfer. **"Cooperative multi-agent control using deep reinforcement learning." International Conference on Autonomous Agents and Multiagent Systems**. Springer, Cham, 2017.
+
+- Lin, Kaixiang, et al. **"Efficient large-scale fleet management via multi-agent deep reinforcement learning."** Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2018.
+
+
+
+### Graph Convolutional Reinforcement Learning
+
+- Jiang, Jiechuan, et al. **"Graph convolutional reinforcement learning."** arXiv preprint arXiv:1810.09202 (2018).
+
+- Dong, Jiqian, et al. **"A DRL-based Multiagent Cooperative Control Framework for CAV Networks: a Graphic Convolution Q Network."** arXiv preprint arXiv:2010.05437 (2020).
 
 
 # Autonomous Driving
