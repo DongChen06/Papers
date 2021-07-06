@@ -13,7 +13,15 @@ Papers related to machine learning, deep learning and reinforcement learning
     * [Policy-based](#policy-based)
     * [Parameter Sharing](#parameter-sharing)
     * [Graph Convolutional Reinforcement Learning](#graph-convolutional-reinforcement-learning)
-
+  * [Model Based](#model-based)
+    * xx
+      
+* [Meta Learning](#meta-Learning)
+  * [Meta Learning](#meta-learning)
+  * [Meta MARL](#meta-marl)
+  * [Offline Meta](#offline-meta)
+  * [Meta Traffic Applications](#meta-traffic-applications)
+  
 * [Autonomous Driving](#autonomous-driving)
   * [Single Agent AD](#single-agent-aD)
 
@@ -73,6 +81,34 @@ action-values as a complex non-linear combination of per-agent values that condi
 - Jiang, Jiechuan, et al. **"Graph convolutional reinforcement learning."** arXiv preprint arXiv:1810.09202 (2018).
 
 - Dong, Jiqian, et al. **"A DRL-based Multiagent Cooperative Control Framework for CAV Networks: a Graphic Convolution Q Network."** arXiv preprint arXiv:2010.05437 (2020).
+
+
+## Model Based
+
+
+# Meta Learning
+
+## Meta Learning
+- MAML: Finn, Chelsea, Pieter Abbeel, and Sergey Levine. **"Model-agnostic meta-learning for fast adaptation of deep networks."** International Conference on Machine Learning. PMLR, 2017.
+- Reptile: Nichol, Alex, Joshua Achiam, and John Schulman. **"On first-order meta-learning algorithms."** arXiv preprint arXiv:1803.02999 (2018).
+- PEARL: Rakelly, Kate, et al. **"Efficient off-policy meta-reinforcement learning via probabilistic context variables." International conference on machine learning.** PMLR, 2019.
+- MAML++: Antoniou, Antreas, Harrison Edwards, and Amos Storkey. **"How to train your MAML."** arXiv preprint arXiv:1810.09502 (2018).
+- 
+
+## Meta MARL
+- Parisotto, Emilio, et al. **"Concurrent meta reinforcement learning."** arXiv preprint arXiv:1903.02710 (2019).
+- Chen, Long, et al. **"Multiagent Meta-Reinforcement Learning for Adaptive Multipath Routing Optimization."** IEEE Transactions on Neural Networks and Learning Systems (2021).
+- Munir, Md Shirajum, et al. **"Multi-Agent Meta-Reinforcement Learning for Self-Powered and Sustainable Edge Computing Systems."** IEEE Transactions on Network and Service Management (2021).
+- Gupta, Abhinav, Angeliki Lazaridou, and Marc Lanctot. **"Meta Learning for Multi-agent Communication."** Learning to Learn-Workshop at ICLR 2021. 2021.
+
+
+## Offline Meta
+- Mitchell, Eric, et al. **"Offline Meta-Reinforcement Learning with Advantage Weighting."** arXiv preprint arXiv:2008.06043 (2020).
+- Li, Lanqing, Rui Yang, and Dijun Luo. **"FOCAL: Efficient Fully-Offline Meta-Reinforcement Learning via Distance Metric Learning and Behavior Regularization."** arXiv preprint arXiv:2010.01112 (2020).
+
+
+## Meta Traffic Applications
+- 
 
 
 # Autonomous Driving
