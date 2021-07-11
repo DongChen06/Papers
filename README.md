@@ -7,7 +7,13 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Value-based](#value-based)
   * [Policy-based](#policy-based)
   * [Model Based](#model-based)
-  * [Traffic Applications](#traffic-applications)
+  * [Offline RL](#offline-rl)
+  * [Imitation Learning](#imitation-learning)
+  * [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
+  * [Transfer Learning](#transfer-learning)
+  * [Applications](#applications)
+    * [Intelligent Transportation Systems](#intelligent-transportation-systems)
+    * [Gaming](#gaming)
 
   
 * [Multi Agent Reinforcement Learning](#multi-agent-reinforcement-learning)
@@ -18,7 +24,10 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Graph Convolutional Reinforcement Learning](#graph-convolutional-reinforcement-learning)
   * [Offline MARL](#offline-marl)
   * [Traffic Applications](#traffic-applications)
+    * [Autonomous Driving](#autonomous-driving)
+    * [Traffic Signal Control](#traffic-signal-control)
       
+
 * [Meta Learning](#meta-Learning)
   * [Meta Learning](#meta-learning)
   * [Meta MARL](#meta-marl)
@@ -38,20 +47,68 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 ## Policy-based
 
+
+
 ## Offline RL
 - Survey: Levine, Sergey, et al. **"Offline reinforcement learning: Tutorial, review, and perspectives on open problems."** arXiv preprint arXiv:2005.01643 (2020).
-- BCQ: Fujimoto, Scott, David Meger, and Doina Precup. **"Off-policy deep reinforcement learning without exploration."** International Conference on Machine Learning. PMLR, 2019.
-- 
 
+- BCQ: Fujimoto, Scott, David Meger, and Doina Precup. **"Off-policy deep reinforcement learning without exploration."** International Conference on Machine Learning. PMLR, 2019.
+
+- Lee, Seunghyun, et al. **"Offline-to-Online Reinforcement Learning via Balanced Replay and Pessimistic Q-Ensemble."** arXiv preprint arXiv:2107.00591 (2021).
+
+- Janner, Michael, Qiyang Li, and Sergey Levine. **"Reinforcement Learning as One Big Sequence Modeling Problem."** arXiv preprint arXiv:2106.02039 (2021).
+
+- Fujimoto, Scott, and Shixiang Shane Gu. **"A Minimalist Approach to Offline Reinforcement Learning."** arXiv preprint arXiv:2106.06860 (2021).
+
+- Mandlekar, Ajay, et al. **"Iris: Implicit reinforcement without interaction at scale for learning control from offline robot manipulation data."**
+  2020 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2020
+> IRIS factorizes the control problem into a goal-conditioned low-level controller  that imitates short demonstration sequences and a high-level
+goal selection mechanism that sets goals for the low-level and selectively combines parts of suboptimal solutions leading to
+more successful task completions. A *conditional Variational Autoencoder (cVAE)* is used to encode the goal states.
 
 ## Model Based
+- Kurutach, Thanard, et al. **"Model-ensemble trust-region policy optimization."** arXiv preprint arXiv:1802.10592 (2018).
+
 - Zhang, Marvin, et al. **"Solar: Deep structured representations for model-based reinforcement learning."** International Conference on Machine Learning. PMLR, 2019.
 
 
-## Traffic Applications
+- 
+
+
+## Imitation Learning
+- Lynch, Corey, et al. **"Learning latent plans from play."** Conference on Robot Learning. PMLR, 2020.
+> Play-LMP, a self-supervised method that learns to organize play behaviors in a latent space, then  reuse them at test time to achieve specific goals. 
+Play-LMP consists of three components trained end-to-end: 1) Plan recognition: a
+stochastic sequence encoder, taking a randomly sampled play sequence τ as input and mapping it
+to a distribution q_φ(z|τ) in latent plan space, the learned variational posterior. 2) Plan proposal: a
+stochastic encoder taking the initial state s_c and final state s_g from the same sequence τ, outputting
+p_θ(z| s_c; s_g), the learned conditional prior. The goal of this encoder is to represent the full distribution over all high-level behaviors that might connect current and goal state, potentially capturing
+multiple solutions. 3) Plan and goal-conditioned policy: A policy conditioned on the current state
+s_c, goal state s_g and latent plan z sampled from the posterior q_φ(z|τ), trained to reconstruct the
+goal-directed actions taken during play, following inferred plan z.
+
+
+
+
+## Hierarchical Reinforcement Learning
+- Nachum, Ofir, et al. **"Data-efficient hierarchical reinforcement learning."** arXiv preprint arXiv:1805.08296 (2018).
+
+## Inverse Reinforcement Learning
+
+
+## Transfer Learning
+- Cang, Catherine, et al. **"Behavioral Priors and Dynamics Models: Improving Performance and Domain Transfer in Offline RL."** arXiv preprint arXiv:2106.09119 (2021).
+
+
+## Applications
+
+### Intelligent Transportation Systems
 - **Mavrogiannis, Angelos, Rohan Chandra, and Dinesh Manocha. "B-GAP: Behavior-Guided Action Prediction for Autonomous Navigation." arXiv preprint arXiv:2011.03748 (2020).**
 > We use a reinforcement learning-based navigation scheme that uses a proximity graph (graph convolutional network (GCN) of traffic agents and computes a safe trajectory for the ego-vehicle that accounts for aggressive driver maneuvers such as overtaking, over-speeding, weaving, and sudden lane changes. 
 
+
+### Gaming
+- Zha, Daochen, et al. **"DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning."** arXiv preprint arXiv:2106.06135 (2021).
 
 
 # Multi Agent Reinforcement Learning
@@ -102,8 +159,10 @@ action-values as a complex non-linear combination of per-agent values that condi
 
 ## Traffic Applications
 
+### Autonomous Driving
+- self-play: Tang, Yichuan. **"Towards learning multi-agent negotiations via self-play."** Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops. 2019.
 
-
+### Traffic Signal Control
 
 
 
@@ -135,6 +194,8 @@ action-values as a complex non-linear combination of per-agent values that condi
 
 ## Traffic Applications
 - Jaafra, Yesmina, et al. **"Meta-Reinforcement Learning for Adaptive Autonomous Driving."** (2019)
+-   
+- Ye, Fei, et al. **"Meta Reinforcement Learning-Based Lane Change Strategy for Autonomous Vehicles."** arXiv preprint arXiv:2008.12451 (2020).  
 - Hu, Ye, et al. **"Distributed multi-agent meta learning for trajectory design in wireless drone networks."** IEEE Journal on Selected Areas in Communications (2021).
 
 
