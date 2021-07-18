@@ -70,13 +70,32 @@ Papers related to machine learning, deep learning and reinforcement learning
 goal selection mechanism that sets goals for the low-level and selectively combines parts of suboptimal solutions leading to
 more successful task completions. A *conditional Variational Autoencoder (cVAE)* is used to encode the goal states.
 
+
 ## Model Based
 - Kurutach, Thanard, et al. **"Model-ensemble trust-region policy optimization."** arXiv preprint arXiv:1802.10592 (2018).
+> use an ensemble of models to maintain the model uncertainty and regularize the learning process.
+
+- Matsushima, Tatsuya, et al. **"Deployment-efficient reinforcement learning via model-based offline optimization."** arXiv preprint arXiv:2006.03647 (2020).
+> Deployment Efficiency: counts the number of changes in the data-collection policy during learning
+> learns an ensemble of dynamics models in conjunction with a policy using imaginary rollouts while implicitly regularizing the learned policy
+via appropriate parameter initialization and conservative trust-region learning updates.
 
 - Zhang, Marvin, et al. **"Solar: Deep structured representations for model-based reinforcement learning."** International Conference on Machine Learning. PMLR, 2019.
 
 
-- 
+**Uncertainty Estimate**
+- Yu, Tianhe, et al. **"Mopo: Model-based offline policy optimization."** arXiv preprint arXiv:2005.13239 (2020).
+> develop a practical method that estimates model error using the predicted variance  of a learned model, uses this uncertainty estimate as a reward penalty, and trains a policy using
+MBPO in this uncertainty-penalized MDP.
+
+- (LOMPO) Rafailov, Rafael, et al. **"Offline reinforcement learning from images with latent space models."** Learning for Dynamics and Control. PMLR, 2021.
+>  (i) Using the available offline data, we learn a variational model with an image encoder, an image decoder, and an ensemble of latent dynamics
+models. 
+> (ii) We construct an uncertainty penalized MDP in the latent state space (which induces a
+corresponding uncertainty-penalized POMDP in observation space), where we quantify uncertainty
+based on disagreement between forward models in the latent state space. 
+> (iii) We learn a control policy in the learned latent space using the offline dataset by optimizing an uncertainty-penalized  objective. 
+
 
 
 ## Imitation Learning
