@@ -70,6 +70,14 @@ Papers related to machine learning, deep learning and reinforcement learning
 goal selection mechanism that sets goals for the low-level and selectively combines parts of suboptimal solutions leading to
 more successful task completions. A *conditional Variational Autoencoder (cVAE)* is used to encode the goal states.
 
+**Offline-to-Online**
+- Nair, Ashvin, et al. **"AWAC: Accelerating Online Reinforcement Learning with Offline Datasets."** (2020).
+
+- Lee, Seunghyun, et al. **"Offline-to-Online Reinforcement Learning via Balanced Replay and Pessimistic Q-Ensemble."** arXiv preprint arXiv:2107.00591 (2021).
+> propose a balanced replay scheme that prioritizes samples encountered online while also encouraging the use of near-on-policy
+samples from the offline dataset. Furthermore, we leverage multiple Q-functions
+trained pessimistically offline, thereby preventing overoptimism concerning unfamiliar actions at novel states during the initial training phase.
+
 
 ## Model Based
 - Kurutach, Thanard, et al. **"Model-ensemble trust-region policy optimization."** arXiv preprint arXiv:1802.10592 (2018).
@@ -139,6 +147,11 @@ goal-directed actions taken during play, following inferred plan z.
 > DouZero enhances traditional Monte-Carlo methods with deep neural networks, action encoding, and parallel actors.
 
 
+
+
+
+
+
 # Multi Agent Reinforcement Learning
 
 ## Survey
@@ -206,11 +219,18 @@ action-values as a complex non-linear combination of per-agent values that condi
 # Meta Learning
 
 ## Meta Learning
-- MAML: Finn, Chelsea, Pieter Abbeel, and Sergey Levine. **"Model-agnostic meta-learning for fast adaptation of deep networks."** International Conference on Machine Learning. PMLR, 2017.
-- Reptile: Nichol, Alex, Joshua Achiam, and John Schulman. **"On first-order meta-learning algorithms."** arXiv preprint arXiv:1803.02999 (2018).
+- (MAML): Finn, Chelsea, Pieter Abbeel, and Sergey Levine. **"Model-agnostic meta-learning for fast adaptation of deep networks."** International Conference on Machine Learning. PMLR, 2017.
+- (Reptile): Nichol, Alex, Joshua Achiam, and John Schulman. **"On first-order meta-learning algorithms."** arXiv preprint arXiv:1803.02999 (2018).
 - PEARL: Rakelly, Kate, et al. **"Efficient off-policy meta-reinforcement learning via probabilistic context variables." International conference on machine learning.** PMLR, 2019.
 - MAML++: Antoniou, Antreas, Harrison Edwards, and Amos Storkey. **"How to train your MAML."** arXiv preprint arXiv:1810.09502 (2018).
+
+
 - MQL: Fakoor, Rasool, et al. **"Meta-q-learning."** arXiv preprint arXiv:1910.00125 (2019).
+> First, we show that Q-learning is competitive with state-of-the-art meta-RL algorithms if given access to a context variable that is a representation of the past
+trajectory. Second, a multi-task objective to maximize the average reward across the training tasks is an effective method to meta-train RL policies. Third, past data
+from the meta-training replay buffer can be recycled to adapt the policy on a new task using off-policy updates.  
+
+
 - 
 
 ## Meta MARL
