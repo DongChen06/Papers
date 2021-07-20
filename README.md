@@ -52,9 +52,9 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Offline RL
 - Survey: Levine, Sergey, et al. **"Offline reinforcement learning: Tutorial, review, and perspectives on open problems."** arXiv preprint arXiv:2005.01643 (2020).
 
-- BCQ: Fujimoto, Scott, David Meger, and Doina Precup. **"Off-policy deep reinforcement learning without exploration."** International Conference on Machine Learning. PMLR, 2019.
+- (BCQ): Fujimoto, Scott, David Meger, and Doina Precup. **"Off-policy deep reinforcement learning without exploration."** International Conference on Machine Learning. PMLR, 2019.
 
-- Lee, Seunghyun, et al. **"Offline-to-Online Reinforcement Learning via Balanced Replay and Pessimistic Q-Ensemble."** arXiv preprint arXiv:2107.00591 (2021).
+- (BEAR) Kumar, Aviral, et al. **"Stabilizing off-policy q-learning via bootstrapping error reduction."** arXiv preprint arXiv:1906.00949 (2019).
 
 - Chen, Lili, et al. **"Decision transformer: Reinforcement learning via sequence modeling."** arXiv preprint arXiv:2106.01345 (2021).
 > Transformer-based RL framework for offline RL.
@@ -70,8 +70,11 @@ Papers related to machine learning, deep learning and reinforcement learning
 goal selection mechanism that sets goals for the low-level and selectively combines parts of suboptimal solutions leading to
 more successful task completions. A *conditional Variational Autoencoder (cVAE)* is used to encode the goal states.
 
+
 **Offline-to-Online**
 - Nair, Ashvin, et al. **"AWAC: Accelerating Online Reinforcement Learning with Offline Datasets."** (2020).
+> AWAC is that enforcing a policy update constraint implicitly on actor-critic methods results in a
+stable learning algorithm amenable for off-policy learning
 
 - Lee, Seunghyun, et al. **"Offline-to-Online Reinforcement Learning via Balanced Replay and Pessimistic Q-Ensemble."** arXiv preprint arXiv:2107.00591 (2021).
 > propose a balanced replay scheme that prioritizes samples encountered online while also encouraging the use of near-on-policy
