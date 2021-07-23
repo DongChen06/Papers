@@ -16,7 +16,15 @@ Goal: reduces the over-estimation bias.
 
 ### Ensemble Models
 Goal: avoids the policy from over-fitting to any single model during an episode, leading to more stable learning
+- Anschel, Oron, Nir Baram, and Nahum Shimkin. **"Averaged-dqn: Variance reduction and stabilization for deep reinforcement learning."** International conference on machine learning. PMLR, 2017.
+
 - Kurutach, Thanard, et al. **"Model-ensemble trust-region policy optimization."** arXiv preprint arXiv:1802.10592 (2018).
+
+
+### Self-play
+This strategy is a good tool to use in a competitive and cooperative environment.
+- Baker, Bowen, et al. **"Emergent tool use from multi-agent autocurricula."** arXiv preprint arXiv:1909.07528 (2019).
+
 
 
 
