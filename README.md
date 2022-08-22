@@ -11,7 +11,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Imitation Learning](#imitation-learning)
   * [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
   * [Transfer Learning](#transfer-learning)
-  * [Diffusion Models](#diffusion-models)
+  * [Diffusion Models RL](#diffusion-models-rl)
   * [Applications](#applications)
     * [Intelligent Transportation Systems](#intelligent-transportation-systems)
     * [Gaming](#gaming)
@@ -106,7 +106,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Transfer Learning
 - Cang, Catherine, et al. **"Behavioral Priors and Dynamics Models: Improving Performance and Domain Transfer in Offline RL."** arXiv preprint arXiv:2106.09119 (2021).
 
-## Diffusion Models
+## Diffusion Models RL
 - Wang, Zhendong, Jonathan J. Hunt, and Mingyuan Zhou. **"Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning."** arXiv preprint arXiv:2208.06193 (2022).
 - Janner, Michael, et al. **"Planning with Diffusion for Flexible Behavior Synthesis."** arXiv preprint arXiv:2205.09991 (2022).
 
