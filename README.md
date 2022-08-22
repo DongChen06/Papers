@@ -54,8 +54,9 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Value-based
 
 - DRQN: Hausknecht, Matthew, and Peter Stone. **"Deep recurrent q-learning for partially observable mdps."** arXiv preprint arXiv:1507.06527 (2015).
-- (Esemble) Chen, Xinyue, et al. **"Randomized ensembled double q-learning: Learning fast without a model."** arXiv preprint arXiv:2101.05982 (2021).
-- Hiraoka, Takuya, et al. **"Dropout Q-Functions for Doubly Efficient Reinforcement Learning."** arXiv preprint arXiv:2110.02034 (2021).
+- [Esemble] Lan, Qingfeng, et al. **"Maxmin q-learning: Controlling the estimation bias of q-learning."** arXiv preprint arXiv:2002.06487 (2020).
+- [Esemble] Chen, Xinyue, et al. **"Randomized ensembled double q-learning: Learning fast without a model."** arXiv preprint arXiv:2101.05982 (2021).
+- [Esemble] Hiraoka, Takuya, et al. **"Dropout Q-Functions for Doubly Efficient Reinforcement Learning."** arXiv preprint arXiv:2110.02034 (2021).
 
 ## Policy-based
 
