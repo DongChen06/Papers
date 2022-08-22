@@ -11,6 +11,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Imitation Learning](#imitation-learning)
   * [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
   * [Transfer Learning](#transfer-learning)
+  * [Diffusion Models](#diffusion-models)
   * [Applications](#applications)
     * [Intelligent Transportation Systems](#intelligent-transportation-systems)
     * [Gaming](#gaming)
@@ -27,7 +28,13 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Traffic Applications](#traffic-applications)
     * [Autonomous Driving](#autonomous-driving)
     * [Traffic Signal Control](#traffic-signal-control)
-      
+
+* [Computer Vision](computer-vision)
+  * [Image Classification](#image-classification)
+  * [Object Detection](#object-detection)
+  * [Image Segmentation](#image-segmentation)
+  * [GANs](#gans)
+  * [Diffusion Models](#diffusion-models)
 
 * [Meta Learning](#meta-Learning)
   * [Meta Learning](#meta-learning)
@@ -99,13 +106,14 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Transfer Learning
 - Cang, Catherine, et al. **"Behavioral Priors and Dynamics Models: Improving Performance and Domain Transfer in Offline RL."** arXiv preprint arXiv:2106.09119 (2021).
 
+## Diffusion Models
+- Wang, Zhendong, Jonathan J. Hunt, and Mingyuan Zhou. **"Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning."** arXiv preprint arXiv:2208.06193 (2022).
+- Janner, Michael, et al. **"Planning with Diffusion for Flexible Behavior Synthesis."** arXiv preprint arXiv:2205.09991 (2022).
 
 ## Applications
 
 ### Intelligent Transportation Systems
 - Mavrogiannis, Angelos, Rohan Chandra, and Dinesh Manocha.  **"B-GAP: Behavior-Guided Action Prediction for Autonomous Navigation."** arXiv preprint arXiv:2011.03748 (2020).
-
-
 
 ### Gaming
 - Zha, Daochen, et al. **"DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning."** arXiv preprint arXiv:2106.06135 (2021).
@@ -159,6 +167,18 @@ Papers related to machine learning, deep learning and reinforcement learning
 - self-play: Tang, Yichuan. **"Towards learning multi-agent negotiations via self-play."** Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops. 2019.
 
 ### Traffic Signal Control
+
+
+# Computer Vision
+## Image Classification
+
+## Object Detection
+
+## Image Segmentation
+
+## Diffusion Models
+
+
 
 
 # Meta Learning
