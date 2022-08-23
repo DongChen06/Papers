@@ -45,6 +45,9 @@ Papers related to machine learning, deep learning and reinforcement learning
 * [Smart Agriculture](#smart-agriculture)
   * [Weed Control](#weed-control)
   * [Data Augmentation](#data-augmentation)
+  
+* [Robotics](#robotics)
+  * [Soft Robots](#soft-robots)
 
 
 # Reinforcement Learning
@@ -230,4 +233,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 - [Survey] Lu, Yuzhen, et al. **"Generative adversarial networks (GANs) for image augmentation in agriculture: A systematic review."** Computers and Electronics in Agriculture 200 (2022): 107208. 
 - [Survey] Xu, Mingle, et al. **"A Comprehensive Survey of Image Augmentation Techniques for Deep Learning."** arXiv preprint arXiv:2205.01491 (2022).
 
+# Robotics
+## Soft Robots
+- Liu, Xuan, Cagdas Onal, and Jie Fu. **"Reinforcement Learning of a CPG-regulated Locomotion Controller for a Soft Snake Robot."** arXiv preprint arXiv:2207.04899 (2022).
 
