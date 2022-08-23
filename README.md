@@ -236,4 +236,8 @@ Papers related to machine learning, deep learning and reinforcement learning
 # Robotics
 ## Soft Robots
 - Liu, Xuan, Cagdas Onal, and Jie Fu. **"Reinforcement Learning of a CPG-regulated Locomotion Controller for a Soft Snake Robot."** arXiv preprint arXiv:2207.04899 (2022).
+- Ji, Guanglin, et al. **"Towards Safe Control of Continuum Manipulator Using Shielded Multiagent Reinforcement Learning."** IEEE Robotics and Automation Letters 6.4 (2021): 7461-7468.
+- Li, Guanda, Jun Shintake, and Mitsuhiro Hayashibe. **"Deep Reinforcement Learning Framework for Underwater Locomotion of Soft Robot."** 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.
+- Centurelli, Andrea, et al. **"Closed-loop Dynamic Control of a Soft Manipulator using Deep Reinforcement Learning."** IEEE Robotics and Automation Letters 7.2 (2022): 4741-4748.
+
 
