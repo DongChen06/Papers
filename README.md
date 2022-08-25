@@ -49,6 +49,9 @@ Papers related to machine learning, deep learning and reinforcement learning
 * [Robotics](#robotics)
   * [Soft Robots](#soft-robots)
 
+* [Tricks](#tricks)
+  * [Emsemble](#emsemble)
+  * [Curriculum Learning](#curriculum-learning)
 
 # Reinforcement Learning
 
@@ -239,5 +242,15 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Ji, Guanglin, et al. **"Towards Safe Control of Continuum Manipulator Using Shielded Multiagent Reinforcement Learning."** IEEE Robotics and Automation Letters 6.4 (2021): 7461-7468.
 - Li, Guanda, Jun Shintake, and Mitsuhiro Hayashibe. **"Deep Reinforcement Learning Framework for Underwater Locomotion of Soft Robot."** 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.
 - Centurelli, Andrea, et al. **"Closed-loop Dynamic Control of a Soft Manipulator using Deep Reinforcement Learning."** IEEE Robotics and Automation Letters 7.2 (2022): 4741-4748.
+
+
+# Tricks
+## Emsemble
+- [Esemble] Lan, Qingfeng, et al. **"Maxmin q-learning: Controlling the estimation bias of q-learning."** arXiv preprint arXiv:2002.06487 (2020).
+- [Esemble] Chen, Xinyue, et al. **"Randomized ensembled double q-learning: Learning fast without a model."** arXiv preprint arXiv:2101.05982 (2021).
+- [Esemble] Hiraoka, Takuya, et al. **"Dropout Q-Functions for Doubly Efficient Reinforcement Learning."** arXiv preprint arXiv:2110.02034 (2021).
+
+## Curriculum Learning
+- Chen, Dong, et al. "Deep multi-agent reinforcement learning for highway on-ramp merging in mixed traffic." arXiv preprint arXiv:2105.05701 (2021).
 
 
