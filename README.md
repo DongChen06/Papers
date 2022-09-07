@@ -1,6 +1,9 @@
 # Papers
 Papers related to machine learning, deep learning and reinforcement learning
 
+# Fresh Papers
+- Zeng, Yilei, et al. "Human Decision Makings on Curriculum Reinforcement Learning with Difficulty Adjustment." arXiv preprint arXiv:2208.02932 (2022).
+
 ## Contents
 * [Reinforcement Learning](#reinforcement-Learning)
   * [Survey](#survey)
@@ -255,5 +258,6 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Curriculum Learning
 - Chen, Dong, et al. "Deep multi-agent reinforcement learning for highway on-ramp merging in mixed traffic." arXiv preprint arXiv:2105.05701 (2021).
 - Liu, Xuan, et al. "Learning to locomote with artificial neural-network and cpg-based control in a soft snake robot." 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2020.
+- Zeng, Yilei, et al. "Human Decision Makings on Curriculum Reinforcement Learning with Difficulty Adjustment." arXiv preprint arXiv:2208.02932 (2022).
 
 
