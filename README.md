@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Evans, Benjamin, et al. "Accelerating Online Reinforcement Learning via Supervisory Safety Systems." arXiv preprint arXiv:2209.11082 (2022).
 - Zeng, Yilei, et al. "Human Decision Makings on Curriculum Reinforcement Learning with Difficulty Adjustment." arXiv preprint arXiv:2208.02932 (2022).
 
 ## Contents
@@ -18,6 +19,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Applications](#applications)
     * [Intelligent Transportation Systems](#intelligent-transportation-systems)
     * [Gaming](#gaming)
+    * [Robotics](#robotics)
 
   
 * [Multi Agent Reinforcement Learning](#multi-agent-reinforcement-learning)
@@ -51,6 +53,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   
 * [Robotics](#robotics)
   * [Soft Robots](#soft-robots)
+  
 
 * [Tricks](#tricks)
   * [Emsemble](#emsemble)
@@ -128,6 +131,8 @@ Papers related to machine learning, deep learning and reinforcement learning
 ### Gaming
 - Zha, Daochen, et al. **"DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning."** arXiv preprint arXiv:2106.06135 (2021).
 
+### Robotics
+- Evans, Benjamin, et al. "Accelerating Online Reinforcement Learning via Supervisory Safety Systems." arXiv preprint arXiv:2209.11082 (2022).
 
 
 
