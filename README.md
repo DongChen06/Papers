@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Xiao, Xuesu, et al. "Learning Model Predictive Controllers with Real-Time Attention for Real-World Navigation." arXiv preprint arXiv:2209.10780 (2022).
 - Evans, Benjamin, et al. "Accelerating Online Reinforcement Learning via Supervisory Safety Systems." arXiv preprint arXiv:2209.11082 (2022).
 - Zeng, Yilei, et al. "Human Decision Makings on Curriculum Reinforcement Learning with Difficulty Adjustment." arXiv preprint arXiv:2208.02932 (2022).
 
@@ -59,8 +60,10 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Emsemble](#emsemble)
   * [Curriculum Learning](#curriculum-learning)
 
-# Reinforcement Learning
 
+
+
+# Reinforcement Learning
 ## Survey
 
 ## Value-based
@@ -246,6 +249,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 # Robotics
 ## Soft Robots
+- Xiao, Xuesu, et al. "Learning Model Predictive Controllers with Real-Time Attention for Real-World Navigation." arXiv preprint arXiv:2209.10780 (2022).
 - Gasoto, Renato, et al. **"A validated physical model for real-time simulation of soft robotic snakes."** 2019 International Conference on Robotics and Automation (ICRA). IEEE, 2019.
 - Liu, Xuan, et al. **"Learning to locomote with artificial neural-network and cpg-based control in a soft snake robot."** 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2020.
 - Liu, Xuan, Cagdas Onal, and Jie Fu. **"Reinforcement Learning of a CPG-regulated Locomotion Controller for a Soft Snake Robot."** arXiv preprint arXiv:2207.04899 (2022).
