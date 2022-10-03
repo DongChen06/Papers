@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Chen, Dian, et al. "Learning by cheating." Conference on Robot Learning. PMLR, 2020.
 - Xiao, Xuesu, et al. "Learning Model Predictive Controllers with Real-Time Attention for Real-World Navigation." arXiv preprint arXiv:2209.10780 (2022).
 - Evans, Benjamin, et al. "Accelerating Online Reinforcement Learning via Supervisory Safety Systems." arXiv preprint arXiv:2209.11082 (2022).
 - Zeng, Yilei, et al. "Human Decision Makings on Curriculum Reinforcement Learning with Difficulty Adjustment." arXiv preprint arXiv:2208.02932 (2022).
@@ -106,6 +107,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 
 ## Imitation Learning
+- Chen, Dian, et al. "Learning by cheating." Conference on Robot Learning. PMLR, 2020.
 - Lynch, Corey, et al. **"Learning latent plans from play."** Conference on Robot Learning. PMLR, 2020.
 - (BCQ) Torabi, Faraz, Garrett Warnell, and Peter Stone. **"Behavioral cloning from observation."** arXiv preprint arXiv:1805.01954 (2018).
 - (ILPO) Edwards, Ashley, et al. **"Imitating latent policies from observation."** International Conference on Machine Learning. PMLR, 2019.
