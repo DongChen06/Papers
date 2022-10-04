@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Lee, Hyo-Jun, et al. "MSENet: Marbling score estimation network for automated assessment of Korean beef." Meat Science 188 (2022): 108784.
 - Chen, Dian, et al. "Learning by cheating." Conference on Robot Learning. PMLR, 2020.
 - Xiao, Xuesu, et al. "Learning Model Predictive Controllers with Real-Time Attention for Real-World Navigation." arXiv preprint arXiv:2209.10780 (2022).
 - Evans, Benjamin, et al. "Accelerating Online Reinforcement Learning via Supervisory Safety Systems." arXiv preprint arXiv:2209.11082 (2022).
@@ -52,6 +53,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 * [Smart Agriculture](#smart-agriculture)
   * [Weed Control](#weed-control)
   * [Data Augmentation](#data-augmentation)
+  * [Meat Science](#meat-science)
   
 * [Robotics](#robotics)
   * [Soft Robots](#soft-robots)
@@ -248,6 +250,11 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Data Augmentation
 - [Survey] Lu, Yuzhen, et al. **"Generative adversarial networks (GANs) for image augmentation in agriculture: A systematic review."** Computers and Electronics in Agriculture 200 (2022): 107208. 
 - [Survey] Xu, Mingle, et al. **"A Comprehensive Survey of Image Augmentation Techniques for Deep Learning."** arXiv preprint arXiv:2205.01491 (2022).
+
+
+## Meat Science
+- Lee, Hyo-Jun, et al. "MSENet: Marbling score estimation network for automated assessment of Korean beef." Meat Science 188 (2022): 108784.
+
 
 # Robotics
 ## Soft Robots
