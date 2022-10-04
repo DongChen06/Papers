@@ -50,6 +50,9 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Offline Meta](#offline-meta)
   * [Traffic Applications](traffic-applications)
   
+* [Power System](#power-system)
+  * [Voltage and Frequency Control](#voltage-and-frequency-control)
+  
 * [Smart Agriculture](#smart-agriculture)
   * [Weed Control](#weed-control)
   * [Data Augmentation](#data-augmentation)
@@ -237,6 +240,15 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Ye, Fei, et al. **"Meta Reinforcement Learning-Based Lane Change Strategy for Autonomous Vehicles."** arXiv preprint arXiv:2008.12451 (2020).  
 - Hu, Ye, et al. **"Distributed multi-agent meta learning for trajectory design in wireless drone networks."** IEEE Journal on Selected Areas in Communications (2021).
 
+
+# Power System
+## Voltage and Frequency Control
+- Wang, Minrui, et al. "Stabilizing Voltage in Power Distribution Networks via Multi-Agent Reinforcement Learning with Transformer." arXiv preprint arXiv:2206.03721 (2022).
+- Wang, Jianhong, et al. "Multi-agent reinforcement learning for active voltage control on power distribution networks." Advances in Neural Information Processing Systems 34 (2021): 3271-3284.
+
+
+## Testbed
+- Meinecke, Steffen, et al. "Simbench—a benchmark dataset of electric power systems to compare innovative solutions based on power flow analysis." Energies 13.12 (2020): 3290.
 
 
 # Smart Agriculture
