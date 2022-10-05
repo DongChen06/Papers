@@ -80,7 +80,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 - [Esemble] Hiraoka, Takuya, et al. **"Dropout Q-Functions for Doubly Efficient Reinforcement Learning."** arXiv preprint arXiv:2110.02034 (2021).
 
 ## Policy-based
-
+- (Auxiliary tasks) Jaderberg, Max, et al. "Reinforcement learning with unsupervised auxiliary tasks." arXiv preprint arXiv:1611.05397 (2016).
 
 
 ## Offline RL
