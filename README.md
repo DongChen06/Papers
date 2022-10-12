@@ -33,6 +33,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Parameter Sharing](#parameter-sharing)
   * [Graph Convolutional Reinforcement Learning](#graph-convolutional-reinforcement-learning)
   * [Offline MARL](#offline-marl)
+  * [Attention](#attention)
   * [Multi-agent Imitation Learning](#multi-agent-imitation-learning)
   * [Traffic Applications](#traffic-applications)
     * [Autonomous Driving](#autonomous-driving)
@@ -183,6 +184,8 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Offline MARL
 - ICQ: Yang, Yiqin, et al. **"Believe What You See: Implicit Constraint Approach for Offline Multi-Agent Reinforcement Learning."** arXiv preprint arXiv:2106.03400 (2021).
 
+## Attention
+- Qi, Shuhan, et al. "Cascaded Attention: Adaptive and Gated Graph Attention Network for Multiagent Reinforcement Learning." IEEE Transactions on Neural Networks and Learning Systems (2022).
 
 ## Multi-agent Imitation Learning
 - Wang, Hongwei, et al. "Multi-Agent Imitation Learning with Copulas." arXiv preprint arXiv:2107.04750 (2021).
