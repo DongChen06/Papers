@@ -2,11 +2,11 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Du, Yayun, et al. "Deep-cnn based robotic multi-class under-canopy weed control in precision farming." 2022 International Conference on Robotics and Automation (ICRA). IEEE, 2022.
 - Lee, Hyo-Jun, et al. "MSENet: Marbling score estimation network for automated assessment of Korean beef." Meat Science 188 (2022): 108784.
 - Chen, Dian, et al. "Learning by cheating." Conference on Robot Learning. PMLR, 2020.
 - Xiao, Xuesu, et al. "Learning Model Predictive Controllers with Real-Time Attention for Real-World Navigation." arXiv preprint arXiv:2209.10780 (2022).
 - Evans, Benjamin, et al. "Accelerating Online Reinforcement Learning via Supervisory Safety Systems." arXiv preprint arXiv:2209.11082 (2022).
-- Zeng, Yilei, et al. "Human Decision Makings on Curriculum Reinforcement Learning with Difficulty Adjustment." arXiv preprint arXiv:2208.02932 (2022).
 
 ## Contents
 * [Reinforcement Learning](#reinforcement-Learning)
@@ -253,6 +253,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 # Smart Agriculture
 ## Weed Control
+- Du, Yayun, et al. "Deep-cnn based robotic multi-class under-canopy weed control in precision farming." 2022 International Conference on Robotics and Automation (ICRA). IEEE, 2022.
 - Chen, Dong, et al. **"Performance evaluation of deep transfer learning on multi-class identification of common weed species in cotton production systems."** Computers and Electronics in Agriculture 198 (2022): 107091.
 - Dang, Fengying, et al. **"DeepCottonWeeds (DCW): A Novel Benchmark of YOLO Object Detectors for Weed Detection in Cotton Production Systems."** 2022 ASABE Annual International Meeting. American Society of Agricultural and Biological Engineers, 2022.
 
