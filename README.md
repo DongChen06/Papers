@@ -2,11 +2,12 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Rao, Yongming, et al. "Dynamicvit: Efficient vision transformers with dynamic token sparsification." Advances in neural information processing systems 34 (2021): 13937-13949.
 - Du, Yayun, et al. "Deep-cnn based robotic multi-class under-canopy weed control in precision farming." 2022 International Conference on Robotics and Automation (ICRA). IEEE, 2022.
 - Lee, Hyo-Jun, et al. "MSENet: Marbling score estimation network for automated assessment of Korean beef." Meat Science 188 (2022): 108784.
 - Chen, Dian, et al. "Learning by cheating." Conference on Robot Learning. PMLR, 2020.
 - Xiao, Xuesu, et al. "Learning Model Predictive Controllers with Real-Time Attention for Real-World Navigation." arXiv preprint arXiv:2209.10780 (2022).
-- Evans, Benjamin, et al. "Accelerating Online Reinforcement Learning via Supervisory Safety Systems." arXiv preprint arXiv:2209.11082 (2022).
+
 
 ## Contents
 * [Reinforcement Learning](#reinforcement-Learning)
@@ -43,6 +44,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Image Segmentation](#image-segmentation)
   * [GANs](#gans)
   * [Diffusion Models](#diffusion-models)
+  * [Transformers](#transformers)
 
 * [Meta Learning](#meta-Learning)
   * [Meta Learning](#meta-learning)
@@ -209,6 +211,9 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Dhariwal, Prafulla, and Alexander Nichol. "Diffusion models beat gans on image synthesis." Advances in Neural Information Processing Systems 34 (2021): 8780-8794.
 - Ho, Jonathan, et al. "Cascaded Diffusion Models for High Fidelity Image Generation." J. Mach. Learn. Res. 23 (2022): 47-1.
 
+
+## Transformers
+- Rao, Yongming, et al. "Dynamicvit: Efficient vision transformers with dynamic token sparsification." Advances in neural information processing systems 34 (2021): 13937-13949.
 
 
 # Meta Learning
