@@ -203,6 +203,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Image Classification
 
 ## Object Detection
+- Ali, Mansoor, Gilberto Ochoa-Ruiz, and Sharib Ali. "A semi-supervised Teacher-Student framework for surgical tool detection and localization." arXiv preprint arXiv:2208.09926 (2022).
 
 ## Image Segmentation
 
@@ -261,6 +262,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 # Smart Agriculture
 ## Weed Control
+- Rahman, Abdur, Yuzhen Lu, and Haifeng Wang. "Performance Evaluation of Deep Learning Object Detectors for Weed Detection for Cotton." Smart Agricultural Technology (2022): 100126.
 - Du, Yayun, et al. "Deep-cnn based robotic multi-class under-canopy weed control in precision farming." 2022 International Conference on Robotics and Automation (ICRA). IEEE, 2022.
 - Chen, Dong, et al. **"Performance evaluation of deep transfer learning on multi-class identification of common weed species in cotton production systems."** Computers and Electronics in Agriculture 198 (2022): 107091.
 - Dang, Fengying, et al. **"DeepCottonWeeds (DCW): A Novel Benchmark of YOLO Object Detectors for Weed Detection in Cotton Production Systems."** 2022 ASABE Annual International Meeting. American Society of Agricultural and Biological Engineers, 2022.
