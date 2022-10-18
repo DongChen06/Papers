@@ -211,20 +211,21 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Image Segmentation
 
 ## Panoptic Segmentation
-- Li, Yanwei, et al. "Fully convolutional networks for panoptic segmentation with point-based supervision." IEEE Transactions on Pattern Analysis and Machine Intelligence (2022).
-- Kirillov, Alexander, et al. "Panoptic feature pyramid networks." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2019.
+- Li, Yanwei, et al. **"Fully convolutional networks for panoptic segmentation with point-based supervision."** IEEE Transactions on Pattern Analysis and Machine Intelligence (2022).
+- Kirillov, Alexander, et al. **"Panoptic feature pyramid networks."** Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2019.
+- Kirillov, Alexander, et al. **"Panoptic segmentation."** Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.
 
 ## Diffusion Models
-- Sohl-Dickstein, Jascha, et al. "Deep unsupervised learning using nonequilibrium thermodynamics." International Conference on Machine Learning. PMLR, 2015.
-- Ho, Jonathan, Ajay Jain, and Pieter Abbeel. "Denoising diffusion probabilistic models." Advances in Neural Information Processing Systems 33 (2020): 6840-6851.
-- Song, Jiaming, Chenlin Meng, and Stefano Ermon. "Denoising diffusion implicit models." arXiv preprint arXiv:2010.02502 (2020).
-- Nichol, Alexander Quinn, and Prafulla Dhariwal. "Improved denoising diffusion probabilistic models." International Conference on Machine Learning. PMLR, 2021.
-- Dhariwal, Prafulla, and Alexander Nichol. "Diffusion models beat gans on image synthesis." Advances in Neural Information Processing Systems 34 (2021): 8780-8794.
-- Ho, Jonathan, et al. "Cascaded Diffusion Models for High Fidelity Image Generation." J. Mach. Learn. Res. 23 (2022): 47-1.
+- Sohl-Dickstein, Jascha, et al. **"Deep unsupervised learning using nonequilibrium thermodynamics."** International Conference on Machine Learning. PMLR, 2015.
+- Ho, Jonathan, Ajay Jain, and Pieter Abbeel. **"Denoising diffusion probabilistic models."** Advances in Neural Information Processing Systems 33 (2020): 6840-6851.
+- Song, Jiaming, Chenlin Meng, and Stefano Ermon. **"Denoising diffusion implicit models."** arXiv preprint arXiv:2010.02502 (2020).
+- Nichol, Alexander Quinn, and Prafulla Dhariwal. **"Improved denoising diffusion probabilistic models."** International Conference on Machine Learning. PMLR, 2021.
+- Dhariwal, Prafulla, and Alexander Nichol. **"Diffusion models beat gans on image synthesis."** Advances in Neural Information Processing Systems 34 (2021): 8780-8794.
+- Ho, Jonathan, et al. **"Cascaded Diffusion Models for High Fidelity Image Generation."** J. Mach. Learn. Res. 23 (2022): 47-1.
 
 
 ## Transformers
-- Rao, Yongming, et al. "Dynamicvit: Efficient vision transformers with dynamic token sparsification." Advances in neural information processing systems 34 (2021): 13937-13949.
+- Rao, Yongming, et al. **"Dynamicvit: Efficient vision transformers with dynamic token sparsification."** Advances in neural information processing systems 34 (2021): 13937-13949.
 
 
 # Meta Learning
@@ -269,13 +270,17 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 # Smart Agriculture
 ## Weed Control
-- Rahman, Abdur, Yuzhen Lu, and Haifeng Wang. "Performance Evaluation of Deep Learning Object Detectors for Weed Detection for Cotton." Smart Agricultural Technology (2022): 100126.
-- Du, Yayun, et al. "Deep-cnn based robotic multi-class under-canopy weed control in precision farming." 2022 International Conference on Robotics and Automation (ICRA). IEEE, 2022.
+- Rahman, Abdur, Yuzhen Lu, and Haifeng Wang. **"Performance Evaluation of Deep Learning Object Detectors for Weed Detection for Cotton."** Smart Agricultural Technology (2022): 100126.
+- Du, Yayun, et al. **"Deep-cnn based robotic multi-class under-canopy weed control in precision farming."** 2022 International Conference on Robotics and Automation (ICRA). IEEE, 2022.
 - Chen, Dong, et al. **"Performance evaluation of deep transfer learning on multi-class identification of common weed species in cotton production systems."** Computers and Electronics in Agriculture 198 (2022): 107091.
 - Dang, Fengying, et al. **"DeepCottonWeeds (DCW): A Novel Benchmark of YOLO Object Detectors for Weed Detection in Cotton Production Systems."** 2022 ASABE Annual International Meeting. American Society of Agricultural and Biological Engineers, 2022.
 
 ## Plant Disease
 - Paymode, Ananda S., and Vandana B. Malode. **"Transfer Learning for Multi-Crop Leaf Disease Image Classification using Convolutional Neural Network VGG."** Artificial Intelligence in Agriculture 6 (2022): 23-33.
+
+## Fruit Flowers
+- Siddique, Abubakar, Amy Tabb, and Henry Medeiros. **"Self-supervised Learning for Panoptic Segmentation of Multiple Fruit Flower Species."** arXiv preprint arXiv:2209.04618 (2022).
+
 
 ## Data Augmentation
 - [Survey] Lu, Yuzhen, et al. **"Generative adversarial networks (GANs) for image augmentation in agriculture: A systematic review."** Computers and Electronics in Agriculture 200 (2022): 107208. 
