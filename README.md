@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Li, Yanwei, et al. "Fully convolutional networks for panoptic segmentation with point-based supervision." IEEE Transactions on Pattern Analysis and Machine Intelligence (2022).
 - Rao, Yongming, et al. "Dynamicvit: Efficient vision transformers with dynamic token sparsification." Advances in neural information processing systems 34 (2021): 13937-13949.
 - Du, Yayun, et al. "Deep-cnn based robotic multi-class under-canopy weed control in precision farming." 2022 International Conference on Robotics and Automation (ICRA). IEEE, 2022.
 - Lee, Hyo-Jun, et al. "MSENet: Marbling score estimation network for automated assessment of Korean beef." Meat Science 188 (2022): 108784.
@@ -43,6 +44,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Image Classification](#image-classification)
   * [Object Detection](#object-detection)
   * [Image Segmentation](#image-segmentation)
+  * [Panoptic Segmentation](#panoptic-segmentation)
   * [GANs](#gans)
   * [Diffusion Models](#diffusion-models)
   * [Transformers](#transformers)
@@ -206,6 +208,9 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Ali, Mansoor, Gilberto Ochoa-Ruiz, and Sharib Ali. "A semi-supervised Teacher-Student framework for surgical tool detection and localization." arXiv preprint arXiv:2208.09926 (2022).
 
 ## Image Segmentation
+
+## Panoptic Segmentation
+- Li, Yanwei, et al. "Fully convolutional networks for panoptic segmentation with point-based supervision." IEEE Transactions on Pattern Analysis and Machine Intelligence (2022).
 
 ## Diffusion Models
 - Sohl-Dickstein, Jascha, et al. "Deep unsupervised learning using nonequilibrium thermodynamics." International Conference on Machine Learning. PMLR, 2015.
