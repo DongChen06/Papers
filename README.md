@@ -212,6 +212,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 ## Panoptic Segmentation
 - Li, Yanwei, et al. "Fully convolutional networks for panoptic segmentation with point-based supervision." IEEE Transactions on Pattern Analysis and Machine Intelligence (2022).
+- Kirillov, Alexander, et al. "Panoptic feature pyramid networks." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2019.
 
 ## Diffusion Models
 - Sohl-Dickstein, Jascha, et al. "Deep unsupervised learning using nonequilibrium thermodynamics." International Conference on Machine Learning. PMLR, 2015.
