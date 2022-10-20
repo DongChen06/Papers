@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Roggiolani, Gianmarco, et al. "Hierarchical Approach for Joint Semantic, Plant Instance, and Leaf Instance Segmentation in the Agricultural Domain." arXiv preprint arXiv:2210.07879 (2022).
 - Hu, Chengsong, et al. "Algorithm and System Development for Robotic Micro-Volume Herbicide Spray Towards Precision Weed Management." IEEE Robotics and Automation Letters 7.4 (2022): 11633-11640.
 - Li, Yanwei, et al. "Fully convolutional networks for panoptic segmentation with point-based supervision." IEEE Transactions on Pattern Analysis and Machine Intelligence (2022).
 - Rao, Yongming, et al. "Dynamicvit: Efficient vision transformers with dynamic token sparsification." Advances in neural information processing systems 34 (2021): 13937-13949.
@@ -63,6 +64,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Data Augmentation](#data-augmentation)
   * [Meat Science](#meat-science)
   * [Agricultural Robots](#agricultural-robots)
+  * [Plant Phenotyping](#plant-phenotyping)
   
 * [Robotics](#robotics)
   * [Soft Robots](#soft-robots)
@@ -282,6 +284,9 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 ## Fruit Flowers
 - Siddique, Abubakar, Amy Tabb, and Henry Medeiros. **"Self-supervised Learning for Panoptic Segmentation of Multiple Fruit Flower Species."** arXiv preprint arXiv:2209.04618 (2022).
+
+## Plant Phenotyping
+- Roggiolani, Gianmarco, et al. "Hierarchical Approach for Joint Semantic, Plant Instance, and Leaf Instance Segmentation in the Agricultural Domain." arXiv preprint arXiv:2210.07879 (2022).
 
 
 ## Data Augmentation
