@@ -41,6 +41,9 @@ Papers related to machine learning, deep learning and reinforcement learning
     * [Autonomous Driving](#autonomous-driving)
     * [Traffic Signal Control](#traffic-signal-control)
 
+* [Machine Learning](#machine-learning)
+  *[Multiple Instance Learning](#multiple-instance-learning)
+
 * [Computer Vision](computer-vision)
   * [Image Classification](#image-classification)
   * [Object Detection](#object-detection)
@@ -202,6 +205,13 @@ Papers related to machine learning, deep learning and reinforcement learning
 - self-play: Tang, Yichuan. **"Towards learning multi-agent negotiations via self-play."** Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops. 2019.
 
 ### Traffic Signal Control
+
+
+# Machine Learning
+
+## Multiple Instance Learning
+- Amores, Jaume. "Multiple instance classification: Review, taxonomy and comparative study." Artificial intelligence 201 (2013): 81-105.
+
 
 
 # Computer Vision
