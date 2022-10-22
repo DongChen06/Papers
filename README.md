@@ -42,7 +42,7 @@ Papers related to machine learning, deep learning and reinforcement learning
     * [Traffic Signal Control](#traffic-signal-control)
 
 * [Machine Learning](#machine-learning)
-  *[Multiple Instance Learning](#multiple-instance-learning)
+  * [Multiple Instance Learning](#multiple-instance-learning)
 
 * [Computer Vision](computer-vision)
   * [Image Classification](#image-classification)
