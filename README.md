@@ -2,13 +2,13 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Wen, Muning, et al. "Multi-Agent Reinforcement Learning is a Sequence Modeling Problem." arXiv preprint arXiv:2205.14953 (2022).
+- Kuba, Jakub Grudzien, et al. **"Trust region policy optimisation in multi-agent reinforcement learning."** arXiv preprint arXiv:2109.11251 (2021).
+- Kuba, Jakub Grudzien, et al. **"Settling the variance of multi-agent policy gradients."** Advances in Neural Information Processing Systems 34 (2021): 13458-13470.
 - Roggiolani, Gianmarco, et al. "Hierarchical Approach for Joint Semantic, Plant Instance, and Leaf Instance Segmentation in the Agricultural Domain." arXiv preprint arXiv:2210.07879 (2022).
 - Hu, Chengsong, et al. "Algorithm and System Development for Robotic Micro-Volume Herbicide Spray Towards Precision Weed Management." IEEE Robotics and Automation Letters 7.4 (2022): 11633-11640.
 - Li, Yanwei, et al. "Fully convolutional networks for panoptic segmentation with point-based supervision." IEEE Transactions on Pattern Analysis and Machine Intelligence (2022).
 - Rao, Yongming, et al. "Dynamicvit: Efficient vision transformers with dynamic token sparsification." Advances in neural information processing systems 34 (2021): 13937-13949.
-- Du, Yayun, et al. "Deep-cnn based robotic multi-class under-canopy weed control in precision farming." 2022 International Conference on Robotics and Automation (ICRA). IEEE, 2022.
-- Lee, Hyo-Jun, et al. "MSENet: Marbling score estimation network for automated assessment of Korean beef." Meat Science 188 (2022): 108784.
-- Chen, Dian, et al. "Learning by cheating." Conference on Robot Learning. PMLR, 2020.
 
 
 ## Contents
@@ -173,7 +173,9 @@ Papers related to machine learning, deep learning and reinforcement learning
  
 
 ## Policy-based MARL
-
+- Wen, Muning, et al. "Multi-Agent Reinforcement Learning is a Sequence Modeling Problem." arXiv preprint arXiv:2205.14953 (2022).
+- Kuba, Jakub Grudzien, et al. **"Trust region policy optimisation in multi-agent reinforcement learning."** arXiv preprint arXiv:2109.11251 (2021).
+- Kuba, Jakub Grudzien, et al. **"Settling the variance of multi-agent policy gradients."** Advances in Neural Information Processing Systems 34 (2021): 13458-13470.
 - ConsensusNet (2018): Zhang, Kaiqing, et al. **"Fully decentralized multi-agent reinforcement learning with networked agents."** arXiv preprint arXiv:1802.08757 (2018).
 - MAAC: Iqbal, Shariq, and Fei Sha. **"Actor-attention-critic for multi-agent reinforcement learning."** International Conference on Machine Learning. PMLR, 2019.
 - NeurComm: Chu, Tianshu, Sandeep Chinchali, and Sachin Katti. **"Multi-agent Reinforcement Learning for Networked System Control."** arXiv preprint arXiv:2004.01339 (2020).
