@@ -173,7 +173,8 @@ Papers related to machine learning, deep learning and reinforcement learning
  
 
 ## Policy-based MARL
-- Wen, Muning, et al. "Multi-Agent Reinforcement Learning is a Sequence Modeling Problem." arXiv preprint arXiv:2205.14953 (2022).
+- Wen, Muning, et al. **"Multi-Agent Reinforcement Learning is a Sequence Modeling Problem."** arXiv preprint arXiv:2205.14953 (2022).
+- Yu, Chao, et al. **"The surprising effectiveness of ppo in cooperative, multi-agent games."** arXiv preprint arXiv:2103.01955 (2021).
 - Kuba, Jakub Grudzien, et al. **"Trust region policy optimisation in multi-agent reinforcement learning."** arXiv preprint arXiv:2109.11251 (2021).
 - Kuba, Jakub Grudzien, et al. **"Settling the variance of multi-agent policy gradients."** Advances in Neural Information Processing Systems 34 (2021): 13458-13470.
 - ConsensusNet (2018): Zhang, Kaiqing, et al. **"Fully decentralized multi-agent reinforcement learning with networked agents."** arXiv preprint arXiv:1802.08757 (2018).
