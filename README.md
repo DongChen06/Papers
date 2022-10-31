@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Bansal, Arpit, et al. "Cold diffusion: Inverting arbitrary image transforms without noise." arXiv preprint arXiv:2208.09392 (2022).
 - Wen, Muning, et al. "Multi-Agent Reinforcement Learning is a Sequence Modeling Problem." arXiv preprint arXiv:2205.14953 (2022).
 - Kuba, Jakub Grudzien, et al. **"Trust region policy optimisation in multi-agent reinforcement learning."** arXiv preprint arXiv:2109.11251 (2021).
 - Kuba, Jakub Grudzien, et al. **"Settling the variance of multi-agent policy gradients."** Advances in Neural Information Processing Systems 34 (2021): 13458-13470.
@@ -232,7 +233,10 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Li, Qizhu, Anurag Arnab, and Philip HS Torr. **"Weakly-and semi-supervised panoptic segmentation."** Proceedings of the European conference on computer vision (ECCV). 2018.
 - Kirillov, Alexander, et al. **"Panoptic segmentation."** Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.
 
+
+
 ## Diffusion Models
+- Bansal, Arpit, et al. **"Cold diffusion: Inverting arbitrary image transforms without noise."** arXiv preprint arXiv:2208.09392 (2022).
 - Sohl-Dickstein, Jascha, et al. **"Deep unsupervised learning using nonequilibrium thermodynamics."** International Conference on Machine Learning. PMLR, 2015.
 - Ho, Jonathan, Ajay Jain, and Pieter Abbeel. **"Denoising diffusion probabilistic models."** Advances in Neural Information Processing Systems 33 (2020): 6840-6851.
 - Song, Jiaming, Chenlin Meng, and Stefano Ermon. **"Denoising diffusion implicit models."** arXiv preprint arXiv:2010.02502 (2020).
