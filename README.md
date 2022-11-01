@@ -22,9 +22,9 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Transfer Learning](#transfer-learning)
   * [Diffusion Models RL](#diffusion-models-rl)
   * [Applications](#applications)
-    * [Intelligent Transportation Systems](#intelligent-transportation-systems)
-    * [Gaming](#gaming)
-    * [Robotics](#robotics)
+   * [Intelligent Transportation Systems](#intelligent-transportation-systems)
+   * [Gaming](#gaming)
+   * [Robotics](#robotics)
 
   
 * [Multi Agent Reinforcement Learning](#multi-agent-reinforcement-learning)
@@ -37,8 +37,8 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Attention](#attention)
   * [Multi-agent Imitation Learning](#multi-agent-imitation-learning)
   * [Traffic Applications](#traffic-applications)
-    * [Autonomous Driving](#autonomous-driving)
-    * [Traffic Signal Control](#traffic-signal-control)
+   * [Autonomous Driving](#autonomous-driving)
+   * [Traffic Signal Control](#traffic-signal-control)
 
 * [Machine Learning](#machine-learning)
   * [Multiple Instance Learning](#multiple-instance-learning)
@@ -60,6 +60,8 @@ Papers related to machine learning, deep learning and reinforcement learning
   
 * [Power System](#power-system)
   * [Voltage and Frequency Control](#voltage-and-frequency-control)
+  * [Energy Trading](#energy-trading)
+  * [Testbed](#testbed)
   
 * [Smart Agriculture](#smart-agriculture)
   * [Weed Control](#weed-control)
