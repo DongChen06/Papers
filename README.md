@@ -2,14 +2,14 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
-- Bansal, Arpit, et al. "Cold diffusion: Inverting arbitrary image transforms without noise." arXiv preprint arXiv:2208.09392 (2022).
-- Wen, Muning, et al. "Multi-Agent Reinforcement Learning is a Sequence Modeling Problem." arXiv preprint arXiv:2205.14953 (2022).
+- Bansal, Arpit, et al. **"Cold diffusion: Inverting arbitrary image transforms without noise."** arXiv preprint arXiv:2208.09392 (2022).
+- Wen, Muning, et al. **"Multi-Agent Reinforcement Learning is a Sequence Modeling Problem."** arXiv preprint arXiv:2205.14953 (2022).
 - Kuba, Jakub Grudzien, et al. **"Trust region policy optimisation in multi-agent reinforcement learning."** arXiv preprint arXiv:2109.11251 (2021).
 - Kuba, Jakub Grudzien, et al. **"Settling the variance of multi-agent policy gradients."** Advances in Neural Information Processing Systems 34 (2021): 13458-13470.
-- Roggiolani, Gianmarco, et al. "Hierarchical Approach for Joint Semantic, Plant Instance, and Leaf Instance Segmentation in the Agricultural Domain." arXiv preprint arXiv:2210.07879 (2022).
-- Hu, Chengsong, et al. "Algorithm and System Development for Robotic Micro-Volume Herbicide Spray Towards Precision Weed Management." IEEE Robotics and Automation Letters 7.4 (2022): 11633-11640.
-- Li, Yanwei, et al. "Fully convolutional networks for panoptic segmentation with point-based supervision." IEEE Transactions on Pattern Analysis and Machine Intelligence (2022).
-- Rao, Yongming, et al. "Dynamicvit: Efficient vision transformers with dynamic token sparsification." Advances in neural information processing systems 34 (2021): 13937-13949.
+- Roggiolani, Gianmarco, et al. **"Hierarchical Approach for Joint Semantic, Plant Instance, and Leaf Instance Segmentation in the Agricultural Domain."** arXiv preprint arXiv:2210.07879 (2022).
+- Hu, Chengsong, et al. **"Algorithm and System Development for Robotic Micro-Volume Herbicide Spray Towards Precision Weed Management."** IEEE Robotics and Automation Letters 7.4 (2022): 11633-11640.
+- Li, Yanwei, et al. **"Fully convolutional networks for panoptic segmentation with point-based supervision."** IEEE Transactions on Pattern Analysis and Machine Intelligence (2022).
+- Rao, Yongming, et al. **"Dynamicvit: Efficient vision transformers with dynamic token sparsification."** Advances in neural information processing systems 34 (2021): 13937-13949.
 
 
 ## Contents
@@ -92,7 +92,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 - [Esemble] Hiraoka, Takuya, et al. **"Dropout Q-Functions for Doubly Efficient Reinforcement Learning."** arXiv preprint arXiv:2110.02034 (2021).
 
 ## Policy-based
-- (Auxiliary tasks) Jaderberg, Max, et al. "Reinforcement learning with unsupervised auxiliary tasks." arXiv preprint arXiv:1611.05397 (2016).
+- (Auxiliary tasks) Jaderberg, Max, et al. **"Reinforcement learning with unsupervised auxiliary tasks."** arXiv preprint arXiv:1611.05397 (2016).
 
 
 ## Offline RL
@@ -124,7 +124,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 
 ## Imitation Learning
-- Chen, Dian, et al. "Learning by cheating." Conference on Robot Learning. PMLR, 2020.
+- Chen, Dian, et al. **"Learning by cheating." Conference on Robot Learning.** PMLR, 2020.
 - Lynch, Corey, et al. **"Learning latent plans from play."** Conference on Robot Learning. PMLR, 2020.
 - (BCQ) Torabi, Faraz, Garrett Warnell, and Peter Stone. **"Behavioral cloning from observation."** arXiv preprint arXiv:1805.01954 (2018).
 - (ILPO) Edwards, Ashley, et al. **"Imitating latent policies from observation."** International Conference on Machine Learning. PMLR, 2019.
@@ -170,7 +170,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 - QMIX (2018): Rashid, Tabish, et al. **"QMIX: Monotonic value function factorisation for deep multi-agent reinforcement learning."** arXiv preprint arXiv:1803.11485 (2018).
 - DIAL (2016): Foerster, Jakob, et al. **"Learning to communicate with deep multi-agent reinforcement learning."** Advances in neural information processing systems. 2016.
 - CommNet (2016): Sukhbaatar, Sainbayar, and Rob Fergus. **"Learning multiagent communication with backpropagation."** Advances in neural information processing systems. 2016.
-- IAC (2021): Ma, Xiaoteng, et al. "Modeling the Interaction between Agents in Cooperative Multi-Agent Reinforcement Learning." arXiv preprint arXiv:2102.06042 (2021).
+- IAC (2021): Ma, Xiaoteng, et al. **"Modeling the Interaction between Agents in Cooperative Multi-Agent Reinforcement Learning."** arXiv preprint arXiv:2102.06042 (2021).
  
 
 ## Policy-based MARL
@@ -197,10 +197,10 @@ Papers related to machine learning, deep learning and reinforcement learning
 - ICQ: Yang, Yiqin, et al. **"Believe What You See: Implicit Constraint Approach for Offline Multi-Agent Reinforcement Learning."** arXiv preprint arXiv:2106.03400 (2021).
 
 ## Attention
-- Qi, Shuhan, et al. "Cascaded Attention: Adaptive and Gated Graph Attention Network for Multiagent Reinforcement Learning." IEEE Transactions on Neural Networks and Learning Systems (2022).
+- Qi, Shuhan, et al. **"Cascaded Attention: Adaptive and Gated Graph Attention Network for Multiagent Reinforcement Learning."** IEEE Transactions on Neural Networks and Learning Systems (2022).
 
 ## Multi-agent Imitation Learning
-- Wang, Hongwei, et al. "Multi-Agent Imitation Learning with Copulas." arXiv preprint arXiv:2107.04750 (2021).
+- Wang, Hongwei, et al. **"Multi-Agent Imitation Learning with Copulas."** arXiv preprint arXiv:2107.04750 (2021).
 
 
 ## Traffic Applications
@@ -214,7 +214,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 # Machine Learning
 
 ## Multiple Instance Learning
-- Amores, Jaume. "Multiple instance classification: Review, taxonomy and comparative study." Artificial intelligence 201 (2013): 81-105.
+- Amores, Jaume. **"Multiple instance classification: Review, taxonomy and comparative study."** Artificial intelligence 201 (2013): 81-105.
 
 
 
@@ -222,7 +222,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Image Classification
 
 ## Object Detection
-- Ali, Mansoor, Gilberto Ochoa-Ruiz, and Sharib Ali. "A semi-supervised Teacher-Student framework for surgical tool detection and localization." arXiv preprint arXiv:2208.09926 (2022).
+- Ali, Mansoor, Gilberto Ochoa-Ruiz, and Sharib Ali. **"A semi-supervised Teacher-Student framework for surgical tool detection and localization."** arXiv preprint arXiv:2208.09926 (2022).
 
 ## Image Segmentation
 
@@ -281,12 +281,12 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 # Power System
 ## Voltage and Frequency Control
-- Wang, Minrui, et al. "Stabilizing Voltage in Power Distribution Networks via Multi-Agent Reinforcement Learning with Transformer." arXiv preprint arXiv:2206.03721 (2022).
-- Wang, Jianhong, et al. "Multi-agent reinforcement learning for active voltage control on power distribution networks." Advances in Neural Information Processing Systems 34 (2021): 3271-3284.
+- Wang, Minrui, et al. **"Stabilizing Voltage in Power Distribution Networks via Multi-Agent Reinforcement Learning with Transformer."** arXiv preprint arXiv:2206.03721 (2022).
+- Wang, Jianhong, et al. **"Multi-agent reinforcement learning for active voltage control on power distribution networks."** Advances in Neural Information Processing Systems 34 (2021): 3271-3284.
 
 
 ## Testbed
-- Meinecke, Steffen, et al. "Simbench—a benchmark dataset of electric power systems to compare innovative solutions based on power flow analysis." Energies 13.12 (2020): 3290.
+- Meinecke, Steffen, et al. **"Simbench—a benchmark dataset of electric power systems to compare innovative solutions based on power flow analysis."** Energies 13.12 (2020): 3290.
 
 
 # Smart Agriculture
@@ -303,7 +303,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Siddique, Abubakar, Amy Tabb, and Henry Medeiros. **"Self-supervised Learning for Panoptic Segmentation of Multiple Fruit Flower Species."** arXiv preprint arXiv:2209.04618 (2022).
 
 ## Plant Phenotyping
-- Roggiolani, Gianmarco, et al. "Hierarchical Approach for Joint Semantic, Plant Instance, and Leaf Instance Segmentation in the Agricultural Domain." arXiv preprint arXiv:2210.07879 (2022).
+- Roggiolani, Gianmarco, et al. **"Hierarchical Approach for Joint Semantic, Plant Instance, and Leaf Instance Segmentation in the Agricultural Domain."** arXiv preprint arXiv:2210.07879 (2022).
 
 
 ## Data Augmentation
@@ -311,17 +311,17 @@ Papers related to machine learning, deep learning and reinforcement learning
 - [Survey] Xu, Mingle, et al. **"A Comprehensive Survey of Image Augmentation Techniques for Deep Learning."** arXiv preprint arXiv:2205.01491 (2022).
 
 ## Meat Science
-- Lee, Hyo-Jun, et al. "MSENet: Marbling score estimation network for automated assessment of Korean beef." Meat Science 188 (2022): 108784.
+- Lee, Hyo-Jun, et al. **"MSENet: Marbling score estimation network for automated assessment of Korean beef."** Meat Science 188 (2022): 108784.
 
 
 # Agricultural Robots
-- Hu, Chengsong, et al. "Algorithm and System Development for Robotic Micro-Volume Herbicide Spray Towards Precision Weed Management." IEEE Robotics and Automation Letters 7.4 (2022): 11633-11640.
+- Hu, Chengsong, et al. **"Algorithm and System Development for Robotic Micro-Volume Herbicide Spray Towards Precision Weed Management."** IEEE Robotics and Automation Letters 7.4 (2022): 11633-11640.
 
 
 
 # Robotics
 ## Soft Robots
-- Xiao, Xuesu, et al. "Learning Model Predictive Controllers with Real-Time Attention for Real-World Navigation." arXiv preprint arXiv:2209.10780 (2022).
+- Xiao, Xuesu, et al. **"Learning Model Predictive Controllers with Real-Time Attention for Real-World Navigation."** arXiv preprint arXiv:2209.10780 (2022).
 - Gasoto, Renato, et al. **"A validated physical model for real-time simulation of soft robotic snakes."** 2019 International Conference on Robotics and Automation (ICRA). IEEE, 2019.
 - Liu, Xuan, et al. **"Learning to locomote with artificial neural-network and cpg-based control in a soft snake robot."** 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2020.
 - Liu, Xuan, Cagdas Onal, and Jie Fu. **"Reinforcement Learning of a CPG-regulated Locomotion Controller for a Soft Snake Robot."** arXiv preprint arXiv:2207.04899 (2022).
@@ -337,8 +337,8 @@ Papers related to machine learning, deep learning and reinforcement learning
 - [Esemble] Hiraoka, Takuya, et al. **"Dropout Q-Functions for Doubly Efficient Reinforcement Learning."** arXiv preprint arXiv:2110.02034 (2021).
 
 ## Curriculum Learning
-- Chen, Dong, et al. "Deep multi-agent reinforcement learning for highway on-ramp merging in mixed traffic." arXiv preprint arXiv:2105.05701 (2021).
-- Liu, Xuan, et al. "Learning to locomote with artificial neural-network and cpg-based control in a soft snake robot." 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2020.
-- Zeng, Yilei, et al. "Human Decision Makings on Curriculum Reinforcement Learning with Difficulty Adjustment." arXiv preprint arXiv:2208.02932 (2022).
+- Chen, Dong, et al. **"Deep multi-agent reinforcement learning for highway on-ramp merging in mixed traffic."** arXiv preprint arXiv:2105.05701 (2021).
+- Liu, Xuan, et al. **"Learning to locomote with artificial neural-network and cpg-based control in a soft snake robot."** 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2020.
+- Zeng, Yilei, et al. **"Human Decision Makings on Curriculum Reinforcement Learning with Difficulty Adjustment."** arXiv preprint arXiv:2208.02932 (2022).
 
 
