@@ -283,6 +283,9 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Wang, Minrui, et al. **"Stabilizing Voltage in Power Distribution Networks via Multi-Agent Reinforcement Learning with Transformer."** arXiv preprint arXiv:2206.03721 (2022).
 - Wang, Jianhong, et al. **"Multi-agent reinforcement learning for active voltage control on power distribution networks."** Advances in Neural Information Processing Systems 34 (2021): 3271-3284.
 
+## Energy Trading
+- Qiu, Dawei, et al. **"Mean-Field Multi-Agent Reinforcement Learning for Peer-to-Peer Multi-Energy Trading."** IEEE Transactions on Power Systems (2022).
+- Chen, Tianyi, et al. **"Peer-to-peer energy trading and energy conversion in interconnected multi-energy microgrids using multi-agent deep reinforcement learning."** IEEE Transactions on Smart Grid 13.1 (2021): 715-727.
 
 ## Testbed
 - Meinecke, Steffen, et al. **"Simbench—a benchmark dataset of electric power systems to compare innovative solutions based on power flow analysis."** Energies 13.12 (2020): 3290.
