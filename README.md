@@ -2,14 +2,12 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Zhang, Jiawei, et al. **"Multi-Agent DRL-Based Lane Change With Right-of-Way Collaboration Awareness."** IEEE Transactions on Intelligent Transportation Systems (2022).
 - Bansal, Arpit, et al. **"Cold diffusion: Inverting arbitrary image transforms without noise."** arXiv preprint arXiv:2208.09392 (2022).
 - Wen, Muning, et al. **"Multi-Agent Reinforcement Learning is a Sequence Modeling Problem."** arXiv preprint arXiv:2205.14953 (2022).
 - Kuba, Jakub Grudzien, et al. **"Trust region policy optimisation in multi-agent reinforcement learning."** arXiv preprint arXiv:2109.11251 (2021).
 - Kuba, Jakub Grudzien, et al. **"Settling the variance of multi-agent policy gradients."** Advances in Neural Information Processing Systems 34 (2021): 13458-13470.
 - Roggiolani, Gianmarco, et al. **"Hierarchical Approach for Joint Semantic, Plant Instance, and Leaf Instance Segmentation in the Agricultural Domain."** arXiv preprint arXiv:2210.07879 (2022).
-- Hu, Chengsong, et al. **"Algorithm and System Development for Robotic Micro-Volume Herbicide Spray Towards Precision Weed Management."** IEEE Robotics and Automation Letters 7.4 (2022): 11633-11640.
-- Li, Yanwei, et al. **"Fully convolutional networks for panoptic segmentation with point-based supervision."** IEEE Transactions on Pattern Analysis and Machine Intelligence (2022).
-- Rao, Yongming, et al. **"Dynamicvit: Efficient vision transformers with dynamic token sparsification."** Advances in neural information processing systems 34 (2021): 13937-13949.
 
 
 ## Contents
@@ -206,6 +204,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Traffic Applications
 
 ### Autonomous Driving
+- Zhang, Jiawei, et al. **"Multi-Agent DRL-Based Lane Change With Right-of-Way Collaboration Awareness."** IEEE Transactions on Intelligent Transportation Systems (2022).
 - self-play: Tang, Yichuan. **"Towards learning multi-agent negotiations via self-play."** Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops. 2019.
 
 ### Traffic Signal Control
