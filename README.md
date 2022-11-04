@@ -36,6 +36,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Offline MARL](#offline-marl)
   * [Attention](#attention)
   * [Multi-agent Imitation Learning](#multi-agent-imitation-learning)
+  * [Simulator](#simulator)
   * [Traffic Applications](#traffic-applications)
    * [Autonomous Driving](#autonomous-driving)
    * [Traffic Signal Control](#traffic-signal-control)
