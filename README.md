@@ -203,6 +203,8 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Multi-agent Imitation Learning
 - Wang, Hongwei, et al. **"Multi-Agent Imitation Learning with Copulas."** arXiv preprint arXiv:2107.04750 (2021).
 
+## Simulator
+- Peng, Bei, et al. **"Facmac: Factored multi-agent centralised policy gradients."** Advances in Neural Information Processing Systems 34 (2021): 12208-12221.
 
 ## Traffic Applications
 
