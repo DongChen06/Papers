@@ -156,8 +156,8 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Zha, Daochen, et al. **"DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning."** arXiv preprint arXiv:2106.06135 (2021).
 
 ### Robotics
-- Evans, Benjamin, et al. "Accelerating Online Reinforcement Learning via Supervisory Safety Systems." arXiv preprint arXiv:2209.11082 (2022).
-
+- Evans, Benjamin, et al. **"Accelerating Online Reinforcement Learning via Supervisory Safety Systems."** arXiv preprint arXiv:2209.11082 (2022).
+- Neunert, Michael, et al. **"Continuous-discrete reinforcement learning for hybrid control in robotics."** Conference on Robot Learning. PMLR, 2020.
 
 
 # Multi Agent Reinforcement Learning
