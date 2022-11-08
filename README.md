@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Li, Boyan, et al. **"Hyar: Addressing discrete-continuous action reinforcement learning via hybrid action representation."** arXiv preprint arXiv:2109.05490 (2021).
 - Zhang, Jiawei, et al. **"Multi-Agent DRL-Based Lane Change With Right-of-Way Collaboration Awareness."** IEEE Transactions on Intelligent Transportation Systems (2022).
 - Bansal, Arpit, et al. **"Cold diffusion: Inverting arbitrary image transforms without noise."** arXiv preprint arXiv:2208.09392 (2022).
 - Wen, Muning, et al. **"Multi-Agent Reinforcement Learning is a Sequence Modeling Problem."** arXiv preprint arXiv:2205.14953 (2022).
@@ -147,6 +148,13 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Wang, Zhendong, Jonathan J. Hunt, and Mingyuan Zhou. **"Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning."** arXiv preprint arXiv:2208.06193 (2022).
 - Janner, Michael, et al. **"Planning with Diffusion for Flexible Behavior Synthesis."** arXiv preprint arXiv:2205.09991 (2022).
 
+
+## Hybrid Action Space
+- Li, Boyan, et al. **"Hyar: Addressing discrete-continuous action reinforcement learning via hybrid action representation."** arXiv preprint arXiv:2109.05490 (2021).
+- Neunert, Michael, et al. **"Continuous-discrete reinforcement learning for hybrid control in robotics."** Conference on Robot Learning. PMLR, 2020.
+
+
+
 ## Applications
 
 ### Intelligent Transportation Systems
@@ -157,7 +165,6 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 ### Robotics
 - Evans, Benjamin, et al. **"Accelerating Online Reinforcement Learning via Supervisory Safety Systems."** arXiv preprint arXiv:2209.11082 (2022).
-- Neunert, Michael, et al. **"Continuous-discrete reinforcement learning for hybrid control in robotics."** Conference on Robot Learning. PMLR, 2020.
 
 
 # Multi Agent Reinforcement Learning
