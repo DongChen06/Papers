@@ -119,6 +119,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Kurutach, Thanard, et al. **"Model-ensemble trust-region policy optimization."** arXiv preprint arXiv:1802.10592 (2018).
 - Matsushima, Tatsuya, et al. **"Deployment-efficient reinforcement learning via model-based offline optimization."** arXiv preprint arXiv:2006.03647 (2020).
 - Zhang, Marvin, et al. **"Solar: Deep structured representations for model-based reinforcement learning."** International Conference on Machine Learning. PMLR, 2019.
+- Kaiser, Lukasz, et al. **"Model-based reinforcement learning for atari."** arXiv preprint arXiv:1903.00374 (2019).
 
 
 **Uncertainty Estimate**
