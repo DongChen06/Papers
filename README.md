@@ -19,6 +19,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Model Based](#model-based)
   * [Offline RL](#offline-rl)
   * [Imitation Learning](#imitation-learning)
+  * [Semi-supervised](#semi-supervised)
   * [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
   * [Transfer Learning](#transfer-learning)
   * [Diffusion Models RL](#diffusion-models-rl)
@@ -133,6 +134,10 @@ Papers related to machine learning, deep learning and reinforcement learning
 - (BCQ) Torabi, Faraz, Garrett Warnell, and Peter Stone. **"Behavioral cloning from observation."** arXiv preprint arXiv:1805.01954 (2018).
 - (ILPO) Edwards, Ashley, et al. **"Imitating latent policies from observation."** International Conference on Machine Learning. PMLR, 2019.
 
+
+## Semi-supervised
+- Park, Jongjin, et al. **"SURF: Semi-supervised Reward Learning with Data Augmentation for Feedback-efficient Preference-based Reinforcement Learning."** arXiv preprint arXiv:2203.10050 (2022).
+- Finn, Chelsea, et al. **"Generalizing skills with semi-supervised reinforcement learning."** arXiv preprint arXiv:1612.00429 (2016).
 
 ## Hierarchical Reinforcement Learning
 - Nachum, Ofir, et al. **"Data-efficient hierarchical reinforcement learning."** arXiv preprint arXiv:1805.08296 (2018).
