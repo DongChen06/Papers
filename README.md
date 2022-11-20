@@ -164,6 +164,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Applications
 
 ### Intelligent Transportation Systems
+- Liu, Haochen, et al. **"Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving."** arXiv preprint arXiv:2208.12263 (2022).
 - Mavrogiannis, Angelos, Rohan Chandra, and Dinesh Manocha.  **"B-GAP: Behavior-Guided Action Prediction for Autonomous Navigation."** arXiv preprint arXiv:2011.03748 (2020).
 
 ### Gaming
