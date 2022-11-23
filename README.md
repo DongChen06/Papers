@@ -54,6 +54,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [GANs](#gans)
   * [Diffusion Models](#diffusion-models)
   * [Transformers](#transformers)
+  * [Domain Adaptation](#domain-adaptation)
 
 * [Meta Learning](#meta-Learning)
   * [Meta Learning](#meta-learning)
@@ -266,6 +267,12 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 ## Transformers
 - Rao, Yongming, et al. **"Dynamicvit: Efficient vision transformers with dynamic token sparsification."** Advances in neural information processing systems 34 (2021): 13937-13949.
+
+
+## Domain Adaptation
+- 
+
+
 
 
 # Meta Learning
