@@ -270,7 +270,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 
 ## Domain Adaptation
-- 
+- Tzeng, Eric, et al. "Adversarial discriminative domain adaptation." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017.
 
 
 
