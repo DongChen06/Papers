@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Liu, Wenbo, et al. **"Touchless interactive teaching of soft robots through flexible bimodal sensory interfaces."** Nature communications 13.1 (2022): 1-14.
 - Li, Boyan, et al. **"Hyar: Addressing discrete-continuous action reinforcement learning via hybrid action representation."** arXiv preprint arXiv:2109.05490 (2021).
 - Zhang, Jiawei, et al. **"Multi-Agent DRL-Based Lane Change With Right-of-Way Collaboration Awareness."** IEEE Transactions on Intelligent Transportation Systems (2022).
 - Bansal, Arpit, et al. **"Cold diffusion: Inverting arbitrary image transforms without noise."** arXiv preprint arXiv:2208.09392 (2022).
@@ -350,6 +351,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 # Robotics
 ## Soft Robots
+- Liu, Wenbo, et al. **"Touchless interactive teaching of soft robots through flexible bimodal sensory interfaces."** Nature communications 13.1 (2022): 1-14.
 - Xiao, Xuesu, et al. **"Learning Model Predictive Controllers with Real-Time Attention for Real-World Navigation."** arXiv preprint arXiv:2209.10780 (2022).
 - Gasoto, Renato, et al. **"A validated physical model for real-time simulation of soft robotic snakes."** 2019 International Conference on Robotics and Automation (ICRA). IEEE, 2019.
 - Liu, Xuan, et al. **"Learning to locomote with artificial neural-network and cpg-based control in a soft snake robot."** 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2020.
