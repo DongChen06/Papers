@@ -2,14 +2,12 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Guo, Xudong, Daming Shi, and Wenhui Fan. **"Scalable Communication for Multi-Agent Reinforcement Learning via Transformer-Based Email Mechanism."** arXiv preprint arXiv:2301.01919 (2023).
 - Liu, Wenbo, et al. **"Touchless interactive teaching of soft robots through flexible bimodal sensory interfaces."** Nature communications 13.1 (2022): 1-14.
 - Li, Boyan, et al. **"Hyar: Addressing discrete-continuous action reinforcement learning via hybrid action representation."** arXiv preprint arXiv:2109.05490 (2021).
 - Zhang, Jiawei, et al. **"Multi-Agent DRL-Based Lane Change With Right-of-Way Collaboration Awareness."** IEEE Transactions on Intelligent Transportation Systems (2022).
 - Bansal, Arpit, et al. **"Cold diffusion: Inverting arbitrary image transforms without noise."** arXiv preprint arXiv:2208.09392 (2022).
 - Wen, Muning, et al. **"Multi-Agent Reinforcement Learning is a Sequence Modeling Problem."** arXiv preprint arXiv:2205.14953 (2022).
-- Kuba, Jakub Grudzien, et al. **"Trust region policy optimisation in multi-agent reinforcement learning."** arXiv preprint arXiv:2109.11251 (2021).
-- Kuba, Jakub Grudzien, et al. **"Settling the variance of multi-agent policy gradients."** Advances in Neural Information Processing Systems 34 (2021): 13458-13470.
-- Roggiolani, Gianmarco, et al. **"Hierarchical Approach for Joint Semantic, Plant Instance, and Leaf Instance Segmentation in the Agricultural Domain."** arXiv preprint arXiv:2210.07879 (2022).
 
 
 ## Contents
@@ -215,6 +213,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 - ICQ: Yang, Yiqin, et al. **"Believe What You See: Implicit Constraint Approach for Offline Multi-Agent Reinforcement Learning."** arXiv preprint arXiv:2106.03400 (2021).
 
 ## Attention
+- Guo, Xudong, Daming Shi, and Wenhui Fan. **"Scalable Communication for Multi-Agent Reinforcement Learning via Transformer-Based Email Mechanism."** arXiv preprint arXiv:2301.01919 (2023).
 - Qi, Shuhan, et al. **"Cascaded Attention: Adaptive and Gated Graph Attention Network for Multiagent Reinforcement Learning."** IEEE Transactions on Neural Networks and Learning Systems (2022).
 
 ## Multi-agent Imitation Learning
@@ -230,6 +229,8 @@ Papers related to machine learning, deep learning and reinforcement learning
 - self-play: Tang, Yichuan. **"Towards learning multi-agent negotiations via self-play."** Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops. 2019.
 
 ### Traffic Signal Control
+
+
 
 
 # Machine Learning
