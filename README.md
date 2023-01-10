@@ -2,12 +2,12 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Huang, Wenhui, et al. **"Goal-guided Transformer-enabled Reinforcement Learning for Efficient Autonomous Navigation."** arXiv preprint arXiv:2301.00362 (2023).
 - Guo, Xudong, Daming Shi, and Wenhui Fan. **"Scalable Communication for Multi-Agent Reinforcement Learning via Transformer-Based Email Mechanism."** arXiv preprint arXiv:2301.01919 (2023).
 - Liu, Wenbo, et al. **"Touchless interactive teaching of soft robots through flexible bimodal sensory interfaces."** Nature communications 13.1 (2022): 1-14.
 - Li, Boyan, et al. **"Hyar: Addressing discrete-continuous action reinforcement learning via hybrid action representation."** arXiv preprint arXiv:2109.05490 (2021).
 - Zhang, Jiawei, et al. **"Multi-Agent DRL-Based Lane Change With Right-of-Way Collaboration Awareness."** IEEE Transactions on Intelligent Transportation Systems (2022).
 - Bansal, Arpit, et al. **"Cold diffusion: Inverting arbitrary image transforms without noise."** arXiv preprint arXiv:2208.09392 (2022).
-- Wen, Muning, et al. **"Multi-Agent Reinforcement Learning is a Sequence Modeling Problem."** arXiv preprint arXiv:2205.14953 (2022).
 
 
 ## Contents
@@ -164,6 +164,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Applications
 
 ### Intelligent Transportation Systems
+- Huang, Wenhui, et al. **"Goal-guided Transformer-enabled Reinforcement Learning for Efficient Autonomous Navigation."** arXiv preprint arXiv:2301.00362 (2023).
 - Liu, Haochen, et al. **"Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving."** arXiv preprint arXiv:2208.12263 (2022).
 - Mavrogiannis, Angelos, Rohan Chandra, and Dinesh Manocha.  **"B-GAP: Behavior-Guided Action Prediction for Autonomous Navigation."** arXiv preprint arXiv:2011.03748 (2020).
 
