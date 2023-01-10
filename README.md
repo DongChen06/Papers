@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Mao, Hangyu, et al. **"Transformer in Transformer as Backbone for Deep Reinforcement Learning."** arXiv preprint arXiv:2212.14538 (2022).
 - Huang, Wenhui, et al. **"Goal-guided Transformer-enabled Reinforcement Learning for Efficient Autonomous Navigation."** arXiv preprint arXiv:2301.00362 (2023).
 - Guo, Xudong, Daming Shi, and Wenhui Fan. **"Scalable Communication for Multi-Agent Reinforcement Learning via Transformer-Based Email Mechanism."** arXiv preprint arXiv:2301.01919 (2023).
 - Liu, Wenbo, et al. **"Touchless interactive teaching of soft robots through flexible bimodal sensory interfaces."** Nature communications 13.1 (2022): 1-14.
@@ -22,6 +23,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
   * [Transfer Learning](#transfer-learning)
   * [Diffusion Models RL](#diffusion-models-rl)
+  * [Transformer](#transformer)
   * [Applications](#applications)
    * [Intelligent Transportation Systems](#intelligent-transportation-systems)
    * [Gaming](#gaming)
@@ -159,7 +161,8 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Li, Boyan, et al. **"Hyar: Addressing discrete-continuous action reinforcement learning via hybrid action representation."** arXiv preprint arXiv:2109.05490 (2021).
 - Neunert, Michael, et al. **"Continuous-discrete reinforcement learning for hybrid control in robotics."** Conference on Robot Learning. PMLR, 2020.
 
-
+## Transformer
+- Mao, Hangyu, et al. **"Transformer in Transformer as Backbone for Deep Reinforcement Learning."** arXiv preprint arXiv:2212.14538 (2022).
 
 ## Applications
 
