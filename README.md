@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Yang, Zhihan, and Hai Nguyen. **"Recurrent off-policy baselines for memory-based continuous control."** arXiv preprint arXiv:2110.12628 (2021).
 - Mao, Hangyu, et al. **"Transformer in Transformer as Backbone for Deep Reinforcement Learning."** arXiv preprint arXiv:2212.14538 (2022).
 - Huang, Wenhui, et al. **"Goal-guided Transformer-enabled Reinforcement Learning for Efficient Autonomous Navigation."** arXiv preprint arXiv:2301.00362 (2023).
 - Guo, Xudong, Daming Shi, and Wenhui Fan. **"Scalable Communication for Multi-Agent Reinforcement Learning via Transformer-Based Email Mechanism."** arXiv preprint arXiv:2301.01919 (2023).
@@ -91,7 +92,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Survey
 
 ## Value-based
-
+- Yang, Zhihan, and Hai Nguyen. **"Recurrent off-policy baselines for memory-based continuous control."** arXiv preprint arXiv:2110.12628 (2021).
 - DRQN: Hausknecht, Matthew, and Peter Stone. **"Deep recurrent q-learning for partially observable mdps."** arXiv preprint arXiv:1507.06527 (2015).
 - [Esemble] Lan, Qingfeng, et al. **"Maxmin q-learning: Controlling the estimation bias of q-learning."** arXiv preprint arXiv:2002.06487 (2020).
 - [Esemble] Chen, Xinyue, et al. **"Randomized ensembled double q-learning: Learning fast without a model."** arXiv preprint arXiv:2101.05982 (2021).
