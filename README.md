@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Li, Kangshun, et al. **"A fast and lightweight detection algorithm for passion fruit pests based on improved YOLOv5."** Computers and Electronics in Agriculture 204 (2023): 107534.
 - Yang, Zhihan, and Hai Nguyen. **"Recurrent off-policy baselines for memory-based continuous control."** arXiv preprint arXiv:2110.12628 (2021).
 - Mao, Hangyu, et al. **"Transformer in Transformer as Backbone for Deep Reinforcement Learning."** arXiv preprint arXiv:2212.14538 (2022).
 - Huang, Wenhui, et al. **"Goal-guided Transformer-enabled Reinforcement Learning for Efficient Autonomous Navigation."** arXiv preprint arXiv:2301.00362 (2023).
@@ -71,6 +72,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   
 * [Smart Agriculture](#smart-agriculture)
   * [Weed Control](#weed-control)
+  * [Fruit Detection](#fruit-detection)
   * [Data Augmentation](#data-augmentation)
   * [Meat Science](#meat-science)
   * [Agricultural Robots](#agricultural-robots)
@@ -334,6 +336,9 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 ## Plant Disease
 - Paymode, Ananda S., and Vandana B. Malode. **"Transfer Learning for Multi-Crop Leaf Disease Image Classification using Convolutional Neural Network VGG."** Artificial Intelligence in Agriculture 6 (2022): 23-33.
+
+## Fruit Detection
+- Li, Kangshun, et al. **"A fast and lightweight detection algorithm for passion fruit pests based on improved YOLOv5."** Computers and Electronics in Agriculture 204 (2023): 107534.
 
 ## Fruit Flowers
 - Siddique, Abubakar, Amy Tabb, and Henry Medeiros. **"Self-supervised Learning for Panoptic Segmentation of Multiple Fruit Flower Species."** arXiv preprint arXiv:2209.04618 (2022).
