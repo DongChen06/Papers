@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Steininger, Daniel, et al. **"The CropAndWeed Dataset: A Multi-Modal Learning Approach for Efficient Crop and Weed Manipulation."** Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2023.
 - Li, Kangshun, et al. **"A fast and lightweight detection algorithm for passion fruit pests based on improved YOLOv5."** Computers and Electronics in Agriculture 204 (2023): 107534.
 - Yang, Zhihan, and Hai Nguyen. **"Recurrent off-policy baselines for memory-based continuous control."** arXiv preprint arXiv:2110.12628 (2021).
 - Mao, Hangyu, et al. **"Transformer in Transformer as Backbone for Deep Reinforcement Learning."** arXiv preprint arXiv:2212.14538 (2022).
@@ -329,6 +330,8 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 # Smart Agriculture
 ## Weed Control
+- Dang, Fengying, et al. **"YOLOWeeds: A novel benchmark of YOLO object detectors for multi-class weed detection in cotton production systems."** Computers and Electronics in Agriculture 205 (2023): 107655.
+- Steininger, Daniel, et al. **"The CropAndWeed Dataset: A Multi-Modal Learning Approach for Efficient Crop and Weed Manipulation."** Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2023.
 - Rahman, Abdur, Yuzhen Lu, and Haifeng Wang. **"Performance Evaluation of Deep Learning Object Detectors for Weed Detection for Cotton."** Smart Agricultural Technology (2022): 100126.
 - Du, Yayun, et al. **"Deep-cnn based robotic multi-class under-canopy weed control in precision farming."** 2022 International Conference on Robotics and Automation (ICRA). IEEE, 2022.
 - Chen, Dong, et al. **"Performance evaluation of deep transfer learning on multi-class identification of common weed species in cotton production systems."** Computers and Electronics in Agriculture 198 (2022): 107091.
