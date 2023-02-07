@@ -78,6 +78,8 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Meat Science](#meat-science)
   * [Agricultural Robots](#agricultural-robots)
   * [Plant Phenotyping](#plant-phenotyping)
+  * [GANs in Agriculture](#gans-in-agriculture)
+  * [Label-efficient Learning in Agriculture](#label-efficient-learning-in-agriculture)
   
 * [Robotics](#robotics)
   * [Soft Robots](#soft-robots)
@@ -87,7 +89,6 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Emsemble](#emsemble)
   * [Curriculum Learning](#curriculum-learning)
   * [Noise](#noise)
-
 
 
 
@@ -351,6 +352,11 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Plant Phenotyping
 - Roggiolani, Gianmarco, et al. **"Hierarchical Approach for Joint Semantic, Plant Instance, and Leaf Instance Segmentation in the Agricultural Domain."** arXiv preprint arXiv:2210.07879 (2022).
 
+## GANs in Agriculture
+- Please refer to [Awesome GANs in Agriculture](https://github.com/DongChen06/GANs-Agriculture)
+
+## Label-efficient Learning in Agriculture
+- Please refer to [Label-efficient_in_Agriculture](https://github.com/DongChen06/Label-efficient_in_Agriculture)
 
 ## Data Augmentation
 - [Survey] Lu, Yuzhen, et al. **"Generative adversarial networks (GANs) for image augmentation in agriculture: A systematic review."** Computers and Electronics in Agriculture 200 (2022): 107208. 
