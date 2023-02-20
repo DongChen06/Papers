@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Qi, Jiaju, et al. **"Federated reinforcement learning: Techniques, applications, and open challenges."** arXiv preprint arXiv:2108.11887 (2021). 
 - Zhang, Qianzhi, et al. **"Multi-agent safe policy learning for power management of networked microgrids."** IEEE Transactions on Smart Grid 12.2 (2020): 1048-1062.
 - Steininger, Daniel, et al. **"The CropAndWeed Dataset: A Multi-Modal Learning Approach for Efficient Crop and Weed Manipulation."** Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2023.
 - Li, Kangshun, et al. **"A fast and lightweight detection algorithm for passion fruit pests based on improved YOLOv5."** Computers and Electronics in Agriculture 204 (2023): 107534.
@@ -27,6 +28,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Transfer Learning](#transfer-learning)
   * [Diffusion Models RL](#diffusion-models-rl)
   * [Transformer](#transformer)
+  * [Federated Reinforcement Learning](#federated-reinforcement-learning)
   * [Applications](#applications)
    * [Intelligent Transportation Systems](#intelligent-transportation-systems)
    * [Gaming](#gaming)
@@ -168,6 +170,10 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 ## Transformer
 - Mao, Hangyu, et al. **"Transformer in Transformer as Backbone for Deep Reinforcement Learning."** arXiv preprint arXiv:2212.14538 (2022).
+
+## Federated Reinforcement Learning
+- Qi, Jiaju, et al. **"Federated reinforcement learning: Techniques, applications, and open challenges."** arXiv preprint arXiv:2108.11887 (2021). 
+
 
 ## Applications
 
