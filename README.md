@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Pan, Ling, et al. **"Plan better amid conservatism: Offline multi-agent reinforcement learning with actor rectification."** International Conference on Machine Learning. PMLR, 2022.
 - Qi, Jiaju, et al. **"Federated reinforcement learning: Techniques, applications, and open challenges."** arXiv preprint arXiv:2108.11887 (2021). 
 - Zhang, Qianzhi, et al. **"Multi-agent safe policy learning for power management of networked microgrids."** IEEE Transactions on Smart Grid 12.2 (2020): 1048-1062.
 - Steininger, Daniel, et al. **"The CropAndWeed Dataset: A Multi-Modal Learning Approach for Efficient Crop and Weed Manipulation."** Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2023.
@@ -225,7 +226,8 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 
 ## Offline MARL
-- ICQ: Yang, Yiqin, et al. **"Believe What You See: Implicit Constraint Approach for Offline Multi-Agent Reinforcement Learning."** arXiv preprint arXiv:2106.03400 (2021).
+- Pan, Ling, et al. **"Plan better amid conservatism: Offline multi-agent reinforcement learning with actor rectification."** International Conference on Machine Learning. PMLR, 2022.
+- Yang, Yiqin, et al. "Believe what you see: Implicit constraint approach for offline multi-agent reinforcement learning." Advances in Neural Information Processing Systems 34 (2021): 10299-10312.
 
 ## Attention
 - Guo, Xudong, Daming Shi, and Wenhui Fan. **"Scalable Communication for Multi-Agent Reinforcement Learning via Transformer-Based Email Mechanism."** arXiv preprint arXiv:2301.01919 (2023).
