@@ -2,18 +2,12 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Xu, Mengda, Manuela Veloso, and Shuran Song. **"ASPiRe: Adaptive Skill Priors for Reinforcement Learning."** arXiv preprint arXiv:2209.15205 (2022).
 - Pan, Ling, et al. **"Plan better amid conservatism: Offline multi-agent reinforcement learning with actor rectification."** International Conference on Machine Learning. PMLR, 2022.
 - Qi, Jiaju, et al. **"Federated reinforcement learning: Techniques, applications, and open challenges."** arXiv preprint arXiv:2108.11887 (2021). 
 - Zhang, Qianzhi, et al. **"Multi-agent safe policy learning for power management of networked microgrids."** IEEE Transactions on Smart Grid 12.2 (2020): 1048-1062.
 - Steininger, Daniel, et al. **"The CropAndWeed Dataset: A Multi-Modal Learning Approach for Efficient Crop and Weed Manipulation."** Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2023.
 - Li, Kangshun, et al. **"A fast and lightweight detection algorithm for passion fruit pests based on improved YOLOv5."** Computers and Electronics in Agriculture 204 (2023): 107534.
-- Yang, Zhihan, and Hai Nguyen. **"Recurrent off-policy baselines for memory-based continuous control."** arXiv preprint arXiv:2110.12628 (2021).
-- Mao, Hangyu, et al. **"Transformer in Transformer as Backbone for Deep Reinforcement Learning."** arXiv preprint arXiv:2212.14538 (2022).
-- Huang, Wenhui, et al. **"Goal-guided Transformer-enabled Reinforcement Learning for Efficient Autonomous Navigation."** arXiv preprint arXiv:2301.00362 (2023).
-- Guo, Xudong, Daming Shi, and Wenhui Fan. **"Scalable Communication for Multi-Agent Reinforcement Learning via Transformer-Based Email Mechanism."** arXiv preprint arXiv:2301.01919 (2023).
-- Liu, Wenbo, et al. **"Touchless interactive teaching of soft robots through flexible bimodal sensory interfaces."** Nature communications 13.1 (2022): 1-14.
-- Li, Boyan, et al. **"Hyar: Addressing discrete-continuous action reinforcement learning via hybrid action representation."** arXiv preprint arXiv:2109.05490 (2021).
-- Zhang, Jiawei, et al. **"Multi-Agent DRL-Based Lane Change With Right-of-Way Collaboration Awareness."** IEEE Transactions on Intelligent Transportation Systems (2022).
 
 
 ## Contents
@@ -106,6 +100,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 - [Esemble] Hiraoka, Takuya, et al. **"Dropout Q-Functions for Doubly Efficient Reinforcement Learning."** arXiv preprint arXiv:2110.02034 (2021).
 
 ## Policy-based
+- Xu, Mengda, Manuela Veloso, and Shuran Song. **"ASPiRe: Adaptive Skill Priors for Reinforcement Learning."** arXiv preprint arXiv:2209.15205 (2022).
 - (Auxiliary tasks) Jaderberg, Max, et al. **"Reinforcement learning with unsupervised auxiliary tasks."** arXiv preprint arXiv:1611.05397 (2016).
 
 
