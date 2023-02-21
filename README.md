@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Wang, Liyuan, et al. **"A Comprehensive Survey of Continual Learning: Theory, Method and Application."** arXiv preprint arXiv:2302.00487 (2023).
 - Xu, Mengda, Manuela Veloso, and Shuran Song. **"ASPiRe: Adaptive Skill Priors for Reinforcement Learning."** arXiv preprint arXiv:2209.15205 (2022).
 - Pan, Ling, et al. **"Plan better amid conservatism: Offline multi-agent reinforcement learning with actor rectification."** International Conference on Machine Learning. PMLR, 2022.
 - Qi, Jiaju, et al. **"Federated reinforcement learning: Techniques, applications, and open challenges."** arXiv preprint arXiv:2108.11887 (2021). 
@@ -46,6 +47,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 * [Machine Learning](#machine-learning)
   * [Multiple Instance Learning](#multiple-instance-learning)
+  * [Continual Learning](#continual-learning)
 
 * [Computer Vision](computer-vision)
   * [Image Classification](#image-classification)
@@ -249,6 +251,9 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 ## Multiple Instance Learning
 - Amores, Jaume. **"Multiple instance classification: Review, taxonomy and comparative study."** Artificial intelligence 201 (2013): 81-105.
+
+## Continual Learning
+- Wang, Liyuan, et al. **"A Comprehensive Survey of Continual Learning: Theory, Method and Application."** arXiv preprint arXiv:2302.00487 (2023).
 
 
 
