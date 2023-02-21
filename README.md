@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Trabucco, Brandon, et al. **"Effective Data Augmentation With Diffusion Models."** arXiv preprint arXiv:2302.07944 (2023).
 - Wang, Liyuan, et al. **"A Comprehensive Survey of Continual Learning: Theory, Method and Application."** arXiv preprint arXiv:2302.00487 (2023).
 - Xu, Mengda, Manuela Veloso, and Shuran Song. **"ASPiRe: Adaptive Skill Priors for Reinforcement Learning."** arXiv preprint arXiv:2209.15205 (2022).
 - Pan, Ling, et al. **"Plan better amid conservatism: Offline multi-agent reinforcement learning with actor rectification."** International Conference on Machine Learning. PMLR, 2022.
@@ -367,6 +368,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Please refer to [Label-efficient_in_Agriculture](https://github.com/DongChen06/Label-efficient_in_Agriculture)
 
 ## Data Augmentation
+- Trabucco, Brandon, et al. **"Effective Data Augmentation With Diffusion Models."** arXiv preprint arXiv:2302.07944 (2023).
 - [Survey] Lu, Yuzhen, et al. **"Generative adversarial networks (GANs) for image augmentation in agriculture: A systematic review."** Computers and Electronics in Agriculture 200 (2022): 107208. 
 - [Survey] Xu, Mingle, et al. **"A Comprehensive Survey of Image Augmentation Techniques for Deep Learning."** arXiv preprint arXiv:2205.01491 (2022).
 
