@@ -28,9 +28,9 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Transformer](#transformer)
   * [Federated Reinforcement Learning](#federated-reinforcement-learning)
   * [Applications](#applications)
-   * [Intelligent Transportation Systems](#intelligent-transportation-systems)
-   * [Gaming](#gaming)
-   * [Robotics](#robotics)
+    * [Intelligent Transportation Systems](#intelligent-transportation-systems)
+    * [Gaming](#gaming)
+    * [Robotics](#robotics)
 
   
 * [Multi Agent Reinforcement Learning](#multi-agent-reinforcement-learning)
@@ -44,8 +44,8 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Multi-agent Imitation Learning](#multi-agent-imitation-learning)
   * [Simulator](#simulator)
   * [Traffic Applications](#traffic-applications)
-   * [Autonomous Driving](#autonomous-driving)
-   * [Traffic Signal Control](#traffic-signal-control)
+    * [Autonomous Driving](#autonomous-driving)
+    * [Traffic Signal Control](#traffic-signal-control)
 
 * [Machine Learning](#machine-learning)
   * [Multiple Instance Learning](#multiple-instance-learning)
