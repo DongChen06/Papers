@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Koturwar, Saiprasad, Soma Shiraishi, and Kota Iwamoto. **"Robust multi-object detection based on data augmentation with realistic image synthesis for point-of-sale automation."** Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. No. 01. 2019.
 - Trabucco, Brandon, et al. **"Effective Data Augmentation With Diffusion Models."** arXiv preprint arXiv:2302.07944 (2023).
 - Wang, Liyuan, et al. **"A Comprehensive Survey of Continual Learning: Theory, Method and Application."** arXiv preprint arXiv:2302.00487 (2023).
 - Xu, Mengda, Manuela Veloso, and Shuran Song. **"ASPiRe: Adaptive Skill Priors for Reinforcement Learning."** arXiv preprint arXiv:2209.15205 (2022).
@@ -57,6 +58,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Panoptic Segmentation](#panoptic-segmentation)
   * [GANs](#gans)
   * [Diffusion Models](#diffusion-models)
+  * [Image Synthsis](#image-synthsis)
   * [Transformers](#transformers)
   * [Domain Adaptation](#domain-adaptation)
 
@@ -247,7 +249,6 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 
 
-
 # Machine Learning
 
 ## Multiple Instance Learning
@@ -274,7 +275,6 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Kirillov, Alexander, et al. **"Panoptic segmentation."** Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.
 
 
-
 ## Diffusion Models
 - Bansal, Arpit, et al. **"Cold diffusion: Inverting arbitrary image transforms without noise."** arXiv preprint arXiv:2208.09392 (2022).
 - Sohl-Dickstein, Jascha, et al. **"Deep unsupervised learning using nonequilibrium thermodynamics."** International Conference on Machine Learning. PMLR, 2015.
@@ -284,6 +284,13 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Dhariwal, Prafulla, and Alexander Nichol. **"Diffusion models beat gans on image synthesis."** Advances in Neural Information Processing Systems 34 (2021): 8780-8794.
 - Ho, Jonathan, et al. **"Cascaded Diffusion Models for High Fidelity Image Generation."** J. Mach. Learn. Res. 23 (2022): 47-1.
 
+## GANs
+
+## Image Synthsis
+- Saseendran, Amrutha, Kathrin Skubch, and Margret Keuper. **"Multi-Class Multi-Instance Count Conditioned Adversarial Image Generation."** Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021.
+- Sylvain, Tristan, et al. **"Object-centric image generation from layouts."** Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35. No. 3. 2021.
+- Koturwar, Saiprasad, Soma Shiraishi, and Kota Iwamoto. **"Robust multi-object detection based on data augmentation with realistic image synthesis for point-of-sale automation."** Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. No. 01. 2019.
+- Hinz, Tobias, Stefan Heinrich, and Stefan Wermter. **"Generating multiple objects at spatially distinct locations."** arXiv preprint arXiv:1901.00686 (2019).
 
 ## Transformers
 - Rao, Yongming, et al. **"Dynamicvit: Efficient vision transformers with dynamic token sparsification."** Advances in neural information processing systems 34 (2021): 13937-13949.
