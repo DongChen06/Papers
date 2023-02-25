@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- You, Zebin, et al. **"Diffusion Models and Semi-Supervised Learners Benefit Mutually with Few Labels."** arXiv preprint arXiv:2302.10586 (2023).
 - Koturwar, Saiprasad, Soma Shiraishi, and Kota Iwamoto. **"Robust multi-object detection based on data augmentation with realistic image synthesis for point-of-sale automation."** Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. No. 01. 2019.
 - Trabucco, Brandon, et al. **"Effective Data Augmentation With Diffusion Models."** arXiv preprint arXiv:2302.07944 (2023).
 - Wang, Liyuan, et al. **"A Comprehensive Survey of Continual Learning: Theory, Method and Application."** arXiv preprint arXiv:2302.00487 (2023).
@@ -276,6 +277,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 
 ## Diffusion Models
+- You, Zebin, et al. **"Diffusion Models and Semi-Supervised Learners Benefit Mutually with Few Labels."** arXiv preprint arXiv:2302.10586 (2023).
 - Bansal, Arpit, et al. **"Cold diffusion: Inverting arbitrary image transforms without noise."** arXiv preprint arXiv:2208.09392 (2022).
 - Sohl-Dickstein, Jascha, et al. **"Deep unsupervised learning using nonequilibrium thermodynamics."** International Conference on Machine Learning. PMLR, 2015.
 - Ho, Jonathan, Ajay Jain, and Pieter Abbeel. **"Denoising diffusion probabilistic models."** Advances in Neural Information Processing Systems 33 (2020): 6840-6851.
