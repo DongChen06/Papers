@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Cao, Zhong, et al. **"Continuous improvement of self-driving cars using dynamic confidence-aware reinforcement learning."** Nature Machine Intelligence 5.2 (2023): 145-158.
 - Bao, Fan, et al. **"All are Worth Words: a ViT Backbone for Score-based Diffusion Models."** arXiv preprint arXiv:2209.12152 (2022).
 - You, Zebin, et al. **"Diffusion Models and Semi-Supervised Learners Benefit Mutually with Few Labels."** arXiv preprint arXiv:2302.10586 (2023).
 - Koturwar, Saiprasad, Soma Shiraishi, and Kota Iwamoto. **"Robust multi-object detection based on data augmentation with realistic image synthesis for point-of-sale automation."** Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. No. 01. 2019.
@@ -181,6 +182,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Applications
 
 ### Intelligent Transportation Systems
+- Cao, Zhong, et al. **"Continuous improvement of self-driving cars using dynamic confidence-aware reinforcement learning."** Nature Machine Intelligence 5.2 (2023): 145-158.
 - Huang, Wenhui, et al. **"Goal-guided Transformer-enabled Reinforcement Learning for Efficient Autonomous Navigation."** arXiv preprint arXiv:2301.00362 (2023).
 - Liu, Haochen, et al. **"Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving."** arXiv preprint arXiv:2208.12263 (2022).
 - Mavrogiannis, Angelos, Rohan Chandra, and Dinesh Manocha.  **"B-GAP: Behavior-Guided Action Prediction for Autonomous Navigation."** arXiv preprint arXiv:2011.03748 (2020).
