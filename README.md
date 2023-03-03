@@ -93,6 +93,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 * [Tricks](#tricks)
   * [Emsemble](#emsemble)
   * [Curriculum Learning](#curriculum-learning)
+  * [Auxiliary Task](#auxiliary-task)
   * [Noise](#noise)
 
 
