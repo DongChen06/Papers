@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Ma, Hailan, et al. **"Curriculum-based deep reinforcement learning for quantum control."** IEEE Transactions on Neural Networks and Learning Systems (2022).
 - Cao, Zhong, et al. **"Continuous improvement of self-driving cars using dynamic confidence-aware reinforcement learning."** Nature Machine Intelligence 5.2 (2023): 145-158.
 - Bao, Fan, et al. **"All are Worth Words: a ViT Backbone for Score-based Diffusion Models."** arXiv preprint arXiv:2209.12152 (2022).
 - You, Zebin, et al. **"Diffusion Models and Semi-Supervised Learners Benefit Mutually with Few Labels."** arXiv preprint arXiv:2302.10586 (2023).
@@ -10,10 +11,6 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Wang, Liyuan, et al. **"A Comprehensive Survey of Continual Learning: Theory, Method and Application."** arXiv preprint arXiv:2302.00487 (2023).
 - Xu, Mengda, Manuela Veloso, and Shuran Song. **"ASPiRe: Adaptive Skill Priors for Reinforcement Learning."** arXiv preprint arXiv:2209.15205 (2022).
 - Pan, Ling, et al. **"Plan better amid conservatism: Offline multi-agent reinforcement learning with actor rectification."** International Conference on Machine Learning. PMLR, 2022.
-- Qi, Jiaju, et al. **"Federated reinforcement learning: Techniques, applications, and open challenges."** arXiv preprint arXiv:2108.11887 (2021). 
-- Zhang, Qianzhi, et al. **"Multi-agent safe policy learning for power management of networked microgrids."** IEEE Transactions on Smart Grid 12.2 (2020): 1048-1062.
-- Steininger, Daniel, et al. **"The CropAndWeed Dataset: A Multi-Modal Learning Approach for Efficient Crop and Weed Manipulation."** Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2023.
-- Li, Kangshun, et al. **"A fast and lightweight detection algorithm for passion fruit pests based on improved YOLOv5."** Computers and Electronics in Agriculture 204 (2023): 107534.
 
 
 ## Contents
@@ -34,6 +31,7 @@ Papers related to machine learning, deep learning and reinforcement learning
     * [Intelligent Transportation Systems](#intelligent-transportation-systems)
     * [Gaming](#gaming)
     * [Robotics](#robotics)
+    * [Quantum Control](#quantum-control)
 
   
 * [Multi Agent Reinforcement Learning](#multi-agent-reinforcement-learning)
@@ -192,6 +190,10 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 ### Robotics
 - Evans, Benjamin, et al. **"Accelerating Online Reinforcement Learning via Supervisory Safety Systems."** arXiv preprint arXiv:2209.11082 (2022).
+
+### Quantum Control
+- Ma, Hailan, et al. **"Curriculum-based deep reinforcement learning for quantum control."** IEEE Transactions on Neural Networks and Learning Systems (2022).
+
 
 
 # Multi Agent Reinforcement Learning
