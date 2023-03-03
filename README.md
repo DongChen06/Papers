@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Ng, Andrew Y., Daishi Harada, and Stuart Russell. **"Policy invariance under reward transformations: Theory and application to reward shaping."** Icml. Vol. 99. 1999.
 - Ma, Hailan, et al. **"Curriculum-based deep reinforcement learning for quantum control."** IEEE Transactions on Neural Networks and Learning Systems (2022).
 - Cao, Zhong, et al. **"Continuous improvement of self-driving cars using dynamic confidence-aware reinforcement learning."** Nature Machine Intelligence 5.2 (2023): 145-158.
 - Bao, Fan, et al. **"All are Worth Words: a ViT Backbone for Score-based Diffusion Models."** arXiv preprint arXiv:2209.12152 (2022).
@@ -22,6 +23,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Offline RL](#offline-rl)
   * [Imitation Learning](#imitation-learning)
   * [Semi-supervised](#semi-supervised)
+  * [Reward Shaping](#reward-shaping)
   * [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
   * [Transfer Learning](#transfer-learning)
   * [Diffusion Models RL](#diffusion-models-rl)
@@ -109,7 +111,6 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Xu, Mengda, Manuela Veloso, and Shuran Song. **"ASPiRe: Adaptive Skill Priors for Reinforcement Learning."** arXiv preprint arXiv:2209.15205 (2022).
 - (Auxiliary tasks) Jaderberg, Max, et al. **"Reinforcement learning with unsupervised auxiliary tasks."** arXiv preprint arXiv:1611.05397 (2016).
 
-
 ## Offline RL
 - Survey: Levine, Sergey, et al. **"Offline reinforcement learning: Tutorial, review, and perspectives on open problems."** arXiv preprint arXiv:2005.01643 (2020).
 
@@ -152,6 +153,9 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 ## Hierarchical Reinforcement Learning
 - Nachum, Ofir, et al. **"Data-efficient hierarchical reinforcement learning."** arXiv preprint arXiv:1805.08296 (2018).
+
+## Reward Shaping
+- Ng, Andrew Y., Daishi Harada, and Stuart Russell. **"Policy invariance under reward transformations: Theory and application to reward shaping."** Icml. Vol. 99. 1999.
 
 
 ## Inverse Reinforcement Learning
