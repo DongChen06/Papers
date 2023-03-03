@@ -423,4 +423,5 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Liu, Xuan, et al. **"Learning to locomote with artificial neural-network and cpg-based control in a soft snake robot."** 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2020.
 - Zeng, Yilei, et al. **"Human Decision Makings on Curriculum Reinforcement Learning with Difficulty Adjustment."** arXiv preprint arXiv:2208.02932 (2022).
 
-
+## Auxiliary Task
+- Zhou,Shumin, et al. **""Auxiliary Task-based Deep Reinforcement Learning for Quantum Control""**, arXiv preprint arXiv:2302.14312 (2023).
