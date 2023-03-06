@@ -75,6 +75,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Voltage and Frequency Control](#voltage-and-frequency-control)
   * [Energy Trading](#energy-trading)
   * [Testbed](#testbed)
+  * [Load Control](#load-control)
   
 * [Smart Agriculture](#smart-agriculture)
   * [Weed Control](#weed-control)
@@ -358,6 +359,9 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 ## Testbed
 - Meinecke, Steffen, et al. **"Simbench—a benchmark dataset of electric power systems to compare innovative solutions based on power flow analysis."** Energies 13.12 (2020): 3290.
+
+## Load Control
+- Qin, Zhaoming, et al. **"Privacy preserving load control of residential microgrid via deep reinforcement learning."** IEEE Transactions on Smart Grid 12.5 (2021): 4079-4089.
 
 
 # Smart Agriculture
