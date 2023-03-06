@@ -356,6 +356,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Energy Trading
 - Qiu, Dawei, et al. **"Mean-Field Multi-Agent Reinforcement Learning for Peer-to-Peer Multi-Energy Trading."** IEEE Transactions on Power Systems (2022).
 - Chen, Tianyi, et al. **"Peer-to-peer energy trading and energy conversion in interconnected multi-energy microgrids using multi-agent deep reinforcement learning."** IEEE Transactions on Smart Grid 13.1 (2021): 715-727.
+- Ye, Yujian, et al. **"A scalable privacy-preserving multi-agent deep reinforcement learning approach for large-scale peer-to-peer transactive energy trading."** IEEE transactions on smart grid 12.6 (2021): 5185-5200.
 
 ## Testbed
 - Meinecke, Steffen, et al. **"Simbench—a benchmark dataset of electric power systems to compare innovative solutions based on power flow analysis."** Energies 13.12 (2020): 3290.
