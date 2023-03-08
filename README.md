@@ -180,7 +180,8 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Mao, Hangyu, et al. **"Transformer in Transformer as Backbone for Deep Reinforcement Learning."** arXiv preprint arXiv:2212.14538 (2022).
 
 ## Federated Reinforcement Learning
-- Qi, Jiaju, et al. **"Federated reinforcement learning: Techniques, applications, and open challenges."** arXiv preprint arXiv:2108.11887 (2021). 
+- [Survey] Beltrán, Enrique Tomás Martínez, et al. **"Decentralized Federated Learning: Fundamentals, State-of-the-art, Frameworks, Trends, and Challenges."** arXiv preprint arXiv:2211.08413 (2022).
+- [Survey] Qi, Jiaju, et al. **"Federated reinforcement learning: Techniques, applications, and open challenges."** arXiv preprint arXiv:2108.11887 (2021). 
 
 
 ## Applications
