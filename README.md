@@ -78,7 +78,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Testbed](#testbed)
   * [Load Control](#load-control)
   
-* [Smart Agriculture](#smart-agriculture)
+* [Precision Agriculture](#precision-agriculture)
   * [Weed Control](#weed-control)
   * [Fruit Detection](#fruit-detection)
   * [Data Augmentation](#data-augmentation)
@@ -97,8 +97,10 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Curriculum Learning](#curriculum-learning)
   * [Auxiliary Task](#auxiliary-task)
   * [Noise](#noise)
-
-
+  
+* [Impressive Works](#impressive-works)
+  * [Multi-agent Systems](#multi-agent-systems)
+  * [Smart Agriculture](#smart-agriculture)
 
 # Reinforcement Learning
 ## Survey
@@ -263,7 +265,6 @@ Papers related to machine learning, deep learning and reinforcement learning
 ### Traffic Signal Control
 
 
-
 # Machine Learning
 
 ## Multiple Instance Learning
@@ -368,7 +369,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Qin, Zhaoming, et al. **"Privacy preserving load control of residential microgrid via deep reinforcement learning."** IEEE Transactions on Smart Grid 12.5 (2021): 4079-4089.
 
 
-# Smart Agriculture
+# Precision Agriculture
 ## Weed Control
 - Dang, Fengying, et al. **"YOLOWeeds: A novel benchmark of YOLO object detectors for multi-class weed detection in cotton production systems."** Computers and Electronics in Agriculture 205 (2023): 107655.
 - Steininger, Daniel, et al. **"The CropAndWeed Dataset: A Multi-Modal Learning Approach for Efficient Crop and Weed Manipulation."** Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2023.
@@ -434,3 +435,12 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 ## Auxiliary Task
 - Zhou,Shumin, et al. **""Auxiliary Task-based Deep Reinforcement Learning for Quantum Control""**, arXiv preprint arXiv:2302.14312 (2023).
+
+# Impressive Works
+## Multi-agent Systems
+- Kortvelesy, Ryan, Steven Morad, and Amanda Prorok. **"Permutation-Invariant Set Autoencoders with Fixed-Size Embeddings for Multi-Agent Learning."** arXiv preprint arXiv:2302.12826 (2023).
+
+## Smart Agriculture
+- Steininger, Daniel, et al. **"The CropAndWeed Dataset: A Multi-Modal Learning Approach for Efficient Crop and Weed Manipulation."** Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2023.
+
+
