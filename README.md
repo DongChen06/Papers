@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Kortvelesy, Ryan, Steven Morad, and Amanda Prorok. **"Permutation-Invariant Set Autoencoders with Fixed-Size Embeddings for Multi-Agent Learning."** arXiv preprint arXiv:2302.12826 (2023).
 - Ng, Andrew Y., Daishi Harada, and Stuart Russell. **"Policy invariance under reward transformations: Theory and application to reward shaping."** Icml. Vol. 99. 1999.
 - Ma, Hailan, et al. **"Curriculum-based deep reinforcement learning for quantum control."** IEEE Transactions on Neural Networks and Learning Systems (2022).
 - Cao, Zhong, et al. **"Continuous improvement of self-driving cars using dynamic confidence-aware reinforcement learning."** Nature Machine Intelligence 5.2 (2023): 145-158.
@@ -234,6 +235,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 
 ## Graph Convolutional Reinforcement Learning
+- Kortvelesy, Ryan, Steven Morad, and Amanda Prorok. **"Permutation-Invariant Set Autoencoders with Fixed-Size Embeddings for Multi-Agent Learning."** arXiv preprint arXiv:2302.12826 (2023).
 - Jiang, Jiechuan, et al. **"Graph convolutional reinforcement learning."** arXiv preprint arXiv:1810.09202 (2018).
 - Dong, Jiqian, et al. **"A DRL-based Multiagent Cooperative Control Framework for CAV Networks: a Graphic Convolution Q Network."** arXiv preprint arXiv:2010.05437 (2020).
 
