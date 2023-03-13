@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Abadi, Martin, et al. **"Deep learning with differential privacy."** Proceedings of the 2016 ACM SIGSAC conference on computer and communications security. 2016.
 - Kortvelesy, Ryan, Steven Morad, and Amanda Prorok. **"Permutation-Invariant Set Autoencoders with Fixed-Size Embeddings for Multi-Agent Learning."** arXiv preprint arXiv:2302.12826 (2023).
 - Ng, Andrew Y., Daishi Harada, and Stuart Russell. **"Policy invariance under reward transformations: Theory and application to reward shaping."** Icml. Vol. 99. 1999.
 - Ma, Hailan, et al. **"Curriculum-based deep reinforcement learning for quantum control."** IEEE Transactions on Neural Networks and Learning Systems (2022).
@@ -10,9 +11,6 @@ Papers related to machine learning, deep learning and reinforcement learning
 - You, Zebin, et al. **"Diffusion Models and Semi-Supervised Learners Benefit Mutually with Few Labels."** arXiv preprint arXiv:2302.10586 (2023).
 - Koturwar, Saiprasad, Soma Shiraishi, and Kota Iwamoto. **"Robust multi-object detection based on data augmentation with realistic image synthesis for point-of-sale automation."** Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. No. 01. 2019.
 - Trabucco, Brandon, et al. **"Effective Data Augmentation With Diffusion Models."** arXiv preprint arXiv:2302.07944 (2023).
-- Wang, Liyuan, et al. **"A Comprehensive Survey of Continual Learning: Theory, Method and Application."** arXiv preprint arXiv:2302.00487 (2023).
-- Xu, Mengda, Manuela Veloso, and Shuran Song. **"ASPiRe: Adaptive Skill Priors for Reinforcement Learning."** arXiv preprint arXiv:2209.15205 (2022).
-- Pan, Ling, et al. **"Plan better amid conservatism: Offline multi-agent reinforcement learning with actor rectification."** International Conference on Machine Learning. PMLR, 2022.
 
 
 ## Contents
@@ -272,6 +270,9 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 ## Continual Learning
 - Wang, Liyuan, et al. **"A Comprehensive Survey of Continual Learning: Theory, Method and Application."** arXiv preprint arXiv:2302.00487 (2023).
+
+## Privacy
+- Abadi, Martin, et al. **"Deep learning with differential privacy."** Proceedings of the 2016 ACM SIGSAC conference on computer and communications security. 2016.
 
 
 
