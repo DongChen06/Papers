@@ -436,6 +436,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 ## Auxiliary Task
 - Zhou,Shumin, et al. **""Auxiliary Task-based Deep Reinforcement Learning for Quantum Control""**, arXiv preprint arXiv:2302.14312 (2023).
+- Devlin, Sam, et al. **"Potential-based difference rewards for multiagent reinforcement learning."** Proceedings of the 2014 international conference on Autonomous agents and multi-agent systems. 2014.
 
 # Impressive Works
 ## Multi-agent Systems
