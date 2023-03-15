@@ -230,10 +230,16 @@ Papers related to machine learning, deep learning and reinforcement learning
 - MAAC: Iqbal, Shariq, and Fei Sha. **"Actor-attention-critic for multi-agent reinforcement learning."** International Conference on Machine Learning. PMLR, 2019.
 - NeurComm: Chu, Tianshu, Sandeep Chinchali, and Sachin Katti. **"Multi-agent Reinforcement Learning for Networked System Control."** arXiv preprint arXiv:2004.01339 (2020).
 
+
 ## Communication
-- Zhang, Kaiqing, et al. **"Fully decentralized multi-agent reinforcement learning with networked agents."** International Conference on Machine Learning. PMLR, 2018.
-
-
+- [NeurComm] Chu, Tianshu, Sandeep Chinchali, and Sachin Katti. **"Multi-agent reinforcement learning for networked system control."** arXiv preprint arXiv:2004.01339 (2020).
+- [IC3Net] Singh, Amanpreet, Tushar Jain, and Sainbayar Sukhbaatar. "Learning when to communicate at scale in multiagent cooperative and competitive tasks." arXiv preprint arXiv:1812.09755 (2018).
+- [COMA] Foerster, Jakob, et al. **"Counterfactual multi-agent policy gradients."** Proceedings of the AAAI conference on artificial intelligence. Vol. 32. No. 1. 2018.
+- [NMARL] Zhang, Kaiqing, et al. **"Fully decentralized multi-agent reinforcement learning with networked agents."** International Conference on Machine Learning. PMLR, 2018.
+- [DIAL] Foerster, Jakob, et al. "Learning to communicate with deep multi-agent reinforcement learning." Advances in neural information processing systems 29 (2016).
+- [CommNet] Sukhbaatar, Sainbayar, and Rob Fergus. **"Learning multiagent communication with backpropagation."** Advances in neural information processing systems 29 (2016).
+ 
+ 
 ## Parameter Sharing
 - Gupta, Jayesh K., Maxim Egorov, and Mykel Kochenderfer. **"Cooperative multi-agent control using deep reinforcement learning." International Conference on Autonomous Agents and Multiagent Systems**. Springer, Cham, 2017.
 - Lin, Kaixiang, et al. **"Efficient large-scale fleet management via multi-agent deep reinforcement learning."** Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2018.
