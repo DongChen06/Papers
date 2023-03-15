@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Zhang, Kaiqing, et al. **"Fully decentralized multi-agent reinforcement learning with networked agents."** International Conference on Machine Learning. PMLR, 2018.
 - Abadi, Martin, et al. **"Deep learning with differential privacy."** Proceedings of the 2016 ACM SIGSAC conference on computer and communications security. 2016.
 - Kortvelesy, Ryan, Steven Morad, and Amanda Prorok. **"Permutation-Invariant Set Autoencoders with Fixed-Size Embeddings for Multi-Agent Learning."** arXiv preprint arXiv:2302.12826 (2023).
 - Ng, Andrew Y., Daishi Harada, and Stuart Russell. **"Policy invariance under reward transformations: Theory and application to reward shaping."** Icml. Vol. 99. 1999.
@@ -39,6 +40,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Survey](#survey)
   * [Value-based MARL](#value-based-marl)
   * [Policy-based MARL](#policy-based-marl)
+  * [Communication](#communication)
   * [Parameter Sharing](#parameter-sharing)
   * [Graph Convolutional Reinforcement Learning](#graph-convolutional-reinforcement-learning)
   * [Offline MARL](#offline-marl)
@@ -227,6 +229,9 @@ Papers related to machine learning, deep learning and reinforcement learning
 - ConsensusNet (2018): Zhang, Kaiqing, et al. **"Fully decentralized multi-agent reinforcement learning with networked agents."** arXiv preprint arXiv:1802.08757 (2018).
 - MAAC: Iqbal, Shariq, and Fei Sha. **"Actor-attention-critic for multi-agent reinforcement learning."** International Conference on Machine Learning. PMLR, 2019.
 - NeurComm: Chu, Tianshu, Sandeep Chinchali, and Sachin Katti. **"Multi-agent Reinforcement Learning for Networked System Control."** arXiv preprint arXiv:2004.01339 (2020).
+
+## Communication
+- Zhang, Kaiqing, et al. **"Fully decentralized multi-agent reinforcement learning with networked agents."** International Conference on Machine Learning. PMLR, 2018.
 
 
 ## Parameter Sharing
