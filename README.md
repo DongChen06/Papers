@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Bai, Yuntao, et al. **"Constitutional AI: Harmlessness from AI Feedback."** arXiv preprint arXiv:2212.08073 (2022).
 - Zhang, Kaiqing, et al. **"Fully decentralized multi-agent reinforcement learning with networked agents."** International Conference on Machine Learning. PMLR, 2018.
 - Abadi, Martin, et al. **"Deep learning with differential privacy."** Proceedings of the 2016 ACM SIGSAC conference on computer and communications security. 2016.
 - Kortvelesy, Ryan, Steven Morad, and Amanda Prorok. **"Permutation-Invariant Set Autoencoders with Fixed-Size Embeddings for Multi-Agent Learning."** arXiv preprint arXiv:2302.12826 (2023).
@@ -54,6 +55,8 @@ Papers related to machine learning, deep learning and reinforcement learning
 * [Machine Learning](#machine-learning)
   * [Multiple Instance Learning](#multiple-instance-learning)
   * [Continual Learning](#continual-learning)
+  * [Privacy](#privacy)
+  * [Large Language Models](#large-language-models)
 
 * [Computer Vision](computer-vision)
   * [Image Classification](#image-classification)
@@ -285,7 +288,8 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Privacy
 - Abadi, Martin, et al. **"Deep learning with differential privacy."** Proceedings of the 2016 ACM SIGSAC conference on computer and communications security. 2016.
 
-
+## Large Language Models
+- Bai, Yuntao, et al. **"Constitutional AI: Harmlessness from AI Feedback."** arXiv preprint arXiv:2212.08073 (2022).
 
 # Computer Vision
 ## Image Classification
