@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Christiano, Paul F., et al. **"Deep reinforcement learning from human preferences."** Advances in neural information processing systems 30 (2017).
 - Huang, Shaohan, et al. **"Language is not all you need: Aligning perception with language models."** arXiv preprint arXiv:2302.14045 (2023).
 - Bai, Yuntao, et al. **"Constitutional AI: Harmlessness from AI Feedback."** arXiv preprint arXiv:2212.08073 (2022).
 - Zhang, Kaiqing, et al. **"Fully decentralized multi-agent reinforcement learning with networked agents."** International Conference on Machine Learning. PMLR, 2018.
@@ -169,6 +170,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 ## Inverse Reinforcement Learning
 - (FORM) Jaegle, Andrew, et al. **"Imitation by Predicting Observations."** International Conference on Machine Learning. PMLR, 2021.
+- Christiano, Paul F., et al. **"Deep reinforcement learning from human preferences."** Advances in neural information processing systems 30 (2017).
 
 
 ## Transfer Learning
