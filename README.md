@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Huang, Shaohan, et al. **"Language is not all you need: Aligning perception with language models."** arXiv preprint arXiv:2302.14045 (2023).
 - Bai, Yuntao, et al. **"Constitutional AI: Harmlessness from AI Feedback."** arXiv preprint arXiv:2212.08073 (2022).
 - Zhang, Kaiqing, et al. **"Fully decentralized multi-agent reinforcement learning with networked agents."** International Conference on Machine Learning. PMLR, 2018.
 - Abadi, Martin, et al. **"Deep learning with differential privacy."** Proceedings of the 2016 ACM SIGSAC conference on computer and communications security. 2016.
@@ -290,6 +291,10 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 ## Large Language Models
 - Bai, Yuntao, et al. **"Constitutional AI: Harmlessness from AI Feedback."** arXiv preprint arXiv:2212.08073 (2022).
+- Huang, Shaohan, et al. **"Language is not all you need: Aligning perception with language models."** arXiv preprint arXiv:2302.14045 (2023).
+
+
+
 
 # Computer Vision
 ## Image Classification
