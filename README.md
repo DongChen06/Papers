@@ -2,19 +2,13 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Das, Lokesh Chandra, and Myounggyu Won. **"Saint-acc: Safety-aware intelligent adaptive cruise control for autonomous vehicles using deep reinforcement learning."** International Conference on Machine Learning. PMLR, 2021.
 - Christiano, Paul F., et al. **"Deep reinforcement learning from human preferences."** Advances in neural information processing systems 30 (2017).
 - Huang, Shaohan, et al. **"Language is not all you need: Aligning perception with language models."** arXiv preprint arXiv:2302.14045 (2023).
 - Bai, Yuntao, et al. **"Constitutional AI: Harmlessness from AI Feedback."** arXiv preprint arXiv:2212.08073 (2022).
 - Zhang, Kaiqing, et al. **"Fully decentralized multi-agent reinforcement learning with networked agents."** International Conference on Machine Learning. PMLR, 2018.
 - Abadi, Martin, et al. **"Deep learning with differential privacy."** Proceedings of the 2016 ACM SIGSAC conference on computer and communications security. 2016.
 - Kortvelesy, Ryan, Steven Morad, and Amanda Prorok. **"Permutation-Invariant Set Autoencoders with Fixed-Size Embeddings for Multi-Agent Learning."** arXiv preprint arXiv:2302.12826 (2023).
-- Ng, Andrew Y., Daishi Harada, and Stuart Russell. **"Policy invariance under reward transformations: Theory and application to reward shaping."** Icml. Vol. 99. 1999.
-- Ma, Hailan, et al. **"Curriculum-based deep reinforcement learning for quantum control."** IEEE Transactions on Neural Networks and Learning Systems (2022).
-- Cao, Zhong, et al. **"Continuous improvement of self-driving cars using dynamic confidence-aware reinforcement learning."** Nature Machine Intelligence 5.2 (2023): 145-158.
-- Bao, Fan, et al. **"All are Worth Words: a ViT Backbone for Score-based Diffusion Models."** arXiv preprint arXiv:2209.12152 (2022).
-- You, Zebin, et al. **"Diffusion Models and Semi-Supervised Learners Benefit Mutually with Few Labels."** arXiv preprint arXiv:2302.10586 (2023).
-- Koturwar, Saiprasad, Soma Shiraishi, and Kota Iwamoto. **"Robust multi-object detection based on data augmentation with realistic image synthesis for point-of-sale automation."** Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. No. 01. 2019.
-- Trabucco, Brandon, et al. **"Effective Data Augmentation With Diffusion Models."** arXiv preprint arXiv:2302.07944 (2023).
 
 
 ## Contents
@@ -106,6 +100,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 * [Impressive Works](#impressive-works)
   * [Multi-agent Systems](#multi-agent-systems)
   * [Smart Agriculture](#smart-agriculture)
+  * [Reinforcement Learning](#reinforcement-learning)
 
 # Reinforcement Learning
 ## Survey
@@ -467,4 +462,6 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Smart Agriculture
 - Steininger, Daniel, et al. **"The CropAndWeed Dataset: A Multi-Modal Learning Approach for Efficient Crop and Weed Manipulation."** Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2023.
 
+## Reinforcement Learning
+- Das, Lokesh Chandra, and Myounggyu Won. **"Saint-acc: Safety-aware intelligent adaptive cruise control for autonomous vehicles using deep reinforcement learning."** International Conference on Machine Learning. PMLR, 2021.
 
