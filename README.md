@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Joshi, Bhaskar, Dhruv Kapur, and Harikumar Kandath. **"Sim-to-Real Deep Reinforcement Learning based Obstacle Avoidance for UAVs under Measurement Uncertainty."** arXiv preprint arXiv:2303.07243 (2023).
 - Das, Lokesh Chandra, and Myounggyu Won. **"Saint-acc: Safety-aware intelligent adaptive cruise control for autonomous vehicles using deep reinforcement learning."** International Conference on Machine Learning. PMLR, 2021.
 - Christiano, Paul F., et al. **"Deep reinforcement learning from human preferences."** Advances in neural information processing systems 30 (2017).
 - Huang, Shaohan, et al. **"Language is not all you need: Aligning perception with language models."** arXiv preprint arXiv:2302.14045 (2023).
@@ -31,6 +32,7 @@ Papers related to machine learning, deep learning and reinforcement learning
     * [Gaming](#gaming)
     * [Robotics](#robotics)
     * [Quantum Control](#quantum-control)
+    * [UAVs](#uavs)
 
   
 * [Multi Agent Reinforcement Learning](#multi-agent-reinforcement-learning)
@@ -205,6 +207,8 @@ Papers related to machine learning, deep learning and reinforcement learning
 ### Quantum Control
 - Ma, Hailan, et al. **"Curriculum-based deep reinforcement learning for quantum control."** IEEE Transactions on Neural Networks and Learning Systems (2022).
 
+### UAVs
+- Joshi, Bhaskar, Dhruv Kapur, and Harikumar Kandath. **"Sim-to-Real Deep Reinforcement Learning based Obstacle Avoidance for UAVs under Measurement Uncertainty."** arXiv preprint arXiv:2303.07243 (2023).
 
 
 # Multi Agent Reinforcement Learning
