@@ -203,6 +203,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 ### Robotics
 - Evans, Benjamin, et al. **"Accelerating Online Reinforcement Learning via Supervisory Safety Systems."** arXiv preprint arXiv:2209.11082 (2022).
+- Lee, Joonho, et al. **"Learning quadrupedal locomotion over challenging terrain."** Science robotics 5.47 (2020): eabc5986.
 
 ### Quantum Control
 - Ma, Hailan, et al. **"Curriculum-based deep reinforcement learning for quantum control."** IEEE Transactions on Neural Networks and Learning Systems (2022).
