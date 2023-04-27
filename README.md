@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Gu, Shangding, et al. **"Multi-agent constrained policy optimisation."** arXiv preprint arXiv:2110.02793 (2021).
 - Achiam, Joshua, et al. **"Constrained policy optimization." International conference on machine learning.** PMLR, 2017.
 - Joshi, Bhaskar, Dhruv Kapur, and Harikumar Kandath. **"Sim-to-Real Deep Reinforcement Learning based Obstacle Avoidance for UAVs under Measurement Uncertainty."** arXiv preprint arXiv:2303.07243 (2023).
 - Das, Lokesh Chandra, and Myounggyu Won. **"Saint-acc: Safety-aware intelligent adaptive cruise control for autonomous vehicles using deep reinforcement learning."** International Conference on Machine Learning. PMLR, 2021.
@@ -43,6 +44,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Policy-based MARL](#policy-based-marl)
   * [Communication](#communication)
   * [Parameter Sharing](#parameter-sharing)
+  * [Constrained Policy Optimisation MARL](#constrained-policy-optimisation-marl)
   * [Graph Convolutional Reinforcement Learning](#graph-convolutional-reinforcement-learning)
   * [Offline MARL](#offline-marl)
   * [Attention](#attention)
@@ -254,6 +256,10 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Parameter Sharing
 - Gupta, Jayesh K., Maxim Egorov, and Mykel Kochenderfer. **"Cooperative multi-agent control using deep reinforcement learning." International Conference on Autonomous Agents and Multiagent Systems**. Springer, Cham, 2017.
 - Lin, Kaixiang, et al. **"Efficient large-scale fleet management via multi-agent deep reinforcement learning."** Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2018.
+
+
+## Constrained Policy Optimisation MARL
+- Gu, Shangding, et al. **"Multi-agent constrained policy optimisation."** arXiv preprint arXiv:2110.02793 (2021).
 
 
 ## Graph Convolutional Reinforcement Learning
