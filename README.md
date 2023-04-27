@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Achiam, Joshua, et al. **"Constrained policy optimization." International conference on machine learning.** PMLR, 2017.
 - Joshi, Bhaskar, Dhruv Kapur, and Harikumar Kandath. **"Sim-to-Real Deep Reinforcement Learning based Obstacle Avoidance for UAVs under Measurement Uncertainty."** arXiv preprint arXiv:2303.07243 (2023).
 - Das, Lokesh Chandra, and Myounggyu Won. **"Saint-acc: Safety-aware intelligent adaptive cruise control for autonomous vehicles using deep reinforcement learning."** International Conference on Machine Learning. PMLR, 2021.
 - Christiano, Paul F., et al. **"Deep reinforcement learning from human preferences."** Advances in neural information processing systems 30 (2017).
@@ -27,6 +28,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Diffusion Models RL](#diffusion-models-rl)
   * [Transformer](#transformer)
   * [Federated Reinforcement Learning](#federated-reinforcement-learning)
+  * [Constrained Policy Optimization](#constrained-policy-optimization)
   * [Applications](#applications)
     * [Intelligent Transportation Systems](#intelligent-transportation-systems)
     * [Gaming](#gaming)
@@ -188,6 +190,9 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Federated Reinforcement Learning
 - [Survey] Beltrán, Enrique Tomás Martínez, et al. **"Decentralized Federated Learning: Fundamentals, State-of-the-art, Frameworks, Trends, and Challenges."** arXiv preprint arXiv:2211.08413 (2022).
 - [Survey] Qi, Jiaju, et al. **"Federated reinforcement learning: Techniques, applications, and open challenges."** arXiv preprint arXiv:2108.11887 (2021). 
+
+## Constrained Policy Optimization
+- Achiam, Joshua, et al. **"Constrained policy optimization." International conference on machine learning.** PMLR, 2017.
 
 
 ## Applications
