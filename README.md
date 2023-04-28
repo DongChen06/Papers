@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Moor, Michael, et al. **"Foundation models for generalist medical artificial intelligence."** Nature 616.7956 (2023): 259-265.
 - Gu, Shangding, et al. **"Multi-agent constrained policy optimisation."** arXiv preprint arXiv:2110.02793 (2021).
 - Achiam, Joshua, et al. **"Constrained policy optimization." International conference on machine learning.** PMLR, 2017.
 - Joshi, Bhaskar, Dhruv Kapur, and Harikumar Kandath. **"Sim-to-Real Deep Reinforcement Learning based Obstacle Avoidance for UAVs under Measurement Uncertainty."** arXiv preprint arXiv:2303.07243 (2023).
@@ -61,6 +62,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Large Language Models](#large-language-models)
 
 * [Computer Vision](computer-vision)
+  * [Foundation Models](#foundation-models)
   * [Image Classification](#image-classification)
   * [Object Detection](#object-detection)
   * [Image Segmentation](#image-segmentation)
@@ -96,7 +98,6 @@ Papers related to machine learning, deep learning and reinforcement learning
 * [Robotics](#robotics)
   * [Soft Robots](#soft-robots)
   
-
 * [Tricks](#tricks)
   * [Emsemble](#emsemble)
   * [Curriculum Learning](#curriculum-learning)
@@ -133,11 +134,9 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Mandlekar, Ajay, et al. **"Iris: Implicit reinforcement without interaction at scale for learning control from offline robot manipulation data."**
   2020 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2020
 
-
 **Offline-to-Online**
 - Nair, Ashvin, et al. **"AWAC: Accelerating Online Reinforcement Learning with Offline Datasets."** (2020).
 - Lee, Seunghyun, et al. **"Offline-to-Online Reinforcement Learning via Balanced Replay and Pessimistic Q-Ensemble."** arXiv preprint arXiv:2107.00591 (2021).
-
 
 ## Model Based
 - Kurutach, Thanard, et al. **"Model-ensemble trust-region policy optimization."** arXiv preprint arXiv:1802.10592 (2018).
@@ -145,18 +144,15 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Zhang, Marvin, et al. **"Solar: Deep structured representations for model-based reinforcement learning."** International Conference on Machine Learning. PMLR, 2019.
 - Kaiser, Lukasz, et al. **"Model-based reinforcement learning for atari."** arXiv preprint arXiv:1903.00374 (2019).
 
-
 **Uncertainty Estimate**
 - Yu, Tianhe, et al. **"Mopo: Model-based offline policy optimization."** arXiv preprint arXiv:2005.13239 (2020).
 - (LOMPO) Rafailov, Rafael, et al. **"Offline reinforcement learning from images with latent space models."** Learning for Dynamics and Control. PMLR, 2021.
-
 
 ## Imitation Learning
 - Chen, Dian, et al. **"Learning by cheating." Conference on Robot Learning.** PMLR, 2020.
 - Lynch, Corey, et al. **"Learning latent plans from play."** Conference on Robot Learning. PMLR, 2020.
 - (BCQ) Torabi, Faraz, Garrett Warnell, and Peter Stone. **"Behavioral cloning from observation."** arXiv preprint arXiv:1805.01954 (2018).
 - (ILPO) Edwards, Ashley, et al. **"Imitating latent policies from observation."** International Conference on Machine Learning. PMLR, 2019.
-
 
 ## Semi-supervised
 - Park, Jongjin, et al. **"SURF: Semi-supervised Reward Learning with Data Augmentation for Feedback-efficient Preference-based Reinforcement Learning."** arXiv preprint arXiv:2203.10050 (2022).
@@ -168,11 +164,9 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Reward Shaping
 - Ng, Andrew Y., Daishi Harada, and Stuart Russell. **"Policy invariance under reward transformations: Theory and application to reward shaping."** Icml. Vol. 99. 1999.
 
-
 ## Inverse Reinforcement Learning
 - (FORM) Jaegle, Andrew, et al. **"Imitation by Predicting Observations."** International Conference on Machine Learning. PMLR, 2021.
 - Christiano, Paul F., et al. **"Deep reinforcement learning from human preferences."** Advances in neural information processing systems 30 (2017).
-
 
 ## Transfer Learning
 - Cang, Catherine, et al. **"Behavioral Priors and Dynamics Models: Improving Performance and Domain Transfer in Offline RL."** arXiv preprint arXiv:2106.09119 (2021).
@@ -310,6 +304,10 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 
 # Computer Vision
+## Foundation Models
+- Moor, Michael, et al. **"Foundation models for generalist medical artificial intelligence."** Nature 616.7956 (2023): 259-265.
+
+
 ## Image Classification
 
 ## Object Detection
