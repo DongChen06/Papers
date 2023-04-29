@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Guan, Cong, et al. **"Efficient Multi-agent Communication via Self-supervised Information Aggregation."** Advances in Neural Information Processing Systems 35 (2022): 1020-1033.
 - Moor, Michael, et al. **"Foundation models for generalist medical artificial intelligence."** Nature 616.7956 (2023): 259-265.
 - Gu, Shangding, et al. **"Multi-agent constrained policy optimisation."** arXiv preprint arXiv:2110.02793 (2021).
 - Achiam, Joshua, et al. **"Constrained policy optimization." International conference on machine learning.** PMLR, 2017.
@@ -239,6 +240,9 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 
 ## Communication
+- Zhu, Changxi, Mehdi Dastani, and Shihan Wang. **"A survey of multi-agent reinforcement learning with communication."** arXiv preprint arXiv:2203.08975 (2022).
+- [MASIA] Guan, Cong, et al. **"Efficient Multi-agent Communication via Self-supervised Information Aggregation."** Advances in Neural Information Processing Systems 35 (2022): 1020-1033.
+- Kim, Woojun, Jongeui Park, and Youngchul Sung. **"Communication in multi-agent reinforcement learning: Intention sharing."** International Conference on Learning Representations. 2021.
 - [NeurComm] Chu, Tianshu, Sandeep Chinchali, and Sachin Katti. **"Multi-agent reinforcement learning for networked system control."** arXiv preprint arXiv:2004.01339 (2020).
 - [IC3Net] Singh, Amanpreet, Tushar Jain, and Sainbayar Sukhbaatar. "Learning when to communicate at scale in multiagent cooperative and competitive tasks." arXiv preprint arXiv:1812.09755 (2018).
 - [COMA] Foerster, Jakob, et al. **"Counterfactual multi-agent policy gradients."** Proceedings of the AAAI conference on artificial intelligence. Vol. 32. No. 1. 2018.
