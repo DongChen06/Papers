@@ -2,18 +2,12 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Amos, Brandon, et al. **"Differentiable mpc for end-to-end planning and control."** Advances in neural information processing systems 31 (2018).
 - Guan, Cong, et al. **"Efficient Multi-agent Communication via Self-supervised Information Aggregation."** Advances in Neural Information Processing Systems 35 (2022): 1020-1033.
 - Moor, Michael, et al. **"Foundation models for generalist medical artificial intelligence."** Nature 616.7956 (2023): 259-265.
 - Gu, Shangding, et al. **"Multi-agent constrained policy optimisation."** arXiv preprint arXiv:2110.02793 (2021).
 - Achiam, Joshua, et al. **"Constrained policy optimization." International conference on machine learning.** PMLR, 2017.
 - Joshi, Bhaskar, Dhruv Kapur, and Harikumar Kandath. **"Sim-to-Real Deep Reinforcement Learning based Obstacle Avoidance for UAVs under Measurement Uncertainty."** arXiv preprint arXiv:2303.07243 (2023).
-- Das, Lokesh Chandra, and Myounggyu Won. **"Saint-acc: Safety-aware intelligent adaptive cruise control for autonomous vehicles using deep reinforcement learning."** International Conference on Machine Learning. PMLR, 2021.
-- Christiano, Paul F., et al. **"Deep reinforcement learning from human preferences."** Advances in neural information processing systems 30 (2017).
-- Huang, Shaohan, et al. **"Language is not all you need: Aligning perception with language models."** arXiv preprint arXiv:2302.14045 (2023).
-- Bai, Yuntao, et al. **"Constitutional AI: Harmlessness from AI Feedback."** arXiv preprint arXiv:2212.08073 (2022).
-- Zhang, Kaiqing, et al. **"Fully decentralized multi-agent reinforcement learning with networked agents."** International Conference on Machine Learning. PMLR, 2018.
-- Abadi, Martin, et al. **"Deep learning with differential privacy."** Proceedings of the 2016 ACM SIGSAC conference on computer and communications security. 2016.
-- Kortvelesy, Ryan, Steven Morad, and Amanda Prorok. **"Permutation-Invariant Set Autoencoders with Fixed-Size Embeddings for Multi-Agent Learning."** arXiv preprint arXiv:2302.12826 (2023).
 
 
 ## Contents
@@ -32,6 +26,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Transformer](#transformer)
   * [Federated Reinforcement Learning](#federated-reinforcement-learning)
   * [Constrained Policy Optimization](#constrained-policy-optimization)
+  * [Control](#control)
   * [Applications](#applications)
     * [Intelligent Transportation Systems](#intelligent-transportation-systems)
     * [Gaming](#gaming)
@@ -176,7 +171,6 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Wang, Zhendong, Jonathan J. Hunt, and Mingyuan Zhou. **"Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning."** arXiv preprint arXiv:2208.06193 (2022).
 - Janner, Michael, et al. **"Planning with Diffusion for Flexible Behavior Synthesis."** arXiv preprint arXiv:2205.09991 (2022).
 
-
 ## Hybrid Action Space
 - Li, Boyan, et al. **"Hyar: Addressing discrete-continuous action reinforcement learning via hybrid action representation."** arXiv preprint arXiv:2109.05490 (2021).
 - Neunert, Michael, et al. **"Continuous-discrete reinforcement learning for hybrid control in robotics."** Conference on Robot Learning. PMLR, 2020.
@@ -191,6 +185,8 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Constrained Policy Optimization
 - Achiam, Joshua, et al. **"Constrained policy optimization." International conference on machine learning.** PMLR, 2017.
 
+## Control
+- Amos, Brandon, et al. **"Differentiable mpc for end-to-end planning and control."** Advances in neural information processing systems 31 (2018).
 
 ## Applications
 
