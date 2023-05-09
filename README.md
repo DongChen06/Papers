@@ -59,7 +59,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 * [Computer Vision](computer-vision)
   * [Foundation Models](#foundation-models)
-  * [Semi Supervised Learning](#semi-supervised learning)
+  * [Semi Supervised Learning](#semi-supervised-learning)
   * [Image Classification](#image-classification)
   * [Object Detection](#object-detection)
   * [Image Segmentation](#image-segmentation)
