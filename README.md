@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Chai, Shang, Liansheng Zhuang, and Fengying Yan. **"LayoutDM: Transformer-based Diffusion Model for Layout Generation."** arXiv preprint arXiv:2305.02567 (2023).
 - Amos, Brandon, et al. **"Differentiable mpc for end-to-end planning and control."** Advances in neural information processing systems 31 (2018).
 - Guan, Cong, et al. **"Efficient Multi-agent Communication via Self-supervised Information Aggregation."** Advances in Neural Information Processing Systems 35 (2022): 1020-1033.
 - Moor, Michael, et al. **"Foundation models for generalist medical artificial intelligence."** Nature 616.7956 (2023): 259-265.
@@ -330,6 +331,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 
 ## Diffusion Models
+-  Chai, Shang, Liansheng Zhuang, and Fengying Yan. **"LayoutDM: Transformer-based Diffusion Model for Layout Generation."** arXiv preprint arXiv:2305.02567 (2023).
 - Bao, Fan, et al. **"All are Worth Words: a ViT Backbone for Score-based Diffusion Models."** arXiv preprint arXiv:2209.12152 (2022).
 - You, Zebin, et al. **"Diffusion Models and Semi-Supervised Learners Benefit Mutually with Few Labels."** arXiv preprint arXiv:2302.10586 (2023).
 - Bansal, Arpit, et al. **"Cold diffusion: Inverting arbitrary image transforms without noise."** arXiv preprint arXiv:2208.09392 (2022).
