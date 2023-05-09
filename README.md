@@ -59,7 +59,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 * [Computer Vision](computer-vision)
   * [Foundation Models](#foundation-models)
-  * [Semi-supervised Learning](#semi-supervised learning)
+  * [Semi Supervised Learning](#semi-supervised learning)
   * [Image Classification](#image-classification)
   * [Object Detection](#object-detection)
   * [Image Segmentation](#image-segmentation)
@@ -308,7 +308,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Foundation Models
 - Moor, Michael, et al. **"Foundation models for generalist medical artificial intelligence."** Nature 616.7956 (2023): 259-265.
 
-## Semi-supervised Learning
+## Semi Supervised Learning
 - Chen, Hao, et al. **"SoftMatch: Addressing the Quantity-Quality Trade-off in Semi-supervised Learning."** arXiv preprint arXiv:2301.10921 (2023).
 - Wang, Yidong, et al. **"Freematch: Self-adaptive thresholding for semi-supervised learning."** arXiv preprint arXiv:2205.07246 (2022).
 - Zhang, Bowen, et al. **"Flexmatch: Boosting semi-supervised learning with curriculum pseudo labeling."** Advances in Neural Information Processing Systems 34 (2021): 18408-18419.
