@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Haarnoja, Tuomas, et al. **"Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning."** arXiv preprint arXiv:2304.13653 (2023).
 - Chai, Shang, Liansheng Zhuang, and Fengying Yan. **"LayoutDM: Transformer-based Diffusion Model for Layout Generation."** arXiv preprint arXiv:2305.02567 (2023).
 - Amos, Brandon, et al. **"Differentiable mpc for end-to-end planning and control."** Advances in neural information processing systems 31 (2018).
 - Guan, Cong, et al. **"Efficient Multi-agent Communication via Self-supervised Information Aggregation."** Advances in Neural Information Processing Systems 35 (2022): 1020-1033.
@@ -202,6 +203,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Zha, Daochen, et al. **"DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning."** arXiv preprint arXiv:2106.06135 (2021).
 
 ### Robotics
+- Haarnoja, Tuomas, et al. **"Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning."** arXiv preprint arXiv:2304.13653 (2023).
 - Evans, Benjamin, et al. **"Accelerating Online Reinforcement Learning via Supervisory Safety Systems."** arXiv preprint arXiv:2209.11082 (2022).
 - Lee, Joonho, et al. **"Learning quadrupedal locomotion over challenging terrain."** Science robotics 5.47 (2020): eabc5986.
 
