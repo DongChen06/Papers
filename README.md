@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Di Palo, Norman, et al. **"Towards A Unified Agent with Foundation Models."** Workshop on Reincarnating Reinforcement Learning at ICLR 2023. 2023.
 - Haarnoja, Tuomas, et al. **"Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning."** arXiv preprint arXiv:2304.13653 (2023).
 - Chai, Shang, Liansheng Zhuang, and Fengying Yan. **"LayoutDM: Transformer-based Diffusion Model for Layout Generation."** arXiv preprint arXiv:2305.02567 (2023).
 - Amos, Brandon, et al. **"Differentiable mpc for end-to-end planning and control."** Advances in neural information processing systems 31 (2018).
@@ -25,6 +26,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
   * [Transfer Learning](#transfer-learning)
   * [Diffusion Models RL](#diffusion-models-rl)
+  * [Foundation Models in RL](#foundation-models-in-rl)
   * [Transformer](#transformer)
   * [Federated Reinforcement Learning](#federated-reinforcement-learning)
   * [Constrained Policy Optimization](#constrained-policy-optimization)
@@ -173,6 +175,10 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Diffusion Models RL
 - Wang, Zhendong, Jonathan J. Hunt, and Mingyuan Zhou. **"Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning."** arXiv preprint arXiv:2208.06193 (2022).
 - Janner, Michael, et al. **"Planning with Diffusion for Flexible Behavior Synthesis."** arXiv preprint arXiv:2205.09991 (2022).
+
+## Foundation Models in RL
+- Di Palo, Norman, et al. **"Towards A Unified Agent with Foundation Models."** Workshop on Reincarnating Reinforcement Learning at ICLR 2023. 2023.
+
 
 ## Hybrid Action Space
 - Li, Boyan, et al. **"Hyar: Addressing discrete-continuous action reinforcement learning via hybrid action representation."** arXiv preprint arXiv:2109.05490 (2021).
