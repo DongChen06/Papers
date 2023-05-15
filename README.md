@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Portelas, Rémy, et al. **"Automatic curriculum learning for deep rl: A short survey."** arXiv preprint arXiv:2003.04664 (2020).
 - Di Palo, Norman, et al. **"Towards A Unified Agent with Foundation Models."** Workshop on Reincarnating Reinforcement Learning at ICLR 2023. 2023.
 - Haarnoja, Tuomas, et al. **"Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning."** arXiv preprint arXiv:2304.13653 (2023).
 - Chai, Shang, Liansheng Zhuang, and Fengying Yan. **"LayoutDM: Transformer-based Diffusion Model for Layout Generation."** arXiv preprint arXiv:2305.02567 (2023).
@@ -477,6 +478,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 - [Esemble] Hiraoka, Takuya, et al. **"Dropout Q-Functions for Doubly Efficient Reinforcement Learning."** arXiv preprint arXiv:2110.02034 (2021).
 
 ## Curriculum Learning
+- Portelas, Rémy, et al. **"Automatic curriculum learning for deep rl: A short survey."** arXiv preprint arXiv:2003.04664 (2020).
 - Chen, Dong, et al. **"Deep multi-agent reinforcement learning for highway on-ramp merging in mixed traffic."** arXiv preprint arXiv:2105.05701 (2021).
 - Liu, Xuan, et al. **"Learning to locomote with artificial neural-network and cpg-based control in a soft snake robot."** 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2020.
 - Zeng, Yilei, et al. **"Human Decision Makings on Curriculum Reinforcement Learning with Difficulty Adjustment."** arXiv preprint arXiv:2208.02932 (2022).
