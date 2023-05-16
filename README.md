@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Andrychowicz, Marcin, et al. **"Hindsight experience replay."** Advances in neural information processing systems 30 (2017).
 - Portelas, Rémy, et al. **"Automatic curriculum learning for deep rl: A short survey."** arXiv preprint arXiv:2003.04664 (2020).
 - Di Palo, Norman, et al. **"Towards A Unified Agent with Foundation Models."** Workshop on Reincarnating Reinforcement Learning at ICLR 2023. 2023.
 - Haarnoja, Tuomas, et al. **"Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning."** arXiv preprint arXiv:2304.13653 (2023).
@@ -115,8 +116,9 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Survey
 
 ## Value-based
+- [HER] Andrychowicz, Marcin, et al. **"Hindsight experience replay."** Advances in neural information processing systems 30 (2017).
 - Yang, Zhihan, and Hai Nguyen. **"Recurrent off-policy baselines for memory-based continuous control."** arXiv preprint arXiv:2110.12628 (2021).
-- DRQN: Hausknecht, Matthew, and Peter Stone. **"Deep recurrent q-learning for partially observable mdps."** arXiv preprint arXiv:1507.06527 (2015).
+- [DRQN]: Hausknecht, Matthew, and Peter Stone. **"Deep recurrent q-learning for partially observable mdps."** arXiv preprint arXiv:1507.06527 (2015).
 - [Esemble] Lan, Qingfeng, et al. **"Maxmin q-learning: Controlling the estimation bias of q-learning."** arXiv preprint arXiv:2002.06487 (2020).
 - [Esemble] Chen, Xinyue, et al. **"Randomized ensembled double q-learning: Learning fast without a model."** arXiv preprint arXiv:2101.05982 (2021).
 - [Esemble] Hiraoka, Takuya, et al. **"Dropout Q-Functions for Doubly Efficient Reinforcement Learning."** arXiv preprint arXiv:2110.02034 (2021).
