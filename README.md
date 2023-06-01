@@ -404,6 +404,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 # Power System
 ## Voltage and Frequency Control
 - Wang, Minrui, et al. **"Stabilizing Voltage in Power Distribution Networks via Multi-Agent Reinforcement Learning with Transformer."** arXiv preprint arXiv:2206.03721 (2022).
+- Gao, Yuanqi, Wei Wang, and Nanpeng Yu. **"Consensus multi-agent reinforcement learning for volt-var control in power distribution networks."** IEEE Transactions on Smart Grid 12.4 (2021): 3594-3604.
 - Wang, Jianhong, et al. **"Multi-agent reinforcement learning for active voltage control on power distribution networks."** Advances in Neural Information Processing Systems 34 (2021): 3271-3284.
 - Zhang, Qianzhi, et al. **"Multi-agent safe policy learning for power management of networked microgrids."** IEEE Transactions on Smart Grid 12.2 (2020): 1048-1062.
 
