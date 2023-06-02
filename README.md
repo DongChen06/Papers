@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Li, Meng, et al. **"Enhancing Cooperation of Vehicle Merging Control in Heavy Traffic Using Communication-Based Soft Actor-Critic Algorithm."** IEEE Transactions on Intelligent Transportation Systems (2022).
 - Andrychowicz, Marcin, et al. **"Hindsight experience replay."** Advances in neural information processing systems 30 (2017).
 - Portelas, Rémy, et al. **"Automatic curriculum learning for deep rl: A short survey."** arXiv preprint arXiv:2003.04664 (2020).
 - Di Palo, Norman, et al. **"Towards A Unified Agent with Foundation Models."** Workshop on Reincarnating Reinforcement Learning at ICLR 2023. 2023.
@@ -292,6 +293,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Traffic Applications
 
 ### Autonomous Driving
+- Li, Meng, et al. **"Enhancing Cooperation of Vehicle Merging Control in Heavy Traffic Using Communication-Based Soft Actor-Critic Algorithm."** IEEE Transactions on Intelligent Transportation Systems (2022).
 - Zhang, Jiawei, et al. **"Multi-Agent DRL-Based Lane Change With Right-of-Way Collaboration Awareness."** IEEE Transactions on Intelligent Transportation Systems (2022).
 - self-play: Tang, Yichuan. **"Towards learning multi-agent negotiations via self-play."** Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops. 2019.
 
