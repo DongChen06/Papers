@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Z. Nagy, G. Henze, S. Dey et al., **Ten questions concerning reinforcement learning for building energy management**, Building and Environment (2023), doi: https://doi.org/10.1016/j.buildenv.2023.110435.
 - Li, Meng, et al. **"Enhancing Cooperation of Vehicle Merging Control in Heavy Traffic Using Communication-Based Soft Actor-Critic Algorithm."** IEEE Transactions on Intelligent Transportation Systems (2022).
 - Andrychowicz, Marcin, et al. **"Hindsight experience replay."** Advances in neural information processing systems 30 (2017).
 - Portelas, Rémy, et al. **"Automatic curriculum learning for deep rl: A short survey."** arXiv preprint arXiv:2003.04664 (2020).
@@ -84,6 +85,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Traffic Applications](traffic-applications)
   
 * [Power System](#power-system)
+  * [Smart Buildings](#smart-buildings) 
   * [Voltage and Frequency Control](#voltage-and-frequency-control)
   * [Energy Trading](#energy-trading)
   * [Testbed](#testbed)
@@ -404,6 +406,10 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 
 # Power System
+## Smart Buildings
+- Z. Nagy, G. Henze, S. Dey et al., **Ten questions concerning reinforcement learning for building energy management**, Building and Environment (2023), doi: https://doi.org/10.1016/j.buildenv.2023.110435.
+
+
 ## Voltage and Frequency Control
 - Wang, Minrui, et al. **"Stabilizing Voltage in Power Distribution Networks via Multi-Agent Reinforcement Learning with Transformer."** arXiv preprint arXiv:2206.03721 (2022).
 - Gao, Yuanqi, Wei Wang, and Nanpeng Yu. **"Consensus multi-agent reinforcement learning for volt-var control in power distribution networks."** IEEE Transactions on Smart Grid 12.4 (2021): 3594-3604.
