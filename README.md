@@ -408,6 +408,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 # Power System
 ## Smart Buildings
+- Vázquez-Canteli, José R., et al. **"Citylearn v1. 0: An openai gym environment for demand response with deep reinforcement learning."** Proceedings of the 6th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation. 2019.
 - Zhang, Huiliang, Di Wu, and Benoit Boulet. **"MetaEMS: A Meta Reinforcement Learning-based Control Framework for Building Energy Management System."** arXiv preprint arXiv:2210.12590 (2022).
 - Z. Nagy, G. Henze, S. Dey et al., **Ten questions concerning reinforcement learning for building energy management**, Building and Environment (2023), doi: https://doi.org/10.1016/j.buildenv.2023.110435.
 
