@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Zhang, Huiliang, Di Wu, and Benoit Boulet. **"MetaEMS: A Meta Reinforcement Learning-based Control Framework for Building Energy Management System."** arXiv preprint arXiv:2210.12590 (2022).
 - Z. Nagy, G. Henze, S. Dey et al., **Ten questions concerning reinforcement learning for building energy management**, Building and Environment (2023), doi: https://doi.org/10.1016/j.buildenv.2023.110435.
 - Li, Meng, et al. **"Enhancing Cooperation of Vehicle Merging Control in Heavy Traffic Using Communication-Based Soft Actor-Critic Algorithm."** IEEE Transactions on Intelligent Transportation Systems (2022).
 - Andrychowicz, Marcin, et al. **"Hindsight experience replay."** Advances in neural information processing systems 30 (2017).
@@ -407,6 +408,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 # Power System
 ## Smart Buildings
+- Zhang, Huiliang, Di Wu, and Benoit Boulet. **"MetaEMS: A Meta Reinforcement Learning-based Control Framework for Building Energy Management System."** arXiv preprint arXiv:2210.12590 (2022).
 - Z. Nagy, G. Henze, S. Dey et al., **Ten questions concerning reinforcement learning for building energy management**, Building and Environment (2023), doi: https://doi.org/10.1016/j.buildenv.2023.110435.
 
 
