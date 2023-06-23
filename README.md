@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Yadavalli, Sushma Reddy, Lokesh Chandra Das, and Myounggyu Won. **"RLPG: Reinforcement Learning Approach for Dynamic Intra-Platoon Gap Adaptation for Highway On-Ramp Merging."** arXiv preprint arXiv:2212.03497 (2022).
 - Zhang, Jifan, et al. **"LabelBench: A Comprehensive Framework for Benchmarking Label-Efficient Learning."** arXiv preprint arXiv:2306.09910 (2023).
 - Zhang, Huiliang, Di Wu, and Benoit Boulet. **"MetaEMS: A Meta Reinforcement Learning-based Control Framework for Building Energy Management System."** arXiv preprint arXiv:2210.12590 (2022).
 - Z. Nagy, G. Henze, S. Dey et al., **Ten questions concerning reinforcement learning for building energy management**, Building and Environment (2023), doi: https://doi.org/10.1016/j.buildenv.2023.110435.
@@ -9,14 +10,6 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Andrychowicz, Marcin, et al. **"Hindsight experience replay."** Advances in neural information processing systems 30 (2017).
 - Portelas, Rémy, et al. **"Automatic curriculum learning for deep rl: A short survey."** arXiv preprint arXiv:2003.04664 (2020).
 - Di Palo, Norman, et al. **"Towards A Unified Agent with Foundation Models."** Workshop on Reincarnating Reinforcement Learning at ICLR 2023. 2023.
-- Haarnoja, Tuomas, et al. **"Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning."** arXiv preprint arXiv:2304.13653 (2023).
-- Chai, Shang, Liansheng Zhuang, and Fengying Yan. **"LayoutDM: Transformer-based Diffusion Model for Layout Generation."** arXiv preprint arXiv:2305.02567 (2023).
-- Amos, Brandon, et al. **"Differentiable mpc for end-to-end planning and control."** Advances in neural information processing systems 31 (2018).
-- Guan, Cong, et al. **"Efficient Multi-agent Communication via Self-supervised Information Aggregation."** Advances in Neural Information Processing Systems 35 (2022): 1020-1033.
-- Moor, Michael, et al. **"Foundation models for generalist medical artificial intelligence."** Nature 616.7956 (2023): 259-265.
-- Gu, Shangding, et al. **"Multi-agent constrained policy optimisation."** arXiv preprint arXiv:2110.02793 (2021).
-- Achiam, Joshua, et al. **"Constrained policy optimization." International conference on machine learning.** PMLR, 2017.
-- Joshi, Bhaskar, Dhruv Kapur, and Harikumar Kandath. **"Sim-to-Real Deep Reinforcement Learning based Obstacle Avoidance for UAVs under Measurement Uncertainty."** arXiv preprint arXiv:2303.07243 (2023).
 
 
 ## Contents
@@ -208,6 +201,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Applications
 
 ### Intelligent Transportation Systems
+- Yadavalli, Sushma Reddy, Lokesh Chandra Das, and Myounggyu Won. **"RLPG: Reinforcement Learning Approach for Dynamic Intra-Platoon Gap Adaptation for Highway On-Ramp Merging."** arXiv preprint arXiv:2212.03497 (2022).
 - Cao, Zhong, et al. **"Continuous improvement of self-driving cars using dynamic confidence-aware reinforcement learning."** Nature Machine Intelligence 5.2 (2023): 145-158.
 - Huang, Wenhui, et al. **"Goal-guided Transformer-enabled Reinforcement Learning for Efficient Autonomous Navigation."** arXiv preprint arXiv:2301.00362 (2023).
 - Liu, Haochen, et al. **"Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving."** arXiv preprint arXiv:2208.12263 (2022).
