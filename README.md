@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Chen, Xianda, et al. **"FollowNet: A Comprehensive Benchmark for Car-Following Behavior Modeling."** arXiv preprint arXiv:2306.05381 (2023).
 - Yadavalli, Sushma Reddy, Lokesh Chandra Das, and Myounggyu Won. **"RLPG: Reinforcement Learning Approach for Dynamic Intra-Platoon Gap Adaptation for Highway On-Ramp Merging."** arXiv preprint arXiv:2212.03497 (2022).
 - Zhang, Jifan, et al. **"LabelBench: A Comprehensive Framework for Benchmarking Label-Efficient Learning."** arXiv preprint arXiv:2306.09910 (2023).
 - Zhang, Huiliang, Di Wu, and Benoit Boulet. **"MetaEMS: A Meta Reinforcement Learning-based Control Framework for Building Energy Management System."** arXiv preprint arXiv:2210.12590 (2022).
@@ -201,6 +202,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 ## Applications
 
 ### Intelligent Transportation Systems
+- - Chen, Xianda, et al. **"FollowNet: A Comprehensive Benchmark for Car-Following Behavior Modeling."** arXiv preprint arXiv:2306.05381 (2023).
 - Yadavalli, Sushma Reddy, Lokesh Chandra Das, and Myounggyu Won. **"RLPG: Reinforcement Learning Approach for Dynamic Intra-Platoon Gap Adaptation for Highway On-Ramp Merging."** arXiv preprint arXiv:2212.03497 (2022).
 - Cao, Zhong, et al. **"Continuous improvement of self-driving cars using dynamic confidence-aware reinforcement learning."** Nature Machine Intelligence 5.2 (2023): 145-158.
 - Huang, Wenhui, et al. **"Goal-guided Transformer-enabled Reinforcement Learning for Efficient Autonomous Navigation."** arXiv preprint arXiv:2301.00362 (2023).
