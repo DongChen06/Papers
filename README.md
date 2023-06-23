@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Zhang, Jifan, et al. **"LabelBench: A Comprehensive Framework for Benchmarking Label-Efficient Learning."** arXiv preprint arXiv:2306.09910 (2023).
 - Zhang, Huiliang, Di Wu, and Benoit Boulet. **"MetaEMS: A Meta Reinforcement Learning-based Control Framework for Building Energy Management System."** arXiv preprint arXiv:2210.12590 (2022).
 - Z. Nagy, G. Henze, S. Dey et al., **Ten questions concerning reinforcement learning for building energy management**, Building and Environment (2023), doi: https://doi.org/10.1016/j.buildenv.2023.110435.
 - Li, Meng, et al. **"Enhancing Cooperation of Vehicle Merging Control in Heavy Traffic Using Communication-Based Soft Actor-Critic Algorithm."** IEEE Transactions on Intelligent Transportation Systems (2022).
@@ -326,6 +327,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Moor, Michael, et al. **"Foundation models for generalist medical artificial intelligence."** Nature 616.7956 (2023): 259-265.
 
 ## Semi Supervised Learning
+- Zhang, Jifan, et al. **"LabelBench: A Comprehensive Framework for Benchmarking Label-Efficient Learning."** arXiv preprint arXiv:2306.09910 (2023).
 - Chen, Hao, et al. **"SoftMatch: Addressing the Quantity-Quality Trade-off in Semi-supervised Learning."** arXiv preprint arXiv:2301.10921 (2023).
 - Wang, Yidong, et al. **"Freematch: Self-adaptive thresholding for semi-supervised learning."** arXiv preprint arXiv:2205.07246 (2022).
 - Zhang, Bowen, et al. **"Flexmatch: Boosting semi-supervised learning with curriculum pseudo labeling."** Advances in Neural Information Processing Systems 34 (2021): 18408-18419.
