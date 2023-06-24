@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Chen, Wubing. **"Learning Multi-intersection Traffic Signal Control via Coevolutionary Multi-Agent Reinforcement Learning."** (2023).
 - Chen, Xianda, et al. **"FollowNet: A Comprehensive Benchmark for Car-Following Behavior Modeling."** arXiv preprint arXiv:2306.05381 (2023).
 - Yadavalli, Sushma Reddy, Lokesh Chandra Das, and Myounggyu Won. **"RLPG: Reinforcement Learning Approach for Dynamic Intra-Platoon Gap Adaptation for Highway On-Ramp Merging."** arXiv preprint arXiv:2212.03497 (2022).
 - Zhang, Jifan, et al. **"LabelBench: A Comprehensive Framework for Benchmarking Label-Efficient Learning."** arXiv preprint arXiv:2306.09910 (2023).
@@ -502,6 +503,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 # Impressive Works
 ## Multi-agent Systems
 - Kortvelesy, Ryan, Steven Morad, and Amanda Prorok. **"Permutation-Invariant Set Autoencoders with Fixed-Size Embeddings for Multi-Agent Learning."** arXiv preprint arXiv:2302.12826 (2023).
+- Chen, Wubing. **"Learning Multi-intersection Traffic Signal Control via Coevolutionary Multi-Agent Reinforcement Learning."** (2023).
 
 ## Smart Agriculture
 - Steininger, Daniel, et al. **"The CropAndWeed Dataset: A Multi-Modal Learning Approach for Efficient Crop and Weed Manipulation."** Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2023.
