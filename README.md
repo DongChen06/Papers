@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Prudencio, Rafael Figueiredo, Marcos ROA Maximo, and Esther Luna Colombini. **"A survey on offline reinforcement learning: Taxonomy, review, and open problems."** IEEE Transactions on Neural Networks and Learning Systems (2023).
 - Chen, Wubing. **"Learning Multi-intersection Traffic Signal Control via Coevolutionary Multi-Agent Reinforcement Learning."** (2023).
 - Chen, Xianda, et al. **"FollowNet: A Comprehensive Benchmark for Car-Following Behavior Modeling."** arXiv preprint arXiv:2306.05381 (2023).
 - Yadavalli, Sushma Reddy, Lokesh Chandra Das, and Myounggyu Won. **"RLPG: Reinforcement Learning Approach for Dynamic Intra-Platoon Gap Adaptation for Highway On-Ramp Merging."** arXiv preprint arXiv:2212.03497 (2022).
@@ -128,7 +129,8 @@ Papers related to machine learning, deep learning and reinforcement learning
 - (Auxiliary tasks) Jaderberg, Max, et al. **"Reinforcement learning with unsupervised auxiliary tasks."** arXiv preprint arXiv:1611.05397 (2016).
 
 ## Offline RL
-- Survey: Levine, Sergey, et al. **"Offline reinforcement learning: Tutorial, review, and perspectives on open problems."** arXiv preprint arXiv:2005.01643 (2020).
+- [Survey]: Prudencio, Rafael Figueiredo, Marcos ROA Maximo, and Esther Luna Colombini. **"A survey on offline reinforcement learning: Taxonomy, review, and open problems."** IEEE Transactions on Neural Networks and Learning Systems (2023).
+- [Survey]: Levine, Sergey, et al. **"Offline reinforcement learning: Tutorial, review, and perspectives on open problems."** arXiv preprint arXiv:2005.01643 (2020).
 
 - (BCQ): Fujimoto, Scott, David Meger, and Doina Precup. **"Off-policy deep reinforcement learning without exploration."** International Conference on Machine Learning. PMLR, 2019.
 - (BEAR) Kumar, Aviral, et al. **"Stabilizing off-policy q-learning via bootstrapping error reduction."** arXiv preprint arXiv:1906.00949 (2019).
