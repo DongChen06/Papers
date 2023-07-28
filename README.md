@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Jiang, Qingsong, et al. **"Deep-reinforcement-learning-based water diversion strategy."** Environmental Science and Ecotechnology (2023): 100298.
 - Prudencio, Rafael Figueiredo, Marcos ROA Maximo, and Esther Luna Colombini. **"A survey on offline reinforcement learning: Taxonomy, review, and open problems."** IEEE Transactions on Neural Networks and Learning Systems (2023).
 - Chen, Wubing. **"Learning Multi-intersection Traffic Signal Control via Coevolutionary Multi-Agent Reinforcement Learning."** (2023).
 - Chen, Xianda, et al. **"FollowNet: A Comprehensive Benchmark for Car-Following Behavior Modeling."** arXiv preprint arXiv:2306.05381 (2023).
@@ -39,6 +40,7 @@ Papers related to machine learning, deep learning and reinforcement learning
     * [Robotics](#robotics)
     * [Quantum Control](#quantum-control)
     * [UAVs](#uavs)
+    * [Environment](#environment)
 
   
 * [Multi Agent Reinforcement Learning](#multi-agent-reinforcement-learning)
@@ -219,6 +221,10 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Haarnoja, Tuomas, et al. **"Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning."** arXiv preprint arXiv:2304.13653 (2023).
 - Evans, Benjamin, et al. **"Accelerating Online Reinforcement Learning via Supervisory Safety Systems."** arXiv preprint arXiv:2209.11082 (2022).
 - Lee, Joonho, et al. **"Learning quadrupedal locomotion over challenging terrain."** Science robotics 5.47 (2020): eabc5986.
+
+### Environment
+- Jiang, Qingsong, et al. **"Deep-reinforcement-learning-based water diversion strategy."** Environmental Science and Ecotechnology (2023): 100298.
+
 
 ### Quantum Control
 - Ma, Hailan, et al. **"Curriculum-based deep reinforcement learning for quantum control."** IEEE Transactions on Neural Networks and Learning Systems (2022).
