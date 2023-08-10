@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Wang, Letian, et al. **"Efficient Reinforcement Learning for Autonomous Driving with Parameterized Skills and Priors."** arXiv preprint arXiv:2305.04412 (2023).
 - Jiang, Qingsong, et al. **"Deep-reinforcement-learning-based water diversion strategy."** Environmental Science and Ecotechnology (2023): 100298.
 - Prudencio, Rafael Figueiredo, Marcos ROA Maximo, and Esther Luna Colombini. **"A survey on offline reinforcement learning: Taxonomy, review, and open problems."** IEEE Transactions on Neural Networks and Learning Systems (2023).
 - Chen, Wubing. **"Learning Multi-intersection Traffic Signal Control via Coevolutionary Multi-Agent Reinforcement Learning."** (2023).
@@ -157,6 +158,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 - (LOMPO) Rafailov, Rafael, et al. **"Offline reinforcement learning from images with latent space models."** Learning for Dynamics and Control. PMLR, 2021.
 
 ## Imitation Learning
+- Wang, Letian, et al. **"Efficient Reinforcement Learning for Autonomous Driving with Parameterized Skills and Priors."** arXiv preprint arXiv:2305.04412 (2023).
 - Chen, Dian, et al. **"Learning by cheating." Conference on Robot Learning.** PMLR, 2020.
 - Lynch, Corey, et al. **"Learning latent plans from play."** Conference on Robot Learning. PMLR, 2020.
 - (BCQ) Torabi, Faraz, Garrett Warnell, and Peter Stone. **"Behavioral cloning from observation."** arXiv preprint arXiv:1805.01954 (2018).
