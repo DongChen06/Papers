@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Faghri, Fartash, et al. **"Reinforce Data, Multiply Impact: Improved Model Accuracy and Robustness with Dataset Reinforcement."** arXiv preprint arXiv:2303.08983 (2023).
 - Wang, Letian, et al. **"Efficient Reinforcement Learning for Autonomous Driving with Parameterized Skills and Priors."** arXiv preprint arXiv:2305.04412 (2023).
 - Jiang, Qingsong, et al. **"Deep-reinforcement-learning-based water diversion strategy."** Environmental Science and Ecotechnology (2023): 100298.
 - Prudencio, Rafael Figueiredo, Marcos ROA Maximo, and Esther Luna Colombini. **"A survey on offline reinforcement learning: Taxonomy, review, and open problems."** IEEE Transactions on Neural Networks and Learning Systems (2023).
@@ -78,6 +79,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Image Synthsis](#image-synthsis)
   * [Transformers](#transformers)
   * [Domain Adaptation](#domain-adaptation)
+  * [Others](#others)
 
 * [Meta Learning](#meta-Learning)
   * [Meta Learning](#meta-learning)
@@ -383,6 +385,8 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Tzeng, Eric, et al. "Adversarial discriminative domain adaptation." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017.
 - Ganin, Yaroslav, et al. "Domain-adversarial training of neural networks." The journal of machine learning research 17.1 (2016): 2096-2030.
 
+## Others
+- Faghri, Fartash, et al. **"Reinforce Data, Multiply Impact: Improved Model Accuracy and Robustness with Dataset Reinforcement."** arXiv preprint arXiv:2303.08983 (2023).
 
 
 # Meta Learning
