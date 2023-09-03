@@ -520,6 +520,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Chen, Wubing. **"Learning Multi-intersection Traffic Signal Control via Coevolutionary Multi-Agent Reinforcement Learning."** (2023).
 
 ## Smart Agriculture
+- Tao, Ran, et al. **"Optimizing crop management with reinforcement learning and imitation learning."** arXiv preprint arXiv:2209.09991 (2022).
 - Steininger, Daniel, et al. **"The CropAndWeed Dataset: A Multi-Modal Learning Approach for Efficient Crop and Weed Manipulation."** Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2023.
 
 ## Reinforcement Learning
