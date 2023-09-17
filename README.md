@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Chafii, Marwa, et al. **"Emergent Communication in Multi-Agent Reinforcement Learning for Future Wireless Networks."** arXiv preprint arXiv:2309.06021 (2023).
 - Faghri, Fartash, et al. **"Reinforce Data, Multiply Impact: Improved Model Accuracy and Robustness with Dataset Reinforcement."** arXiv preprint arXiv:2303.08983 (2023).
 - Wang, Letian, et al. **"Efficient Reinforcement Learning for Autonomous Driving with Parameterized Skills and Priors."** arXiv preprint arXiv:2305.04412 (2023).
 - Jiang, Qingsong, et al. **"Deep-reinforcement-learning-based water diversion strategy."** Environmental Science and Ecotechnology (2023): 100298.
@@ -263,6 +264,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 
 ## Communication
+- Chafii, Marwa, et al. **"Emergent Communication in Multi-Agent Reinforcement Learning for Future Wireless Networks."** arXiv preprint arXiv:2309.06021 (2023).
 - Zhu, Changxi, Mehdi Dastani, and Shihan Wang. **"A survey of multi-agent reinforcement learning with communication."** arXiv preprint arXiv:2203.08975 (2022).
 - [MASIA] Guan, Cong, et al. **"Efficient Multi-agent Communication via Self-supervised Information Aggregation."** Advances in Neural Information Processing Systems 35 (2022): 1020-1033.
 - Kim, Woojun, Jongeui Park, and Youngchul Sung. **"Communication in multi-agent reinforcement learning: Intention sharing."** International Conference on Learning Representations. 2021.
