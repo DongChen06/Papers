@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- He, Sihong, et al. **"Data-driven distributionally robust electric vehicle balancing for autonomous mobility-on-demand systems under demand and supply uncertainties."** IEEE Transactions on Intelligent Transportation Systems (2023).
 - Chafii, Marwa, et al. **"Emergent Communication in Multi-Agent Reinforcement Learning for Future Wireless Networks."** arXiv preprint arXiv:2309.06021 (2023).
 - Faghri, Fartash, et al. **"Reinforce Data, Multiply Impact: Improved Model Accuracy and Robustness with Dataset Reinforcement."** arXiv preprint arXiv:2303.08983 (2023).
 - Wang, Letian, et al. **"Efficient Reinforcement Learning for Autonomous Driving with Parameterized Skills and Priors."** arXiv preprint arXiv:2305.04412 (2023).
