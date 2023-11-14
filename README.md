@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Guan, Cong, et al. **"Efficient Multi-agent Communication via Self-supervised Information Aggregation."** Advances in Neural Information Processing Systems 35 (2022): 1020-1033.
 - Yuan, William, et al. **"Transformer in Reinforcement Learning for Decision-Making: A Survey."** (2023).
 - He, Sihong, et al. **"Data-driven distributionally robust electric vehicle balancing for autonomous mobility-on-demand systems under demand and supply uncertainties."** IEEE Transactions on Intelligent Transportation Systems (2023).
 - Chafii, Marwa, et al. **"Emergent Communication in Multi-Agent Reinforcement Learning for Future Wireless Networks."** arXiv preprint arXiv:2309.06021 (2023).
@@ -13,12 +14,6 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Chen, Xianda, et al. **"FollowNet: A Comprehensive Benchmark for Car-Following Behavior Modeling."** arXiv preprint arXiv:2306.05381 (2023).
 - Yadavalli, Sushma Reddy, Lokesh Chandra Das, and Myounggyu Won. **"RLPG: Reinforcement Learning Approach for Dynamic Intra-Platoon Gap Adaptation for Highway On-Ramp Merging."** arXiv preprint arXiv:2212.03497 (2022).
 - Zhang, Jifan, et al. **"LabelBench: A Comprehensive Framework for Benchmarking Label-Efficient Learning."** arXiv preprint arXiv:2306.09910 (2023).
-- Zhang, Huiliang, Di Wu, and Benoit Boulet. **"MetaEMS: A Meta Reinforcement Learning-based Control Framework for Building Energy Management System."** arXiv preprint arXiv:2210.12590 (2022).
-- Z. Nagy, G. Henze, S. Dey et al., **Ten questions concerning reinforcement learning for building energy management**, Building and Environment (2023), doi: https://doi.org/10.1016/j.buildenv.2023.110435.
-- Li, Meng, et al. **"Enhancing Cooperation of Vehicle Merging Control in Heavy Traffic Using Communication-Based Soft Actor-Critic Algorithm."** IEEE Transactions on Intelligent Transportation Systems (2022).
-- Andrychowicz, Marcin, et al. **"Hindsight experience replay."** Advances in neural information processing systems 30 (2017).
-- Portelas, Rémy, et al. **"Automatic curriculum learning for deep rl: A short survey."** arXiv preprint arXiv:2003.04664 (2020).
-- Di Palo, Norman, et al. **"Towards A Unified Agent with Foundation Models."** Workshop on Reincarnating Reinforcement Learning at ICLR 2023. 2023.
 
 
 ## Contents
@@ -249,6 +244,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 
 ## Value-based MARL
+- Guan, Cong, et al. **"Efficient Multi-agent Communication via Self-supervised Information Aggregation."** Advances in Neural Information Processing Systems 35 (2022): 1020-1033.
 - VDN (2017): Sunehag, Peter, et al. **"Value-decomposition networks for cooperative multi-agent learning."** arXiv preprint arXiv:1706.05296 (2017).
 - QMIX (2018): Rashid, Tabish, et al. **"QMIX: Monotonic value function factorisation for deep multi-agent reinforcement learning."** arXiv preprint arXiv:1803.11485 (2018).
 - DIAL (2016): Foerster, Jakob, et al. **"Learning to communicate with deep multi-agent reinforcement learning."** Advances in neural information processing systems. 2016.
