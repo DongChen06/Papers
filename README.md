@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Yuan, William, et al. **"Transformer in Reinforcement Learning for Decision-Making: A Survey."** (2023).
 - He, Sihong, et al. **"Data-driven distributionally robust electric vehicle balancing for autonomous mobility-on-demand systems under demand and supply uncertainties."** IEEE Transactions on Intelligent Transportation Systems (2023).
 - Chafii, Marwa, et al. **"Emergent Communication in Multi-Agent Reinforcement Learning for Future Wireless Networks."** arXiv preprint arXiv:2309.06021 (2023).
 - Faghri, Fartash, et al. **"Reinforce Data, Multiply Impact: Improved Model Accuracy and Robustness with Dataset Reinforcement."** arXiv preprint arXiv:2303.08983 (2023).
@@ -242,6 +243,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 # Multi Agent Reinforcement Learning
 
 ## Survey MARL
+- Yuan, William, et al. **"Transformer in Reinforcement Learning for Decision-Making: A Survey."** (2023).
 - Da Silva, Felipe Leno, and Anna Helena Reali Costa. **"A survey on transfer learning for multiagent reinforcement learning systems."** Journal of Artificial Intelligence Research 64 (2019): 645-703.
 - Wong, Annie, et al. **"Multiagent Deep Reinforcement Learning: Challenges and Directions Towards Human-Like Approaches."** arXiv preprint arXiv:2106.15691 (2021).
 
