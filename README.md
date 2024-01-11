@@ -502,7 +502,8 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 
 # Tricks
-## Emsemble
+## Ensemble
+- [Esemble] Du, Xinqi, et al. **"A Contrastive-Enhanced Ensemble Framework for Efficient Multi-Agent Reinforcement Learning."** Expert Systems with Applications (2024): 123158.
 - [Esemble] Lan, Qingfeng, et al. **"Maxmin q-learning: Controlling the estimation bias of q-learning."** arXiv preprint arXiv:2002.06487 (2020).
 - [Esemble] Chen, Xinyue, et al. **"Randomized ensembled double q-learning: Learning fast without a model."** arXiv preprint arXiv:2101.05982 (2021).
 - [Esemble] Hiraoka, Takuya, et al. **"Dropout Q-Functions for Doubly Efficient Reinforcement Learning."** arXiv preprint arXiv:2110.02034 (2021).
