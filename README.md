@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Li, Xinran, and Jun Zhang. **"Context-aware Communication for Multi-agent Reinforcement Learning."** arXiv preprint arXiv:2312.15600 (2023).
 - Gao, Tianyu, Xingcheng Yao, and Danqi Chen. **"Simcse: Simple contrastive learning of sentence embeddings."** arXiv preprint arXiv:2104.08821 (2021).
 - Guan, Cong, et al. **"Efficient Multi-agent Communication via Self-supervised Information Aggregation."** Advances in Neural Information Processing Systems 35 (2022): 1020-1033.
 - Yuan, William, et al. **"Transformer in Reinforcement Learning for Decision-Making: A Survey."** (2023).
@@ -263,6 +264,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 
 ## Communication
+- Li, Xinran, and Jun Zhang. **"Context-aware Communication for Multi-agent Reinforcement Learning."** arXiv preprint arXiv:2312.15600 (2023).
 - Chafii, Marwa, et al. **"Emergent Communication in Multi-Agent Reinforcement Learning for Future Wireless Networks."** arXiv preprint arXiv:2309.06021 (2023).
 - Zhu, Changxi, Mehdi Dastani, and Shihan Wang. **"A survey of multi-agent reinforcement learning with communication."** arXiv preprint arXiv:2203.08975 (2022).
 - [MASIA] Guan, Cong, et al. **"Efficient Multi-agent Communication via Self-supervised Information Aggregation."** Advances in Neural Information Processing Systems 35 (2022): 1020-1033.
