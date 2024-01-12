@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Gao, Tianyu, Xingcheng Yao, and Danqi Chen. **"Simcse: Simple contrastive learning of sentence embeddings."** arXiv preprint arXiv:2104.08821 (2021).
 - Guan, Cong, et al. **"Efficient Multi-agent Communication via Self-supervised Information Aggregation."** Advances in Neural Information Processing Systems 35 (2022): 1020-1033.
 - Yuan, William, et al. **"Transformer in Reinforcement Learning for Decision-Making: A Survey."** (2023).
 - He, Sihong, et al. **"Data-driven distributionally robust electric vehicle balancing for autonomous mobility-on-demand systems under demand and supply uncertainties."** IEEE Transactions on Intelligent Transportation Systems (2023).
@@ -13,8 +14,6 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Chen, Wubing. **"Learning Multi-intersection Traffic Signal Control via Coevolutionary Multi-Agent Reinforcement Learning."** (2023).
 - Chen, Xianda, et al. **"FollowNet: A Comprehensive Benchmark for Car-Following Behavior Modeling."** arXiv preprint arXiv:2306.05381 (2023).
 - Yadavalli, Sushma Reddy, Lokesh Chandra Das, and Myounggyu Won. **"RLPG: Reinforcement Learning Approach for Dynamic Intra-Platoon Gap Adaptation for Highway On-Ramp Merging."** arXiv preprint arXiv:2212.03497 (2022).
-- Zhang, Jifan, et al. **"LabelBench: A Comprehensive Framework for Benchmarking Label-Efficient Learning."** arXiv preprint arXiv:2306.09910 (2023).
-
 
 ## Contents
 * [Reinforcement Learning](#reinforcement-Learning)
@@ -108,6 +107,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 * [Tricks](#tricks)
   * [Emsemble](#emsemble)
   * [Curriculum Learning](#curriculum-learning)
+  * [Contrastive Learning](#contrastive-learning)
   * [Auxiliary Task](#auxiliary-task)
   * [Noise](#noise)
   
@@ -513,6 +513,10 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Chen, Dong, et al. **"Deep multi-agent reinforcement learning for highway on-ramp merging in mixed traffic."** arXiv preprint arXiv:2105.05701 (2021).
 - Liu, Xuan, et al. **"Learning to locomote with artificial neural-network and cpg-based control in a soft snake robot."** 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2020.
 - Zeng, Yilei, et al. **"Human Decision Makings on Curriculum Reinforcement Learning with Difficulty Adjustment."** arXiv preprint arXiv:2208.02932 (2022).
+
+## Contrastive Learning
+- Gao, Tianyu, Xingcheng Yao, and Danqi Chen. **"Simcse: Simple contrastive learning of sentence embeddings."** arXiv preprint arXiv:2104.08821 (2021).
+- Du, Xinqi, et al. **"A Contrastive-Enhanced Ensemble Framework for Efficient Multi-Agent Reinforcement Learning."** Expert Systems with Applications (2024): 123158.
 
 ## Auxiliary Task
 - Zhou,Shumin, et al. **""Auxiliary Task-based Deep Reinforcement Learning for Quantum Control""**, arXiv preprint arXiv:2302.14312 (2023).
