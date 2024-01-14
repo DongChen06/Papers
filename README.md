@@ -106,7 +106,7 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Soft Robots](#soft-robots)
   
 * [Tricks](#tricks)
-  * [Emsemble](#emsemble)
+  * [Ensemble](#ensemble)
   * [Curriculum Learning](#curriculum-learning)
   * [Contrastive Learning](#contrastive-learning)
   * [Auxiliary Task](#auxiliary-task)
