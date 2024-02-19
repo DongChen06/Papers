@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Zhuang, Weiming, Chen Chen, and Lingjuan Lyu. **"When foundation model meets federated learning: Motivations, challenges, and future directions."** arXiv preprint arXiv:2306.15546 (2023).
 - Li, Xinran, and Jun Zhang. **"Context-aware Communication for Multi-agent Reinforcement Learning."** arXiv preprint arXiv:2312.15600 (2023).
 - Gao, Tianyu, Xingcheng Yao, and Danqi Chen. **"Simcse: Simple contrastive learning of sentence embeddings."** arXiv preprint arXiv:2104.08821 (2021).
 - Guan, Cong, et al. **"Efficient Multi-agent Communication via Self-supervised Information Aggregation."** Advances in Neural Information Processing Systems 35 (2022): 1020-1033.
@@ -336,6 +337,7 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 # Computer Vision
 ## Foundation Models
+- Zhuang, Weiming, Chen Chen, and Lingjuan Lyu. **"When foundation model meets federated learning: Motivations, challenges, and future directions."** arXiv preprint arXiv:2306.15546 (2023).
 - Moor, Michael, et al. **"Foundation models for generalist medical artificial intelligence."** Nature 616.7956 (2023): 259-265.
 
 ## Semi Supervised Learning
