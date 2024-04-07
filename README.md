@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Shi, Zhonghao, Ellen Landrum, Amy O. Connell, Mina Kian, Leticia Pinto-Alva, Kaleen Shrestha, Xiaoyuan Zhu, and Maja J. Matarić. **"How Can Large Language Models Enable Better Socially Assistive Human-Robot Interaction: A Brief Survey."** arXiv preprint arXiv:2404.00938 (2024).
 - Zhuang, Weiming, Chen Chen, and Lingjuan Lyu. **"When foundation model meets federated learning: Motivations, challenges, and future directions."** arXiv preprint arXiv:2306.15546 (2023).
 - Li, Xinran, and Jun Zhang. **"Context-aware Communication for Multi-agent Reinforcement Learning."** arXiv preprint arXiv:2312.15600 (2023).
 - Gao, Tianyu, Xingcheng Yao, and Danqi Chen. **"Simcse: Simple contrastive learning of sentence embeddings."** arXiv preprint arXiv:2104.08821 (2021).
@@ -18,6 +19,9 @@ Papers related to machine learning, deep learning and reinforcement learning
 - Yadavalli, Sushma Reddy, Lokesh Chandra Das, and Myounggyu Won. **"RLPG: Reinforcement Learning Approach for Dynamic Intra-Platoon Gap Adaptation for Highway On-Ramp Merging."** arXiv preprint arXiv:2212.03497 (2022).
 
 ## Contents
+* [Large Language Models](#large-language-models)
+  * [LLM Survey](#llm-survey)
+    
 * [Reinforcement Learning](#reinforcement-Learning)
   * [Survey](#survey)
   * [Value-based](#value-based)
@@ -117,6 +121,12 @@ Papers related to machine learning, deep learning and reinforcement learning
   * [Multi-agent Systems](#multi-agent-systems)
   * [Smart Agriculture](#smart-agriculture)
   * [Reinforcement Learning](#reinforcement-learning)
+
+
+# Large Language Models
+
+## LLM Survey
+- Shi, Zhonghao, Ellen Landrum, Amy O. Connell, Mina Kian, Leticia Pinto-Alva, Kaleen Shrestha, Xiaoyuan Zhu, and Maja J. Matarić. "How Can Large Language Models Enable Better Socially Assistive Human-Robot Interaction: A Brief Survey." arXiv preprint arXiv:2404.00938 (2024).
 
 # Reinforcement Learning
 ## Survey
