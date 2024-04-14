@@ -2,6 +2,7 @@
 Papers related to machine learning, deep learning and reinforcement learning
 
 # Fresh Papers
+- Li, Yuecheng, Hongwen He, Amir Khajepour, Yong Chen, Weiwei Huo, and Hao Wang. **"Deep reinforcement learning for intelligent energy management systems of hybrid-electric powertrains: Recent advances, open issues, and prospects."** IEEE Transactions on Transportation Electrification (2024).
 - Shi, Zhonghao, Ellen Landrum, Amy O. Connell, Mina Kian, Leticia Pinto-Alva, Kaleen Shrestha, Xiaoyuan Zhu, and Maja J. Matarić. **"How Can Large Language Models Enable Better Socially Assistive Human-Robot Interaction: A Brief Survey."** arXiv preprint arXiv:2404.00938 (2024).
 - Zhuang, Weiming, Chen Chen, and Lingjuan Lyu. **"When foundation model meets federated learning: Motivations, challenges, and future directions."** arXiv preprint arXiv:2306.15546 (2023).
 - Li, Xinran, and Jun Zhang. **"Context-aware Communication for Multi-agent Reinforcement Learning."** arXiv preprint arXiv:2312.15600 (2023).
@@ -547,4 +548,5 @@ Papers related to machine learning, deep learning and reinforcement learning
 
 ## Reinforcement Learning
 - Das, Lokesh Chandra, and Myounggyu Won. **"Saint-acc: Safety-aware intelligent adaptive cruise control for autonomous vehicles using deep reinforcement learning."** International Conference on Machine Learning. PMLR, 2021.
+- Li, Yuecheng, Hongwen He, Amir Khajepour, Yong Chen, Weiwei Huo, and Hao Wang. **"Deep reinforcement learning for intelligent energy management systems of hybrid-electric powertrains: Recent advances, open issues, and prospects."** IEEE Transactions on Transportation Electrification (2024).
 
