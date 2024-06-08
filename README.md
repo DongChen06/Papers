@@ -1,5 +1,9 @@
 # Papers
-Papers related to machine learning, deep learning and reinforcement learning
+Papers related to machine learning, deep learning, and reinforcement learning.
+
+A good way to track the paper reading may be through google docs?
+- LLMs/FMs: [Google doc](https://docs.google.com/document/d/10LyjAvKb8kFaFYMijqM5pFcoKeOakiRQxLG0rXWHhtg/edit?usp=sharing)
+
 
 # Fresh Papers
 - Li, Yuecheng, Hongwen He, Amir Khajepour, Yong Chen, Weiwei Huo, and Hao Wang. **"Deep reinforcement learning for intelligent energy management systems of hybrid-electric powertrains: Recent advances, open issues, and prospects."** IEEE Transactions on Transportation Electrification (2024).
