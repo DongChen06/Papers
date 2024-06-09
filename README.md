@@ -4,6 +4,10 @@ Papers related to machine learning, deep learning, and reinforcement learning.
 A good way to track the paper reading may be through google docs?
 - LLMs/FMs: [Google doc](https://docs.google.com/document/d/10LyjAvKb8kFaFYMijqM5pFcoKeOakiRQxLG0rXWHhtg/edit?usp=sharing)
 - Computer Vision [Google doc](https://docs.google.com/document/d/1hPYpAL-tMsVJr_kpHm9ZoqYlXL7HNgKPENKJW9A1NzU/edit?usp=sharing)
+- (Multi-agent) Reinforcement Learning [Google doc]()
+- Smart Agriculture [Google doc]()
+- Robotics [Google doc]()
+- 
 
 # Fresh Papers
 - Li, Yuecheng, Hongwen He, Amir Khajepour, Yong Chen, Weiwei Huo, and Hao Wang. **"Deep reinforcement learning for intelligent energy management systems of hybrid-electric powertrains: Recent advances, open issues, and prospects."** IEEE Transactions on Transportation Electrification (2024).
