@@ -7,6 +7,7 @@ A good way to track the paper reading may be through google docs?
 - (Multi-agent) Reinforcement Learning: [Google doc]()
 - Smart Agriculture: [Google doc]()
 - Robotics: [Google doc]()
+- Time-series Models: [Google doc](https://docs.google.com/document/d/1EF6r84Xd82ohaqNysZK8Q1Ff6TTXGT87XX5KW-yeuzs/edit?usp=sharing)
 
 # Fresh Papers
 - Li, Yuecheng, Hongwen He, Amir Khajepour, Yong Chen, Weiwei Huo, and Hao Wang. **"Deep reinforcement learning for intelligent energy management systems of hybrid-electric powertrains: Recent advances, open issues, and prospects."** IEEE Transactions on Transportation Electrification (2024).
