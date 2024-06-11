@@ -5,7 +5,8 @@ A good way to track the paper reading may be through google docs?
 - LLMs/FMs: [Google doc](https://docs.google.com/document/d/10LyjAvKb8kFaFYMijqM5pFcoKeOakiRQxLG0rXWHhtg/edit?usp=sharing)
 - Computer Vision: [Google doc](https://docs.google.com/document/d/1hPYpAL-tMsVJr_kpHm9ZoqYlXL7HNgKPENKJW9A1NzU/edit?usp=sharing)
 - (Multi-agent) Reinforcement Learning: [Google doc]()
-- Smart Agriculture: [Google doc]()
+- Autonomous Driving: [Google doc]()
+- Smart Agriculture: [Google doc](https://docs.google.com/document/d/1Af4HnNgPOLogEsSMNJCZFtwT_ogHgQ_Jjj_nPe_8QWs/edit?usp=sharing)
 - Robotics: [Google doc]()
 - Time-series Models: [Google doc](https://docs.google.com/document/d/1EF6r84Xd82ohaqNysZK8Q1Ff6TTXGT87XX5KW-yeuzs/edit?usp=sharing)
 
