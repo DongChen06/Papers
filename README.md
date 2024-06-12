@@ -8,7 +8,7 @@ A good way to track the paper reading may be through google docs?
 - Autonomous Driving: [Google doc]()
 - Smart Agriculture: [Google doc](https://docs.google.com/document/d/1Af4HnNgPOLogEsSMNJCZFtwT_ogHgQ_Jjj_nPe_8QWs/edit?usp=sharing)
 - Robotics: [Google doc]()
-- Power Systems: [Google doc](https://docs.google.com/document/d/16jDfJid8J3ICNhswkaWYIVFpH70KaVBnNeGRQF4AkbU/edit)
+- Power Systems: [Google doc](https://docs.google.com/document/d/16jDfJid8J3ICNhswkaWYIVFpH70KaVBnNeGRQF4AkbU/edit?usp=sharing))
 - Time-series Models: [Google doc](https://docs.google.com/document/d/1EF6r84Xd82ohaqNysZK8Q1Ff6TTXGT87XX5KW-yeuzs/edit?usp=sharing)
 
 # Fresh Papers
