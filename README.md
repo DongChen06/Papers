@@ -10,6 +10,7 @@ A good way to track the paper reading may be through google docs?
 - Robotics: [Google doc]()
 - Power Systems: [Google doc](https://docs.google.com/document/d/16jDfJid8J3ICNhswkaWYIVFpH70KaVBnNeGRQF4AkbU/edit?usp=sharing)
 - Time-series Models: [Google doc](https://docs.google.com/document/d/1EF6r84Xd82ohaqNysZK8Q1Ff6TTXGT87XX5KW-yeuzs/edit?usp=sharing)
+- General Research Ideas: [Google doc]([https://docs.google.com/document/d/1v7LCsCPqzpOu4p8ycwkVBMUbrzWGYR-g/edit?usp=sharing&ouid=116146847534767871385&rtpof=true&sd=true](https://docs.google.com/document/d/1v7LCsCPqzpOu4p8ycwkVBMUbrzWGYR-g/edit))
 
 # Fresh Papers
 - Li, Yuecheng, Hongwen He, Amir Khajepour, Yong Chen, Weiwei Huo, and Hao Wang. **"Deep reinforcement learning for intelligent energy management systems of hybrid-electric powertrains: Recent advances, open issues, and prospects."** IEEE Transactions on Transportation Electrification (2024).
