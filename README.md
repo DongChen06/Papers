@@ -4,7 +4,7 @@ Papers related to machine learning, deep learning, and reinforcement learning.
 A good way to track the paper reading may be through google docs?
 - LLMs/FMs: [Google doc](https://docs.google.com/document/d/10LyjAvKb8kFaFYMijqM5pFcoKeOakiRQxLG0rXWHhtg/edit?usp=sharing)
 - Computer Vision: [Google doc](https://docs.google.com/document/d/1hPYpAL-tMsVJr_kpHm9ZoqYlXL7HNgKPENKJW9A1NzU/edit?usp=sharing)
-- (Multi-agent) Reinforcement Learning: [Google doc]()
+- (Multi-agent) Reinforcement Learning: [Google doc](https://docs.google.com/document/d/1dogKHumtd4jlL8_Pcptat8ExM9TpRZDe3xQlxwmA9xQ/edit?usp=sharing)
 - Autonomous Driving: [Google doc]()
 - Smart Agriculture: [Google doc](https://docs.google.com/document/d/1Af4HnNgPOLogEsSMNJCZFtwT_ogHgQ_Jjj_nPe_8QWs/edit?usp=sharing)
 - Robotics: [Google doc]()
