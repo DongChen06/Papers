@@ -7,7 +7,7 @@ A good way to track the paper reading may be through google docs?
 - (Multi-agent) Reinforcement Learning: [Google doc](https://docs.google.com/document/d/1dogKHumtd4jlL8_Pcptat8ExM9TpRZDe3xQlxwmA9xQ/edit?usp=sharing)
 - Autonomous Driving: [Google doc]()
 - Smart Agriculture: [Google doc](https://docs.google.com/document/d/1Af4HnNgPOLogEsSMNJCZFtwT_ogHgQ_Jjj_nPe_8QWs/edit?usp=sharing)
-- Robotics: [Google doc]()
+- Robotics: [Google doc](https://docs.google.com/document/d/1qibziX1U-n64Bg-9TGc8i8hfYX5toeumTMfZNnTdquw/edit?usp=sharing)
 - Power Systems: [Google doc](https://docs.google.com/document/d/16jDfJid8J3ICNhswkaWYIVFpH70KaVBnNeGRQF4AkbU/edit?usp=sharing)
 - Time-series Models: [Google doc](https://docs.google.com/document/d/1EF6r84Xd82ohaqNysZK8Q1Ff6TTXGT87XX5KW-yeuzs/edit?usp=sharing)
 - General Research Ideas: [Google doc](https://docs.google.com/document/d/1v7LCsCPqzpOu4p8ycwkVBMUbrzWGYR-g/edit?usp=sharing&ouid=116146847534767871385&rtpof=true&sd=true)
