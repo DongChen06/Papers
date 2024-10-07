@@ -2,15 +2,15 @@
 Papers related to machine learning, deep learning, and reinforcement learning.
 
 A good way to track the paper reading may be through google docs?
-- LLMs/FMs: [Google doc](https://docs.google.com/document/d/10LyjAvKb8kFaFYMijqM5pFcoKeOakiRQxLG0rXWHhtg/edit?usp=sharing)
-- Computer Vision: [Google doc](https://docs.google.com/document/d/1hPYpAL-tMsVJr_kpHm9ZoqYlXL7HNgKPENKJW9A1NzU/edit?usp=sharing)
-- (Multi-agent) Reinforcement Learning: [Google doc](https://docs.google.com/document/d/1dogKHumtd4jlL8_Pcptat8ExM9TpRZDe3xQlxwmA9xQ/edit?usp=sharing)
-- Autonomous Driving: [Google doc](https://docs.google.com/document/d/1sWfj3T-_d5-Q_Ud_WB9ouDPI8zrBO_d3cpuQx1LWzrg/edit?usp=sharing)
-- Smart Agriculture: [Google doc](https://docs.google.com/document/d/1Af4HnNgPOLogEsSMNJCZFtwT_ogHgQ_Jjj_nPe_8QWs/edit?usp=sharing)
-- Robotics: [Google doc](https://docs.google.com/document/d/1qibziX1U-n64Bg-9TGc8i8hfYX5toeumTMfZNnTdquw/edit?usp=sharing)
-- Power Systems: [Google doc](https://docs.google.com/document/d/16jDfJid8J3ICNhswkaWYIVFpH70KaVBnNeGRQF4AkbU/edit?usp=sharing)
-- Time-series Models: [Google doc](https://docs.google.com/document/d/1EF6r84Xd82ohaqNysZK8Q1Ff6TTXGT87XX5KW-yeuzs/edit?usp=sharing)
-- General Research Ideas: [Google doc](https://docs.google.com/document/d/1v7LCsCPqzpOu4p8ycwkVBMUbrzWGYR-g/edit?usp=sharing&ouid=116146847534767871385&rtpof=true&sd=true)
+- LLMs/FMs: [Google doc](https://docs.google.com/document/d/10LyjAvKb8kFaFYMijqM5pFcoKeOakiRQxLG0rXWHhtg/edit?usp=sharing) [Lastly updated: 10/06/2024]
+- Computer Vision: [Google doc](https://docs.google.com/document/d/1hPYpAL-tMsVJr_kpHm9ZoqYlXL7HNgKPENKJW9A1NzU/edit?usp=sharing) [Lastly updated: 10/06/2024]
+- (Multi-agent) Reinforcement Learning: [Google doc](https://docs.google.com/document/d/1dogKHumtd4jlL8_Pcptat8ExM9TpRZDe3xQlxwmA9xQ/edit?usp=sharing) [Lastly updated: 10/06/2024]
+- Autonomous Driving: [Google doc](https://docs.google.com/document/d/1sWfj3T-_d5-Q_Ud_WB9ouDPI8zrBO_d3cpuQx1LWzrg/edit?usp=sharing) [Lastly updated: 10/06/2024]
+- Smart Agriculture: [Google doc](https://docs.google.com/document/d/1Af4HnNgPOLogEsSMNJCZFtwT_ogHgQ_Jjj_nPe_8QWs/edit?usp=sharing) [Lastly updated: 10/06/2024]
+- Robotics: [Google doc](https://docs.google.com/document/d/1qibziX1U-n64Bg-9TGc8i8hfYX5toeumTMfZNnTdquw/edit?usp=sharing) [Lastly updated: 10/06/2024]
+- Power Systems: [Google doc](https://docs.google.com/document/d/16jDfJid8J3ICNhswkaWYIVFpH70KaVBnNeGRQF4AkbU/edit?usp=sharing) [Lastly updated: 10/06/2024]
+- Time-series Models: [Google doc](https://docs.google.com/document/d/1EF6r84Xd82ohaqNysZK8Q1Ff6TTXGT87XX5KW-yeuzs/edit?usp=sharing) [Lastly updated: 10/06/2024]
+- General Research Ideas: [Google doc](https://docs.google.com/document/d/1v7LCsCPqzpOu4p8ycwkVBMUbrzWGYR-g/edit?usp=sharing&ouid=116146847534767871385&rtpof=true&sd=true) [Lastly updated: 10/06/2024]
 
 # Fresh Papers
 - Li, Yuecheng, Hongwen He, Amir Khajepour, Yong Chen, Weiwei Huo, and Hao Wang. **"Deep reinforcement learning for intelligent energy management systems of hybrid-electric powertrains: Recent advances, open issues, and prospects."** IEEE Transactions on Transportation Electrification (2024).
