@@ -10,6 +10,7 @@ A good way to track the paper reading may be through google docs?
 - Robotics: [Google doc](https://docs.google.com/document/d/1qibziX1U-n64Bg-9TGc8i8hfYX5toeumTMfZNnTdquw/edit?usp=sharing) [Lastly updated: 10/18/2024]
 - Power Systems: [Google doc](https://docs.google.com/document/d/16jDfJid8J3ICNhswkaWYIVFpH70KaVBnNeGRQF4AkbU/edit?usp=sharing) [Lastly updated: 10/06/2024]
 - Time-series Models: [Google doc](https://docs.google.com/document/d/1EF6r84Xd82ohaqNysZK8Q1Ff6TTXGT87XX5KW-yeuzs/edit?usp=sharing) [Lastly updated: 10/06/2024]
+- Good Tutorials: [Google doc](https://docs.google.com/document/d/1oAS0gmIb5XE-6HROiC-pua3zXn5pA1dg8ecpUSXguA4/edit?usp=sharing)
 - General Research Ideas: [Google doc](https://docs.google.com/document/d/1v7LCsCPqzpOu4p8ycwkVBMUbrzWGYR-g/edit?usp=sharing&ouid=116146847534767871385&rtpof=true&sd=true) [Lastly updated: 10/06/2024]
 
 # Fresh Papers
